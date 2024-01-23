@@ -1,0 +1,414 @@
+Saving models...
+Image: 0 (7.14s) | Score: -609.018 (Repetitions: 32) | Time steps: 48 | Learning steps: 0
+First 10 actions: [8, 10, 10, 3, 15, 0, 1, 6, 12, 12]
+Image: 1 (38.82s) | Score: -724.313 (Repetitions: 37) | Time steps: 101 | Learning steps: 1
+First 10 actions: [1, 13, 6, 0, 9, 11, 13, 4, 13, 3]
+Image: 2 (41.16s) | Score: -894.149 (Repetitions: 45) | Time steps: 162 | Learning steps: 2
+First 10 actions: [8, 13, 6, 14, 7, 7, 14, 4, 7, 0]
+Image: 3 (42.50s) | Score: -1536.775 (Repetitions: 78) | Time steps: 256 | Learning steps: 3
+First 10 actions: [0, 3, 9, 14, 10, 9, 12, 9, 0, 10]
+Saving models...
+Image: 4 (5.31s) | Score: -306.469 (Repetitions: 16) | Time steps: 288 | Learning steps: 3
+First 10 actions: [8, 14, 8, 15, 4, 10, 2, 5, 12, 9]
+Image: 5 (39.19s) | Score: -388.617 (Repetitions: 22) | Time steps: 326 | Learning steps: 4
+First 10 actions: [14, 11, 9, 10, 6, 11, 0, 5, 8, 7]
+Image: 6 (6.60s) | Score: -592.056 (Repetitions: 31) | Time steps: 373 | Learning steps: 4
+First 10 actions: [9, 12, 2, 12, 3, 14, 6, 7, 0, 0]
+Image: 7 (41.94s) | Score: -611.411 (Repetitions: 32) | Time steps: 421 | Learning steps: 5
+First 10 actions: [2, 10, 14, 3, 12, 0, 15, 14, 3, 12]
+Image: 8 (39.23s) | Score: -823.742 (Repetitions: 43) | Time steps: 480 | Learning steps: 6
+First 10 actions: [14, 11, 5, 14, 13, 5, 11, 7, 11, 2]
+Image: 9 (6.13s) | Score: -579.583 (Repetitions: 30) | Time steps: 526 | Learning steps: 6
+First 10 actions: [5, 12, 14, 10, 0, 9, 6, 3, 5, 2]
+Image: 10 (40.20s) | Score: -1045.460 (Repetitions: 53) | Time steps: 595 | Learning steps: 7
+First 10 actions: [15, 9, 5, 9, 5, 15, 14, 5, 12, 9]
+Image: 11 (39.23s) | Score: -708.994 (Repetitions: 36) | Time steps: 647 | Learning steps: 8
+First 10 actions: [3, 14, 4, 1, 14, 12, 13, 9, 9, 15]
+Image: 12 (7.37s) | Score: -783.743 (Repetitions: 41) | Time steps: 704 | Learning steps: 8
+First 10 actions: [9, 4, 7, 10, 5, 6, 8, 0, 3, 7]
+Saving models...
+Image: 13 (36.30s) | Score: -203.653 (Repetitions: 12) | Time steps: 732 | Learning steps: 9
+First 10 actions: [5, 10, 15, 9, 6, 14, 6, 7, 4, 10]
+Image: 14 (4.50s) | Score: -212.272 (Repetitions: 11) | Time steps: 759 | Learning steps: 9
+First 10 actions: [0, 5, 1, 8, 6, 3, 4, 14, 9, 7]
+Saving models...
+Image: 15 (3.70s) | Score: -72.161 (Repetitions: 4) | Time steps: 779 | Learning steps: 9
+First 10 actions: [1, 0, 8, 7, 6, 2, 2, 3, 4, 15]
+Image: 16 (38.39s) | Score: -379.707 (Repetitions: 20) | Time steps: 815 | Learning steps: 10
+First 10 actions: [8, 0, 3, 11, 1, 14, 9, 11, 6, 5]
+Image: 17 (4.70s) | Score: -275.983 (Repetitions: 15) | Time steps: 846 | Learning steps: 10
+First 10 actions: [0, 14, 11, 5, 13, 12, 12, 1, 6, 1]
+Image: 18 (4.50s) | Score: -194.380 (Repetitions: 13) | Time steps: 875 | Learning steps: 10
+First 10 actions: [10, 1, 1, 0, 12, 9, 11, 2, 14, 13]
+Image: 19 (41.40s) | Score: -589.908 (Repetitions: 30) | Time steps: 921 | Learning steps: 11
+First 10 actions: [6, 6, 6, 12, 8, 15, 5, 1, 3, 11]
+Image: 20 (5.93s) | Score: -387.416 (Repetitions: 21) | Time steps: 958 | Learning steps: 11
+First 10 actions: [5, 10, 7, 5, 1, 2, 7, 3, 8, 15]
+Image: 21 (40.59s) | Score: -950.503 (Repetitions: 48) | Time steps: 1022 | Learning steps: 12
+First 10 actions: [4, 8, 7, 9, 5, 7, 3, 4, 12, 0]
+Image: 22 (38.91s) | Score: -439.917 (Repetitions: 23) | Time steps: 1061 | Learning steps: 13
+First 10 actions: [6, 0, 5, 3, 11, 9, 12, 0, 4, 2]
+Image: 23 (5.17s) | Score: -293.036 (Repetitions: 15) | Time steps: 1092 | Learning steps: 13
+First 10 actions: [5, 13, 3, 7, 4, 3, 0, 14, 8, 1]
+Image: 24 (4.89s) | Score: -193.656 (Repetitions: 11) | Time steps: 1119 | Learning steps: 13
+First 10 actions: [9, 1, 6, 4, 12, 5, 2, 7, 1, 0]
+Image: 25 (36.10s) | Score: -342.767 (Repetitions: 18) | Time steps: 1153 | Learning steps: 14
+First 10 actions: [5, 8, 1, 9, 5, 10, 14, 12, 3, 4]
+Image: 26 (4.71s) | Score: -231.757 (Repetitions: 12) | Time steps: 1181 | Learning steps: 14
+First 10 actions: [6, 8, 1, 2, 5, 0, 2, 9, 7, 12]
+Image: 27 (41.59s) | Score: -470.993 (Repetitions: 24) | Time steps: 1221 | Learning steps: 15
+First 10 actions: [0, 14, 2, 3, 5, 6, 4, 3, 15, 9]
+Image: 28 (4.50s) | Score: -185.893 (Repetitions: 10) | Time steps: 1247 | Learning steps: 15
+First 10 actions: [0, 7, 9, 6, 9, 7, 9, 1, 2, 13]
+Image: 29 (4.60s) | Score: -236.617 (Repetitions: 14) | Time steps: 1277 | Learning steps: 15
+First 10 actions: [15, 11, 9, 15, 8, 6, 8, 0, 11, 10]
+Image: 30 (36.54s) | Score: -228.265 (Repetitions: 12) | Time steps: 1305 | Learning steps: 16
+First 10 actions: [15, 1, 1, 3, 12, 5, 5, 4, 7, 2]
+Image: 31 (6.87s) | Score: -628.652 (Repetitions: 32) | Time steps: 1353 | Learning steps: 16
+First 10 actions: [7, 1, 8, 5, 7, 2, 4, 3, 11, 0]
+Image: 32 (37.89s) | Score: -257.356 (Repetitions: 15) | Time steps: 1384 | Learning steps: 17
+First 10 actions: [9, 6, 10, 7, 2, 1, 13, 5, 4, 0]
+Image: 33 (6.60s) | Score: -685.206 (Repetitions: 35) | Time steps: 1435 | Learning steps: 17
+First 10 actions: [5, 0, 9, 6, 1, 7, 6, 13, 7, 10]
+Image: 34 (40.73s) | Score: -350.455 (Repetitions: 18) | Time steps: 1469 | Learning steps: 18
+First 10 actions: [14, 1, 1, 5, 2, 0, 6, 1, 5, 9]
+Image: 35 (3.76s) | Score: -103.143 (Repetitions: 6) | Time steps: 1491 | Learning steps: 18
+First 10 actions: [14, 9, 1, 5, 14, 4, 6, 4, 3, 7]
+Image: 36 (39.00s) | Score: -643.462 (Repetitions: 34) | Time steps: 1541 | Learning steps: 19
+First 10 actions: [2, 11, 13, 3, 5, 12, 0, 13, 15, 6]
+Image: 37 (6.00s) | Score: -502.385 (Repetitions: 26) | Time steps: 1583 | Learning steps: 19
+First 10 actions: [1, 2, 9, 5, 6, 3, 10, 1, 7, 5]
+Image: 38 (36.73s) | Score: -297.613 (Repetitions: 16) | Time steps: 1615 | Learning steps: 20
+First 10 actions: [6, 3, 5, 2, 9, 11, 10, 5, 1, 7]
+Image: 39 (5.47s) | Score: -342.410 (Repetitions: 18) | Time steps: 1649 | Learning steps: 20
+First 10 actions: [4, 0, 9, 2, 0, 3, 11, 6, 3, 0]
+Image: 40 (4.63s) | Score: -209.631 (Repetitions: 14) | Time steps: 1679 | Learning steps: 20
+First 10 actions: [11, 7, 3, 7, 4, 2, 9, 5, 1, 0]
+Image: 41 (35.16s) | Score: -100.945 (Repetitions: 6) | Time steps: 1701 | Learning steps: 21
+First 10 actions: [5, 0, 9, 15, 1, 4, 1, 10, 8, 3]
+Saving models...
+Image: 42 (3.61s) | Score: -61.160 (Repetitions: 4) | Time steps: 1721 | Learning steps: 21
+First 10 actions: [5, 13, 6, 2, 10, 1, 9, 3, 0, 4]
+Image: 43 (4.89s) | Score: -190.763 (Repetitions: 13) | Time steps: 1750 | Learning steps: 21
+First 10 actions: [10, 9, 5, 1, 4, 2, 8, 9, 1, 0]
+Image: 44 (36.93s) | Score: -376.189 (Repetitions: 20) | Time steps: 1786 | Learning steps: 22
+First 10 actions: [1, 8, 5, 11, 9, 3, 4, 7, 0, 2]
+Image: 45 (3.67s) | Score: -77.898 (Repetitions: 5) | Time steps: 1807 | Learning steps: 22
+First 10 actions: [5, 12, 4, 11, 0, 15, 8, 7, 3, 1]
+Image: 46 (5.04s) | Score: -249.088 (Repetitions: 14) | Time steps: 1837 | Learning steps: 22
+First 10 actions: [9, 5, 6, 4, 0, 13, 1, 2, 1, 10]
+Image: 47 (36.26s) | Score: -353.364 (Repetitions: 18) | Time steps: 1871 | Learning steps: 23
+First 10 actions: [0, 8, 5, 3, 15, 3, 6, 13, 9, 1]
+Image: 48 (5.80s) | Score: -511.325 (Repetitions: 26) | Time steps: 1913 | Learning steps: 23
+First 10 actions: [12, 6, 8, 1, 0, 14, 5, 3, 2, 5]
+Image: 49 (37.40s) | Score: -461.914 (Repetitions: 26) | Time steps: 1955 | Learning steps: 24
+First 10 actions: [10, 2, 13, 0, 8, 4, 7, 6, 15, 1]
+Image: 50 (4.02s) | Score: -79.655 (Repetitions: 5) | Time steps: 1976 | Learning steps: 24
+First 10 actions: [13, 0, 4, 8, 11, 3, 1, 10, 12, 7]
+Image: 51 (36.88s) | Score: -312.444 (Repetitions: 17) | Time steps: 2009 | Learning steps: 25
+First 10 actions: [1, 3, 10, 5, 5, 9, 10, 9, 7, 11]
+Image: 52 (5.10s) | Score: -246.557 (Repetitions: 14) | Time steps: 2039 | Learning steps: 25
+First 10 actions: [2, 10, 5, 13, 2, 1, 9, 6, 8, 0]
+Image: 53 (5.90s) | Score: -436.349 (Repetitions: 23) | Time steps: 2078 | Learning steps: 25
+First 10 actions: [5, 3, 10, 10, 2, 1, 12, 9, 4, 6]
+Image: 54 (36.70s) | Score: -386.040 (Repetitions: 20) | Time steps: 2114 | Learning steps: 26
+First 10 actions: [13, 5, 15, 9, 1, 3, 0, 8, 11, 13]
+Saving models...
+Image: 55 (4.21s) | Score: -35.225 (Repetitions: 6) | Time steps: 2136 | Learning steps: 26
+First 10 actions: [11, 12, 10, 1, 9, 6, 2, 5, 0, 15]
+Image: 56 (36.59s) | Score: -343.907 (Repetitions: 18) | Time steps: 2170 | Learning steps: 27
+First 10 actions: [15, 14, 7, 1, 10, 4, 6, 7, 5, 15]
+Image: 57 (7.23s) | Score: -703.619 (Repetitions: 36) | Time steps: 2222 | Learning steps: 27
+First 10 actions: [5, 1, 0, 6, 9, 7, 11, 9, 5, 12]
+Image: 58 (43.77s) | Score: -1097.595 (Repetitions: 56) | Time steps: 2294 | Learning steps: 28
+First 10 actions: [5, 1, 9, 8, 10, 3, 7, 14, 5, 0]
+Image: 59 (37.89s) | Score: -309.614 (Repetitions: 17) | Time steps: 2327 | Learning steps: 29
+First 10 actions: [6, 10, 4, 6, 6, 1, 1, 14, 4, 5]
+Image: 60 (3.90s) | Score: -50.483 (Repetitions: 4) | Time steps: 2347 | Learning steps: 29
+First 10 actions: [12, 9, 5, 10, 4, 8, 7, 0, 2, 15]
+Image: 61 (3.53s) | Score: -85.208 (Repetitions: 6) | Time steps: 2369 | Learning steps: 29
+First 10 actions: [8, 10, 5, 3, 7, 0, 5, 1, 9, 5]
+Image: 62 (37.67s) | Score: -419.957 (Repetitions: 24) | Time steps: 2409 | Learning steps: 30
+First 10 actions: [10, 1, 0, 8, 6, 4, 2, 3, 14, 9]
+Image: 63 (3.54s) | Score: -62.479 (Repetitions: 4) | Time steps: 2429 | Learning steps: 30
+First 10 actions: [8, 5, 6, 0, 1, 10, 3, 9, 4, 9]
+Image: 64 (4.26s) | Score: -224.255 (Repetitions: 12) | Time steps: 2457 | Learning steps: 30
+First 10 actions: [13, 0, 9, 8, 1, 6, 5, 3, 2, 12]
+Image: 65 (3.43s) | Score: -85.302 (Repetitions: 5) | Time steps: 2478 | Learning steps: 30
+First 10 actions: [5, 1, 5, 9, 3, 7, 14, 4, 15, 11]
+Image: 66 (36.76s) | Score: -76.917 (Repetitions: 6) | Time steps: 2500 | Learning steps: 31
+First 10 actions: [6, 11, 9, 5, 1, 0, 4, 3, 2, 8]
+Image: 67 (4.20s) | Score: -120.666 (Repetitions: 7) | Time steps: 2523 | Learning steps: 31
+First 10 actions: [5, 9, 3, 0, 2, 5, 8, 6, 4, 13]
+Image: 68 (5.20s) | Score: -238.879 (Repetitions: 14) | Time steps: 2553 | Learning steps: 31
+First 10 actions: [5, 11, 9, 5, 0, 13, 4, 6, 8, 11]
+Image: 69 (40.10s) | Score: -164.394 (Repetitions: 9) | Time steps: 2578 | Learning steps: 32
+First 10 actions: [5, 1, 9, 9, 7, 0, 9, 8, 4, 1]
+Image: 70 (4.50s) | Score: -150.130 (Repetitions: 10) | Time steps: 2604 | Learning steps: 32
+First 10 actions: [9, 10, 2, 5, 1, 0, 9, 4, 10, 6]
+Image: 71 (4.30s) | Score: -79.680 (Repetitions: 7) | Time steps: 2627 | Learning steps: 32
+First 10 actions: [10, 5, 8, 0, 7, 6, 9, 4, 7, 3]
+Image: 72 (35.90s) | Score: -58.009 (Repetitions: 4) | Time steps: 2647 | Learning steps: 33
+First 10 actions: [5, 9, 1, 0, 13, 7, 4, 11, 12, 6]
+Image: 73 (5.00s) | Score: -246.358 (Repetitions: 14) | Time steps: 2677 | Learning steps: 33
+First 10 actions: [6, 0, 11, 9, 4, 7, 10, 13, 8, 5]
+Image: 74 (3.93s) | Score: -83.877 (Repetitions: 6) | Time steps: 2699 | Learning steps: 33
+First 10 actions: [7, 10, 5, 9, 1, 4, 6, 0, 15, 3]
+Saving models...
+Image: 75 (3.78s) | Score: 54.376 (Repetitions: 2) | Time steps: 2717 | Learning steps: 33
+First 10 actions: [11, 10, 5, 9, 13, 7, 6, 4, 0, 3]
+Image: 76 (35.59s) | Score: -153.997 (Repetitions: 11) | Time steps: 2744 | Learning steps: 34
+First 10 actions: [10, 5, 9, 0, 7, 1, 4, 8, 6, 2]
+Image: 77 (3.40s) | Score: -40.011 (Repetitions: 3) | Time steps: 2763 | Learning steps: 34
+First 10 actions: [5, 9, 1, 0, 9, 6, 3, 13, 7, 10]
+Image: 78 (3.90s) | Score: -86.093 (Repetitions: 8) | Time steps: 2787 | Learning steps: 34
+First 10 actions: [11, 6, 9, 5, 0, 2, 7, 13, 1, 8]
+Image: 79 (39.90s) | Score: -262.730 (Repetitions: 14) | Time steps: 2817 | Learning steps: 35
+First 10 actions: [1, 5, 6, 9, 12, 4, 2, 0, 10, 3]
+Image: 80 (4.40s) | Score: -198.563 (Repetitions: 11) | Time steps: 2844 | Learning steps: 35
+First 10 actions: [0, 1, 6, 10, 9, 4, 4, 7, 12, 2]
+Image: 81 (4.03s) | Score: -141.941 (Repetitions: 8) | Time steps: 2868 | Learning steps: 35
+First 10 actions: [8, 14, 9, 2, 6, 4, 0, 10, 5, 6]
+Image: 82 (36.96s) | Score: -263.415 (Repetitions: 17) | Time steps: 2901 | Learning steps: 36
+First 10 actions: [10, 7, 11, 10, 1, 7, 5, 9, 6, 9]
+Image: 83 (4.34s) | Score: -247.875 (Repetitions: 13) | Time steps: 2930 | Learning steps: 36
+First 10 actions: [14, 5, 2, 9, 13, 6, 0, 1, 4, 3]
+Image: 84 (3.59s) | Score: -102.836 (Repetitions: 6) | Time steps: 2952 | Learning steps: 36
+First 10 actions: [5, 9, 4, 6, 3, 13, 7, 6, 0, 9]
+Image: 85 (37.57s) | Score: -504.131 (Repetitions: 29) | Time steps: 2997 | Learning steps: 37
+First 10 actions: [10, 5, 9, 11, 7, 6, 0, 9, 13, 4]
+Image: 86 (4.83s) | Score: -258.258 (Repetitions: 14) | Time steps: 3027 | Learning steps: 37
+First 10 actions: [1, 5, 9, 3, 4, 11, 13, 5, 7, 8]
+Image: 87 (38.27s) | Score: -253.206 (Repetitions: 14) | Time steps: 3057 | Learning steps: 38
+First 10 actions: [5, 9, 7, 13, 11, 0, 6, 5, 1, 2]
+Image: 88 (4.34s) | Score: -123.156 (Repetitions: 8) | Time steps: 3081 | Learning steps: 38
+First 10 actions: [5, 2, 11, 10, 0, 8, 12, 1, 3, 4]
+Image: 89 (5.25s) | Score: -297.438 (Repetitions: 16) | Time steps: 3113 | Learning steps: 38
+First 10 actions: [13, 0, 0, 9, 11, 0, 1, 1, 12, 7]
+Image: 90 (38.03s) | Score: -693.969 (Repetitions: 37) | Time steps: 3166 | Learning steps: 39
+First 10 actions: [5, 11, 7, 6, 10, 9, 14, 13, 0, 6]
+Image: 91 (4.90s) | Score: -303.605 (Repetitions: 16) | Time steps: 3198 | Learning steps: 39
+First 10 actions: [0, 1, 2, 8, 10, 4, 5, 7, 9, 6]
+Image: 92 (35.67s) | Score: -158.931 (Repetitions: 11) | Time steps: 3225 | Learning steps: 40
+First 10 actions: [10, 8, 3, 14, 8, 9, 0, 1, 6, 5]
+Image: 93 (5.00s) | Score: -337.197 (Repetitions: 20) | Time steps: 3261 | Learning steps: 40
+First 10 actions: [10, 2, 0, 9, 4, 14, 10, 8, 6, 5]
+Image: 94 (34.30s) | Score: -136.264 (Repetitions: 8) | Time steps: 3285 | Learning steps: 41
+First 10 actions: [5, 5, 10, 4, 12, 6, 4, 0, 7, 14]
+Image: 95 (3.84s) | Score: -67.392 (Repetitions: 4) | Time steps: 3305 | Learning steps: 41
+First 10 actions: [4, 5, 1, 14, 4, 6, 0, 13, 10, 10]
+Image: 96 (5.66s) | Score: -281.663 (Repetitions: 16) | Time steps: 3337 | Learning steps: 41
+First 10 actions: [4, 10, 15, 1, 0, 4, 11, 9, 9, 7]
+Image: 97 (3.82s) | Score: -58.137 (Repetitions: 4) | Time steps: 3357 | Learning steps: 41
+First 10 actions: [12, 9, 3, 5, 8, 2, 6, 13, 6, 10]
+Image: 98 (34.61s) | Score: -180.419 (Repetitions: 11) | Time steps: 3384 | Learning steps: 42
+First 10 actions: [4, 10, 5, 12, 8, 9, 11, 0, 10, 13]
+Image: 99 (4.26s) | Score: -109.365 (Repetitions: 7) | Time steps: 3407 | Learning steps: 42
+First 10 actions: [0, 8, 9, 10, 4, 11, 14, 6, 1, 2]
+Image: 100 (5.30s) | Score: -277.887 (Repetitions: 15) | Time steps: 3438 | Learning steps: 42
+First 10 actions: [5, 9, 13, 6, 6, 7, 7, 10, 13, 8]
+Image: 101 (35.70s) | Score: -85.471 (Repetitions: 8) | Time steps: 3462 | Learning steps: 43
+First 10 actions: [11, 14, 5, 9, 6, 4, 8, 10, 7, 12]
+Image: 102 (3.94s) | Score: -9.276 (Repetitions: 5) | Time steps: 3483 | Learning steps: 43
+First 10 actions: [11, 10, 1, 5, 14, 4, 0, 2, 6, 15]
+Image: 103 (4.66s) | Score: -124.027 (Repetitions: 10) | Time steps: 3509 | Learning steps: 43
+First 10 actions: [10, 5, 9, 11, 6, 4, 7, 13, 12, 10]
+Image: 104 (35.20s) | Score: 11.095 (Repetitions: 1) | Time steps: 3526 | Learning steps: 44
+First 10 actions: [7, 3, 11, 12, 9, 13, 0, 6, 10, 1]
+Saving models...
+Image: 105 (3.31s) | Score: 62.134 (Repetitions: 0) | Time steps: 3542 | Learning steps: 44
+First 10 actions: [10, 2, 0, 4, 5, 6, 1, 9, 15, 11]
+Image: 106 (3.53s) | Score: -20.458 (Repetitions: 3) | Time steps: 3561 | Learning steps: 44
+First 10 actions: [2, 10, 0, 9, 7, 13, 14, 11, 8, 3]
+Image: 107 (4.06s) | Score: -86.176 (Repetitions: 5) | Time steps: 3582 | Learning steps: 44
+First 10 actions: [15, 12, 1, 6, 5, 9, 9, 8, 4, 10]
+Image: 108 (35.90s) | Score: -21.071 (Repetitions: 3) | Time steps: 3601 | Learning steps: 45
+First 10 actions: [9, 7, 0, 10, 6, 13, 1, 8, 2, 3]
+Image: 109 (3.73s) | Score: -160.318 (Repetitions: 11) | Time steps: 3628 | Learning steps: 45
+First 10 actions: [9, 10, 4, 5, 11, 11, 1, 5, 2, 15]
+Image: 110 (3.30s) | Score: 13.229 (Repetitions: 2) | Time steps: 3646 | Learning steps: 45
+First 10 actions: [7, 11, 10, 5, 9, 13, 6, 8, 2, 3]
+Image: 111 (3.78s) | Score: -4.426 (Repetitions: 4) | Time steps: 3666 | Learning steps: 45
+First 10 actions: [11, 6, 7, 0, 10, 5, 12, 13, 9, 8]
+Image: 112 (36.10s) | Score: -198.869 (Repetitions: 13) | Time steps: 3695 | Learning steps: 46
+First 10 actions: [10, 10, 14, 8, 6, 3, 7, 10, 7, 11]
+Image: 113 (3.32s) | Score: 5.261 (Repetitions: 2) | Time steps: 3713 | Learning steps: 46
+First 10 actions: [12, 10, 0, 11, 3, 7, 10, 5, 1, 9]
+Image: 114 (2.76s) | Score: 29.204 (Repetitions: 2) | Time steps: 3731 | Learning steps: 46
+First 10 actions: [10, 5, 9, 13, 7, 6, 11, 2, 1, 9]
+Image: 115 (3.34s) | Score: 24.158 (Repetitions: 2) | Time steps: 3749 | Learning steps: 46
+First 10 actions: [10, 7, 5, 9, 6, 8, 3, 10, 2, 14]
+Image: 116 (38.36s) | Score: -46.655 (Repetitions: 4) | Time steps: 3769 | Learning steps: 47
+First 10 actions: [5, 7, 11, 9, 13, 6, 1, 10, 0, 3]
+Image: 117 (3.60s) | Score: 25.658 (Repetitions: 2) | Time steps: 3787 | Learning steps: 47
+First 10 actions: [10, 14, 2, 3, 6, 11, 13, 7, 5, 9]
+Image: 118 (3.83s) | Score: -27.794 (Repetitions: 5) | Time steps: 3808 | Learning steps: 47
+First 10 actions: [10, 3, 7, 11, 10, 9, 13, 0, 7, 1]
+Image: 119 (3.66s) | Score: -16.517 (Repetitions: 4) | Time steps: 3828 | Learning steps: 47
+First 10 actions: [10, 6, 3, 7, 13, 14, 11, 10, 15, 7]
+Saving models...
+Image: 120 (34.11s) | Score: 66.056 (Repetitions: 1) | Time steps: 3845 | Learning steps: 48
+First 10 actions: [10, 11, 2, 14, 6, 3, 1, 5, 12, 15]
+Image: 121 (3.52s) | Score: 41.511 (Repetitions: 1) | Time steps: 3862 | Learning steps: 48
+First 10 actions: [10, 7, 2, 6, 4, 5, 8, 9, 13, 14]
+Image: 122 (3.76s) | Score: 18.588 (Repetitions: 2) | Time steps: 3880 | Learning steps: 48
+First 10 actions: [10, 8, 2, 6, 12, 3, 0, 7, 1, 4]
+Image: 123 (3.34s) | Score: 40.642 (Repetitions: 1) | Time steps: 3897 | Learning steps: 48
+First 10 actions: [10, 10, 1, 2, 5, 6, 15, 9, 7, 4]
+Image: 124 (3.86s) | Score: 0.055 (Repetitions: 3) | Time steps: 3916 | Learning steps: 48
+First 10 actions: [10, 7, 0, 13, 2, 6, 3, 14, 5, 9]
+Image: 125 (34.00s) | Score: 64.477 (Repetitions: 0) | Time steps: 3932 | Learning steps: 49
+First 10 actions: [10, 13, 6, 2, 5, 7, 11, 0, 9, 1]
+Saving models...
+Image: 126 (3.31s) | Score: 70.972 (Repetitions: 0) | Time steps: 3948 | Learning steps: 49
+First 10 actions: [10, 0, 1, 11, 7, 4, 5, 12, 8, 9]
+Image: 127 (3.32s) | Score: 34.966 (Repetitions: 0) | Time steps: 3964 | Learning steps: 49
+First 10 actions: [13, 10, 7, 0, 4, 1, 5, 9, 2, 6]
+Image: 128 (3.57s) | Score: 18.204 (Repetitions: 1) | Time steps: 3981 | Learning steps: 49
+First 10 actions: [7, 10, 5, 9, 8, 3, 0, 4, 1, 11]
+Image: 129 (3.33s) | Score: 62.975 (Repetitions: 0) | Time steps: 3997 | Learning steps: 49
+First 10 actions: [10, 7, 0, 5, 6, 9, 2, 13, 1, 11]
+Saving models...
+Image: 130 (36.37s) | Score: 71.412 (Repetitions: 0) | Time steps: 4013 | Learning steps: 50
+First 10 actions: [10, 7, 6, 11, 4, 8, 3, 9, 5, 2]
+Image: 131 (3.59s) | Score: 47.739 (Repetitions: 1) | Time steps: 4030 | Learning steps: 50
+First 10 actions: [10, 14, 7, 6, 11, 3, 0, 10, 5, 9]
+Image: 132 (3.50s) | Score: 21.135 (Repetitions: 2) | Time steps: 4048 | Learning steps: 50
+First 10 actions: [10, 7, 13, 2, 5, 9, 6, 10, 15, 1]
+Image: 133 (3.30s) | Score: 1.747 (Repetitions: 2) | Time steps: 4066 | Learning steps: 50
+First 10 actions: [7, 10, 10, 0, 11, 1, 5, 9, 4, 2]
+Image: 134 (34.93s) | Score: 61.509 (Repetitions: 0) | Time steps: 4082 | Learning steps: 51
+First 10 actions: [10, 7, 0, 4, 6, 1, 5, 9, 2, 3]
+Saving models...
+Image: 135 (2.96s) | Score: 76.990 (Repetitions: 0) | Time steps: 4098 | Learning steps: 51
+First 10 actions: [10, 7, 11, 6, 3, 5, 9, 2, 0, 4]
+Image: 136 (3.12s) | Score: 71.234 (Repetitions: 0) | Time steps: 4114 | Learning steps: 51
+First 10 actions: [10, 7, 6, 11, 12, 15, 3, 5, 9, 2]
+Image: 137 (3.52s) | Score: 48.659 (Repetitions: 1) | Time steps: 4131 | Learning steps: 51
+First 10 actions: [10, 7, 2, 1, 11, 5, 9, 6, 3, 0]
+Image: 138 (3.26s) | Score: 47.399 (Repetitions: 1) | Time steps: 4148 | Learning steps: 51
+First 10 actions: [10, 7, 5, 9, 3, 6, 11, 13, 2, 0]
+Image: 139 (34.80s) | Score: 67.523 (Repetitions: 0) | Time steps: 4164 | Learning steps: 52
+First 10 actions: [10, 5, 6, 9, 13, 7, 11, 0, 3, 1]
+Image: 140 (3.30s) | Score: 71.788 (Repetitions: 0) | Time steps: 4180 | Learning steps: 52
+First 10 actions: [10, 3, 7, 11, 0, 5, 9, 6, 13, 1]
+Image: 141 (3.40s) | Score: 62.990 (Repetitions: 0) | Time steps: 4196 | Learning steps: 52
+First 10 actions: [10, 4, 5, 6, 0, 1, 7, 9, 11, 2]
+Image: 142 (3.43s) | Score: 36.303 (Repetitions: 2) | Time steps: 4214 | Learning steps: 52
+First 10 actions: [10, 7, 11, 10, 3, 0, 1, 5, 9, 6]
+Image: 143 (3.07s) | Score: 46.063 (Repetitions: 1) | Time steps: 4231 | Learning steps: 52
+First 10 actions: [10, 12, 7, 5, 6, 9, 11, 13, 3, 2]
+Image: 144 (33.40s) | Score: 64.447 (Repetitions: 0) | Time steps: 4247 | Learning steps: 53
+First 10 actions: [10, 7, 2, 6, 4, 8, 11, 5, 9, 3]
+Image: 145 (3.10s) | Score: 66.219 (Repetitions: 0) | Time steps: 4263 | Learning steps: 53
+First 10 actions: [10, 7, 3, 2, 6, 11, 5, 9, 13, 1]
+Image: 146 (3.10s) | Score: 72.980 (Repetitions: 0) | Time steps: 4279 | Learning steps: 53
+First 10 actions: [10, 8, 7, 11, 9, 5, 6, 3, 2, 12]
+Saving models...
+Image: 147 (3.14s) | Score: 87.908 (Repetitions: 0) | Time steps: 4295 | Learning steps: 53
+First 10 actions: [10, 11, 7, 8, 5, 9, 6, 2, 3, 1]
+Image: 148 (3.46s) | Score: 64.799 (Repetitions: 0) | Time steps: 4311 | Learning steps: 53
+First 10 actions: [10, 7, 0, 4, 5, 6, 11, 9, 1, 2]
+Image: 149 (34.24s) | Score: 75.896 (Repetitions: 0) | Time steps: 4327 | Learning steps: 54
+First 10 actions: [10, 7, 11, 2, 6, 3, 0, 1, 4, 5]
+Image: 150 (3.56s) | Score: 77.537 (Repetitions: 0) | Time steps: 4343 | Learning steps: 54
+First 10 actions: [10, 7, 11, 5, 6, 9, 3, 2, 0, 1]
+Saving models...
+Image: 151 (3.11s) | Score: 88.505 (Repetitions: 0) | Time steps: 4359 | Learning steps: 54
+First 10 actions: [10, 11, 3, 7, 9, 2, 6, 13, 5, 0]
+Image: 152 (3.29s) | Score: 46.343 (Repetitions: 1) | Time steps: 4376 | Learning steps: 54
+First 10 actions: [10, 7, 1, 5, 9, 6, 11, 2, 3, 13]
+Image: 153 (3.20s) | Score: 87.957 (Repetitions: 0) | Time steps: 4392 | Learning steps: 54
+First 10 actions: [10, 11, 7, 5, 6, 9, 8, 2, 1, 3]
+Image: 154 (36.50s) | Score: 76.989 (Repetitions: 0) | Time steps: 4408 | Learning steps: 55
+First 10 actions: [10, 7, 11, 2, 6, 5, 9, 3, 13, 1]
+Image: 155 (3.03s) | Score: 87.898 (Repetitions: 0) | Time steps: 4424 | Learning steps: 55
+First 10 actions: [10, 11, 1, 7, 5, 9, 6, 2, 3, 13]
+Image: 156 (3.47s) | Score: 79.132 (Repetitions: 0) | Time steps: 4440 | Learning steps: 55
+First 10 actions: [10, 7, 11, 9, 3, 13, 1, 5, 6, 2]
+Image: 157 (3.34s) | Score: 77.042 (Repetitions: 0) | Time steps: 4456 | Learning steps: 55
+First 10 actions: [10, 7, 11, 1, 5, 6, 9, 2, 3, 12]
+Image: 158 (3.26s) | Score: 66.644 (Repetitions: 0) | Time steps: 4472 | Learning steps: 55
+First 10 actions: [10, 7, 3, 5, 6, 11, 9, 13, 14, 2]
+Image: 159 (34.90s) | Score: 77.537 (Repetitions: 0) | Time steps: 4488 | Learning steps: 56
+First 10 actions: [10, 7, 11, 5, 6, 9, 3, 2, 1, 13]
+Image: 160 (3.03s) | Score: 64.490 (Repetitions: 0) | Time steps: 4504 | Learning steps: 56
+First 10 actions: [10, 7, 3, 1, 5, 9, 6, 11, 2, 13]
+Image: 161 (3.56s) | Score: 66.380 (Repetitions: 0) | Time steps: 4520 | Learning steps: 56
+First 10 actions: [10, 7, 5, 6, 9, 13, 11, 2, 3, 1]
+Image: 162 (3.34s) | Score: 77.015 (Repetitions: 0) | Time steps: 4536 | Learning steps: 56
+First 10 actions: [10, 7, 11, 3, 5, 6, 9, 13, 2, 0]
+Image: 163 (3.06s) | Score: 66.314 (Repetitions: 0) | Time steps: 4552 | Learning steps: 56
+First 10 actions: [10, 7, 6, 5, 9, 3, 11, 13, 1, 2]
+Image: 164 (34.90s) | Score: 77.495 (Repetitions: 0) | Time steps: 4568 | Learning steps: 57
+First 10 actions: [10, 7, 11, 6, 5, 9, 3, 1, 2, 13]
+Image: 165 (3.34s) | Score: 67.875 (Repetitions: 0) | Time steps: 4584 | Learning steps: 57
+First 10 actions: [10, 7, 5, 6, 9, 11, 0, 1, 3, 2]
+Image: 166 (3.07s) | Score: 76.611 (Repetitions: 0) | Time steps: 4600 | Learning steps: 57
+First 10 actions: [10, 7, 11, 6, 2, 3, 5, 9, 0, 1]
+Image: 167 (3.10s) | Score: 66.201 (Repetitions: 0) | Time steps: 4616 | Learning steps: 57
+First 10 actions: [10, 7, 6, 2, 3, 11, 5, 9, 13, 1]
+Image: 168 (3.39s) | Score: 50.449 (Repetitions: 0) | Time steps: 4632 | Learning steps: 57
+First 10 actions: [7, 10, 11, 2, 6, 5, 9, 13, 3, 1]
+Image: 169 (34.81s) | Score: 76.319 (Repetitions: 0) | Time steps: 4648 | Learning steps: 58
+First 10 actions: [10, 7, 11, 2, 6, 3, 1, 5, 9, 8]
+Image: 170 (3.30s) | Score: 66.388 (Repetitions: 0) | Time steps: 4664 | Learning steps: 58
+First 10 actions: [10, 7, 5, 6, 9, 1, 11, 2, 13, 3]
+Image: 171 (2.93s) | Score: 76.609 (Repetitions: 0) | Time steps: 4680 | Learning steps: 58
+First 10 actions: [10, 7, 11, 2, 6, 3, 5, 9, 0, 1]
+Image: 172 (3.07s) | Score: 77.535 (Repetitions: 0) | Time steps: 4696 | Learning steps: 58
+First 10 actions: [10, 7, 11, 5, 6, 9, 0, 1, 2, 3]
+Image: 173 (3.04s) | Score: 72.298 (Repetitions: 0) | Time steps: 4712 | Learning steps: 58
+First 10 actions: [10, 7, 6, 11, 5, 9, 2, 1, 3, 0]
+Image: 174 (35.46s) | Score: 76.997 (Repetitions: 0) | Time steps: 4728 | Learning steps: 59
+First 10 actions: [10, 7, 11, 2, 6, 5, 9, 3, 1, 0]
+Image: 175 (3.10s) | Score: 77.539 (Repetitions: 0) | Time steps: 4744 | Learning steps: 59
+First 10 actions: [10, 7, 11, 5, 6, 9, 1, 3, 2, 13]
+Image: 176 (3.33s) | Score: 77.499 (Repetitions: 0) | Time steps: 4760 | Learning steps: 59
+First 10 actions: [10, 7, 11, 6, 5, 9, 3, 1, 2, 0]
+Image: 177 (2.90s) | Score: 68.003 (Repetitions: 0) | Time steps: 4776 | Learning steps: 59
+First 10 actions: [10, 5, 6, 7, 9, 11, 0, 1, 2, 3]
+Image: 178 (3.10s) | Score: 67.875 (Repetitions: 0) | Time steps: 4792 | Learning steps: 59
+First 10 actions: [10, 7, 5, 6, 9, 11, 3, 1, 2, 13]
+Image: 179 (33.87s) | Score: 77.017 (Repetitions: 0) | Time steps: 4808 | Learning steps: 60
+First 10 actions: [10, 7, 11, 3, 5, 6, 9, 0, 1, 2]
+Image: 180 (3.00s) | Score: 77.536 (Repetitions: 0) | Time steps: 4824 | Learning steps: 60
+First 10 actions: [10, 7, 11, 5, 6, 9, 3, 2, 1, 13]
+Image: 181 (3.20s) | Score: 76.997 (Repetitions: 0) | Time steps: 4840 | Learning steps: 60
+First 10 actions: [10, 7, 11, 3, 1, 5, 9, 6, 2, 0]
+Image: 182 (3.10s) | Score: 77.542 (Repetitions: 0) | Time steps: 4856 | Learning steps: 60
+First 10 actions: [10, 7, 11, 5, 6, 9, 1, 2, 3, 4]
+Image: 183 (3.13s) | Score: 65.281 (Repetitions: 0) | Time steps: 4872 | Learning steps: 60
+First 10 actions: [10, 7, 5, 6, 9, 0, 1, 11, 2, 3]
+Image: 184 (35.38s) | Score: 77.543 (Repetitions: 0) | Time steps: 4888 | Learning steps: 61
+First 10 actions: [10, 7, 11, 5, 6, 9, 1, 2, 3, 0]
+Image: 185 (3.32s) | Score: 77.507 (Repetitions: 0) | Time steps: 4904 | Learning steps: 61
+First 10 actions: [10, 7, 11, 1, 5, 9, 6, 3, 2, 0]
+Image: 186 (3.20s) | Score: 77.019 (Repetitions: 0) | Time steps: 4920 | Learning steps: 61
+First 10 actions: [10, 7, 11, 6, 4, 5, 9, 1, 2, 3]
+Image: 187 (3.00s) | Score: 77.539 (Repetitions: 0) | Time steps: 4936 | Learning steps: 61
+First 10 actions: [10, 7, 11, 5, 6, 9, 2, 3, 1, 0]
+Image: 188 (3.20s) | Score: 68.008 (Repetitions: 0) | Time steps: 4952 | Learning steps: 61
+First 10 actions: [10, 5, 6, 7, 9, 11, 2, 1, 3, 0]
+Image: 189 (34.16s) | Score: 77.539 (Repetitions: 0) | Time steps: 4968 | Learning steps: 62
+First 10 actions: [10, 7, 11, 5, 6, 9, 2, 0, 1, 3]
+Image: 190 (3.43s) | Score: 77.539 (Repetitions: 0) | Time steps: 4984 | Learning steps: 62
+First 10 actions: [10, 7, 11, 5, 6, 9, 2, 1, 3, 0]
+Image: 191 (3.40s) | Score: 77.545 (Repetitions: 0) | Time steps: 5000 | Learning steps: 62
+First 10 actions: [10, 7, 11, 5, 6, 9, 3, 1, 2, 0]
+Image: 192 (3.38s) | Score: 77.545 (Repetitions: 0) | Time steps: 5016 | Learning steps: 62
+First 10 actions: [10, 7, 11, 5, 6, 9, 1, 2, 3, 0]
+Image: 193 (3.28s) | Score: 77.545 (Repetitions: 0) | Time steps: 5032 | Learning steps: 62
+First 10 actions: [10, 7, 11, 5, 6, 9, 1, 2, 3, 0]
+Image: 194 (34.30s) | Score: 76.992 (Repetitions: 0) | Time steps: 5048 | Learning steps: 63
+First 10 actions: [10, 7, 11, 0, 1, 5, 9, 6, 2, 3]
+Image: 195 (3.10s) | Score: 66.396 (Repetitions: 0) | Time steps: 5064 | Learning steps: 63
+First 10 actions: [10, 7, 5, 6, 9, 2, 11, 3, 1, 0]
+Image: 196 (3.40s) | Score: 77.537 (Repetitions: 0) | Time steps: 5080 | Learning steps: 63
+First 10 actions: [10, 7, 11, 5, 6, 9, 1, 2, 3, 13]
+Image: 197 (3.23s) | Score: 77.545 (Repetitions: 0) | Time steps: 5096 | Learning steps: 63
+First 10 actions: [10, 7, 11, 5, 6, 9, 1, 2, 3, 0]
+Image: 198 (3.21s) | Score: 77.545 (Repetitions: 0) | Time steps: 5112 | Learning steps: 63
+First 10 actions: [10, 7, 11, 5, 6, 9, 3, 1, 2, 0]
+Image: 199 (35.40s) | Score: 76.992 (Repetitions: 0) | Time steps: 5128 | Learning steps: 64
+First 10 actions: [10, 7, 11, 2, 6, 5, 9, 3, 1, 0]

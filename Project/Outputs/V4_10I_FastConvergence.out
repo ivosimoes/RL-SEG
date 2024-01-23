@@ -1,0 +1,1191 @@
+Saving models...
+Epoch: 0 (8.44s) | Score: -815.899 (Repetitions: 0) | Time steps: 59 | Learning steps: 0
+First 10 actions: [15, 13, 1, 6, 10, 11, 8, 0, 7, 13]
+Saving models...
+Epoch: 1 (38.69s) | Score: -595.589 (Repetitions: 0) | Time steps: 110 | Learning steps: 1
+First 10 actions: [1, 9, 12, 11, 15, 10, 12, 4, 3, 14]
+Saving models...
+Epoch: 2 (5.90s) | Score: -469.997 (Repetitions: 0) | Time steps: 155 | Learning steps: 1
+First 10 actions: [4, 11, 2, 11, 13, 14, 7, 12, 5, 14]
+Epoch: 3 (37.19s) | Score: -1177.137 (Repetitions: 0) | Time steps: 237 | Learning steps: 2
+First 10 actions: [9, 5, 12, 0, 3, 0, 1, 15, 4, 1]
+Saving models...
+Epoch: 4 (30.72s) | Score: -15.023 (Repetitions: 0) | Time steps: 260 | Learning steps: 3
+First 10 actions: [11, 14, 8, 3, 9, 6, 11, 6, 2, 1]
+Epoch: 5 (7.48s) | Score: -787.715 (Repetitions: 0) | Time steps: 318 | Learning steps: 3
+First 10 actions: [1, 4, 4, 8, 2, 10, 15, 8, 8, 14]
+Epoch: 6 (35.80s) | Score: -811.697 (Repetitions: 0) | Time steps: 377 | Learning steps: 4
+First 10 actions: [8, 0, 7, 15, 11, 9, 4, 11, 11, 4]
+Epoch: 7 (39.00s) | Score: -1272.588 (Repetitions: 0) | Time steps: 459 | Learning steps: 5
+First 10 actions: [1, 0, 12, 12, 6, 9, 2, 12, 14, 11]
+Epoch: 8 (35.50s) | Score: -983.029 (Repetitions: 0) | Time steps: 525 | Learning steps: 6
+First 10 actions: [0, 3, 2, 0, 15, 13, 1, 1, 3, 6]
+Epoch: 9 (35.81s) | Score: -587.720 (Repetitions: 0) | Time steps: 573 | Learning steps: 7
+First 10 actions: [8, 4, 13, 2, 0, 0, 9, 12, 5, 12]
+Epoch: 10 (5.73s) | Score: -362.695 (Repetitions: 0) | Time steps: 614 | Learning steps: 7
+First 10 actions: [4, 10, 0, 9, 12, 15, 2, 4, 5, 8]
+Epoch: 11 (3.90s) | Score: -87.004 (Repetitions: 0) | Time steps: 638 | Learning steps: 7
+First 10 actions: [8, 4, 12, 0, 1, 8, 9, 13, 5, 10]
+Epoch: 12 (36.86s) | Score: -553.355 (Repetitions: 0) | Time steps: 687 | Learning steps: 8
+First 10 actions: [4, 8, 11, 13, 9, 1, 0, 4, 2, 12]
+Epoch: 13 (32.80s) | Score: -400.678 (Repetitions: 0) | Time steps: 727 | Learning steps: 9
+First 10 actions: [4, 1, 0, 8, 8, 4, 9, 2, 12, 3]
+Epoch: 14 (4.00s) | Score: -146.600 (Repetitions: 0) | Time steps: 753 | Learning steps: 9
+First 10 actions: [2, 4, 1, 2, 7, 3, 0, 5, 11, 6]
+Epoch: 15 (6.72s) | Score: -544.542 (Repetitions: 0) | Time steps: 799 | Learning steps: 9
+First 10 actions: [1, 4, 7, 5, 0, 5, 12, 0, 8, 1]
+Epoch: 16 (35.19s) | Score: -290.429 (Repetitions: 0) | Time steps: 834 | Learning steps: 10
+First 10 actions: [8, 9, 11, 13, 14, 6, 11, 4, 4, 12]
+Epoch: 17 (35.98s) | Score: -986.029 (Repetitions: 0) | Time steps: 903 | Learning steps: 11
+First 10 actions: [4, 2, 0, 1, 3, 5, 2, 13, 6, 7]
+Epoch: 18 (35.40s) | Score: -1121.006 (Repetitions: 0) | Time steps: 978 | Learning steps: 12
+First 10 actions: [8, 2, 0, 5, 4, 11, 9, 2, 4, 6]
+Epoch: 19 (4.00s) | Score: -113.794 (Repetitions: 0) | Time steps: 1003 | Learning steps: 12
+First 10 actions: [3, 4, 1, 6, 9, 6, 0, 5, 14, 10]
+Epoch: 20 (4.20s) | Score: -98.979 (Repetitions: 0) | Time steps: 1027 | Learning steps: 12
+First 10 actions: [3, 4, 1, 3, 6, 9, 0, 12, 5, 3]
+Epoch: 21 (33.22s) | Score: -153.434 (Repetitions: 0) | Time steps: 1054 | Learning steps: 13
+First 10 actions: [2, 5, 1, 0, 4, 9, 3, 5, 8, 6]
+Epoch: 22 (6.59s) | Score: -621.568 (Repetitions: 0) | Time steps: 1105 | Learning steps: 13
+First 10 actions: [2, 8, 9, 10, 4, 6, 5, 0, 15, 3]
+Epoch: 23 (32.29s) | Score: -200.204 (Repetitions: 0) | Time steps: 1133 | Learning steps: 14
+First 10 actions: [1, 8, 6, 13, 4, 0, 4, 3, 12, 5]
+Epoch: 24 (4.03s) | Score: -107.120 (Repetitions: 0) | Time steps: 1157 | Learning steps: 14
+First 10 actions: [1, 3, 4, 2, 4, 5, 9, 0, 7, 8]
+Epoch: 25 (5.16s) | Score: -368.019 (Repetitions: 0) | Time steps: 1194 | Learning steps: 14
+First 10 actions: [1, 0, 6, 12, 5, 2, 4, 9, 0, 8]
+Epoch: 26 (33.80s) | Score: -90.929 (Repetitions: 0) | Time steps: 1217 | Learning steps: 15
+First 10 actions: [3, 0, 5, 2, 8, 4, 1, 7, 4, 6]
+Epoch: 27 (3.60s) | Score: -57.965 (Repetitions: 0) | Time steps: 1239 | Learning steps: 15
+First 10 actions: [1, 4, 6, 3, 8, 11, 0, 2, 5, 2]
+Epoch: 28 (4.20s) | Score: -179.631 (Repetitions: 0) | Time steps: 1267 | Learning steps: 15
+First 10 actions: [0, 5, 3, 1, 8, 6, 4, 9, 2, 3]
+Epoch: 29 (32.43s) | Score: -24.018 (Repetitions: 0) | Time steps: 1287 | Learning steps: 16
+First 10 actions: [0, 3, 5, 8, 2, 1, 4, 10, 11, 15]
+Epoch: 30 (3.87s) | Score: -110.149 (Repetitions: 0) | Time steps: 1311 | Learning steps: 16
+First 10 actions: [2, 1, 8, 4, 6, 9, 0, 5, 3, 14]
+Saving models...
+Epoch: 31 (3.40s) | Score: 3.710 (Repetitions: 0) | Time steps: 1331 | Learning steps: 16
+First 10 actions: [6, 4, 9, 1, 0, 5, 2, 11, 3, 10]
+Epoch: 32 (32.30s) | Score: -211.867 (Repetitions: 0) | Time steps: 1363 | Learning steps: 17
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 7, 8, 5]
+Epoch: 33 (3.50s) | Score: -36.083 (Repetitions: 0) | Time steps: 1384 | Learning steps: 17
+First 10 actions: [0, 5, 3, 1, 4, 8, 2, 7, 12, 9]
+Epoch: 34 (3.70s) | Score: -90.556 (Repetitions: 0) | Time steps: 1407 | Learning steps: 17
+First 10 actions: [8, 3, 1, 4, 6, 0, 9, 5, 15, 14]
+Epoch: 35 (4.10s) | Score: -171.561 (Repetitions: 0) | Time steps: 1435 | Learning steps: 17
+First 10 actions: [1, 4, 6, 9, 2, 14, 8, 0, 0, 11]
+Epoch: 36 (32.44s) | Score: -338.868 (Repetitions: 0) | Time steps: 1470 | Learning steps: 18
+First 10 actions: [3, 1, 8, 6, 4, 3, 9, 0, 5, 14]
+Saving models...
+Epoch: 37 (3.46s) | Score: 15.047 (Repetitions: 0) | Time steps: 1489 | Learning steps: 18
+First 10 actions: [8, 4, 9, 4, 1, 7, 0, 6, 11, 3]
+Saving models...
+Epoch: 38 (3.30s) | Score: 40.309 (Repetitions: 0) | Time steps: 1506 | Learning steps: 18
+First 10 actions: [1, 6, 4, 9, 2, 7, 0, 5, 8, 7]
+Saving models...
+Epoch: 39 (36.20s) | Score: 63.857 (Repetitions: 0) | Time steps: 1525 | Learning steps: 19
+First 10 actions: [4, 9, 3, 2, 5, 1, 10, 7, 12, 0]
+Epoch: 40 (3.12s) | Score: 19.925 (Repetitions: 0) | Time steps: 1543 | Learning steps: 19
+First 10 actions: [8, 4, 3, 6, 1, 0, 9, 2, 5, 7]
+Epoch: 41 (4.07s) | Score: -5.041 (Repetitions: 0) | Time steps: 1565 | Learning steps: 19
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 11, 8]
+Epoch: 42 (3.30s) | Score: 58.453 (Repetitions: 0) | Time steps: 1581 | Learning steps: 19
+First 10 actions: [1, 6, 8, 12, 4, 9, 3, 0, 2, 5]
+Epoch: 43 (33.52s) | Score: -71.258 (Repetitions: 0) | Time steps: 1606 | Learning steps: 20
+First 10 actions: [4, 9, 1, 6, 2, 0, 12, 8, 3, 13]
+Saving models...
+Epoch: 44 (3.08s) | Score: 128.493 (Repetitions: 0) | Time steps: 1622 | Learning steps: 20
+First 10 actions: [4, 9, 5, 1, 6, 8, 2, 11, 0, 3]
+Epoch: 45 (3.40s) | Score: -40.932 (Repetitions: 0) | Time steps: 1643 | Learning steps: 20
+First 10 actions: [8, 4, 2, 1, 13, 6, 9, 3, 0, 5]
+Epoch: 46 (3.33s) | Score: 59.686 (Repetitions: 0) | Time steps: 1662 | Learning steps: 20
+First 10 actions: [4, 9, 1, 6, 0, 12, 3, 5, 11, 3]
+Epoch: 47 (3.09s) | Score: 53.273 (Repetitions: 0) | Time steps: 1679 | Learning steps: 20
+First 10 actions: [1, 4, 6, 9, 12, 3, 0, 5, 2, 7]
+Epoch: 48 (31.21s) | Score: 38.548 (Repetitions: 0) | Time steps: 1697 | Learning steps: 21
+First 10 actions: [8, 4, 9, 1, 6, 0, 3, 5, 11, 2]
+Epoch: 49 (3.97s) | Score: 11.126 (Repetitions: 0) | Time steps: 1717 | Learning steps: 21
+First 10 actions: [4, 1, 6, 0, 9, 5, 3, 12, 2, 12]
+Epoch: 50 (3.60s) | Score: 33.969 (Repetitions: 0) | Time steps: 1736 | Learning steps: 21
+First 10 actions: [4, 1, 6, 9, 2, 0, 3, 5, 12, 7]
+Epoch: 51 (3.54s) | Score: 67.711 (Repetitions: 0) | Time steps: 1754 | Learning steps: 21
+First 10 actions: [4, 9, 8, 1, 6, 4, 3, 2, 0, 5]
+Epoch: 52 (31.76s) | Score: 29.256 (Repetitions: 0) | Time steps: 1774 | Learning steps: 22
+First 10 actions: [12, 8, 4, 5, 1, 6, 0, 3, 9, 2]
+Epoch: 53 (3.30s) | Score: 51.595 (Repetitions: 0) | Time steps: 1792 | Learning steps: 22
+First 10 actions: [4, 1, 6, 9, 3, 2, 9, 0, 12, 5]
+Epoch: 54 (3.10s) | Score: 98.983 (Repetitions: 0) | Time steps: 1808 | Learning steps: 22
+First 10 actions: [4, 1, 6, 9, 12, 8, 3, 0, 5, 10]
+Epoch: 55 (3.70s) | Score: 26.783 (Repetitions: 0) | Time steps: 1826 | Learning steps: 22
+First 10 actions: [8, 4, 1, 6, 9, 2, 0, 5, 3, 12]
+Epoch: 56 (31.34s) | Score: 56.203 (Repetitions: 0) | Time steps: 1843 | Learning steps: 23
+First 10 actions: [8, 4, 9, 1, 6, 0, 3, 2, 5, 12]
+Epoch: 57 (3.10s) | Score: 113.603 (Repetitions: 0) | Time steps: 1859 | Learning steps: 23
+First 10 actions: [4, 9, 1, 6, 0, 5, 2, 8, 7, 3]
+Epoch: 58 (3.66s) | Score: 96.824 (Repetitions: 0) | Time steps: 1876 | Learning steps: 23
+First 10 actions: [4, 9, 1, 6, 0, 12, 8, 3, 5, 2]
+Epoch: 59 (3.80s) | Score: 53.987 (Repetitions: 0) | Time steps: 1895 | Learning steps: 23
+First 10 actions: [4, 9, 1, 6, 2, 12, 7, 8, 3, 0]
+Epoch: 60 (3.13s) | Score: 93.315 (Repetitions: 0) | Time steps: 1912 | Learning steps: 23
+First 10 actions: [4, 9, 1, 6, 3, 0, 5, 2, 8, 7]
+Epoch: 61 (32.57s) | Score: 96.041 (Repetitions: 0) | Time steps: 1929 | Learning steps: 24
+First 10 actions: [4, 9, 1, 6, 3, 0, 5, 12, 8, 2]
+Epoch: 62 (3.30s) | Score: 78.514 (Repetitions: 0) | Time steps: 1945 | Learning steps: 24
+First 10 actions: [8, 4, 9, 1, 6, 3, 0, 2, 5, 11]
+Epoch: 63 (3.24s) | Score: 62.475 (Repetitions: 0) | Time steps: 1961 | Learning steps: 24
+First 10 actions: [8, 2, 4, 9, 1, 7, 0, 5, 10, 6]
+Epoch: 64 (3.37s) | Score: 115.458 (Repetitions: 0) | Time steps: 1977 | Learning steps: 24
+First 10 actions: [4, 9, 1, 6, 2, 3, 12, 0, 5, 8]
+Epoch: 65 (3.61s) | Score: 113.242 (Repetitions: 0) | Time steps: 1993 | Learning steps: 24
+First 10 actions: [4, 9, 1, 6, 0, 2, 5, 7, 3, 12]
+Epoch: 66 (31.59s) | Score: 123.525 (Repetitions: 0) | Time steps: 2009 | Learning steps: 25
+First 10 actions: [4, 12, 9, 1, 6, 3, 0, 2, 5, 8]
+Epoch: 67 (3.10s) | Score: 122.850 (Repetitions: 0) | Time steps: 2025 | Learning steps: 25
+First 10 actions: [4, 9, 1, 6, 0, 12, 5, 11, 2, 3]
+Epoch: 68 (3.23s) | Score: 74.597 (Repetitions: 0) | Time steps: 2043 | Learning steps: 25
+First 10 actions: [4, 9, 1, 6, 8, 3, 2, 0, 5, 10]
+Epoch: 69 (3.01s) | Score: 77.818 (Repetitions: 0) | Time steps: 2059 | Learning steps: 25
+First 10 actions: [8, 4, 9, 1, 6, 2, 3, 0, 5, 10]
+Epoch: 70 (3.00s) | Score: 75.509 (Repetitions: 0) | Time steps: 2075 | Learning steps: 25
+First 10 actions: [8, 4, 9, 1, 6, 0, 5, 2, 7, 3]
+Epoch: 71 (31.16s) | Score: 101.577 (Repetitions: 0) | Time steps: 2091 | Learning steps: 26
+First 10 actions: [4, 2, 9, 1, 0, 12, 6, 7, 3, 5]
+Epoch: 72 (3.52s) | Score: 115.317 (Repetitions: 0) | Time steps: 2107 | Learning steps: 26
+First 10 actions: [4, 9, 1, 6, 0, 3, 5, 8, 2, 11]
+Epoch: 73 (3.62s) | Score: 74.309 (Repetitions: 0) | Time steps: 2125 | Learning steps: 26
+First 10 actions: [4, 9, 1, 6, 3, 2, 4, 12, 0, 5]
+Epoch: 74 (3.80s) | Score: 87.207 (Repetitions: 0) | Time steps: 2143 | Learning steps: 26
+First 10 actions: [4, 9, 5, 1, 6, 8, 0, 3, 2, 10]
+Epoch: 75 (3.36s) | Score: 114.018 (Repetitions: 0) | Time steps: 2159 | Learning steps: 26
+First 10 actions: [4, 9, 1, 6, 2, 7, 12, 3, 0, 5]
+Epoch: 76 (32.60s) | Score: 77.208 (Repetitions: 0) | Time steps: 2175 | Learning steps: 27
+First 10 actions: [8, 4, 9, 1, 6, 2, 3, 0, 5, 11]
+Epoch: 77 (3.11s) | Score: 118.565 (Repetitions: 0) | Time steps: 2191 | Learning steps: 27
+First 10 actions: [4, 9, 2, 3, 1, 12, 6, 0, 5, 8]
+Epoch: 78 (3.39s) | Score: 74.748 (Repetitions: 0) | Time steps: 2209 | Learning steps: 27
+First 10 actions: [4, 9, 1, 6, 8, 3, 2, 0, 5, 12]
+Epoch: 79 (3.13s) | Score: 113.445 (Repetitions: 0) | Time steps: 2225 | Learning steps: 27
+First 10 actions: [4, 9, 1, 6, 2, 7, 12, 8, 0, 5]
+Epoch: 80 (32.36s) | Score: 119.928 (Repetitions: 0) | Time steps: 2241 | Learning steps: 28
+First 10 actions: [4, 9, 2, 0, 5, 1, 12, 6, 7, 3]
+Epoch: 81 (3.00s) | Score: 118.575 (Repetitions: 0) | Time steps: 2257 | Learning steps: 28
+First 10 actions: [4, 9, 1, 6, 3, 12, 8, 0, 5, 2]
+Epoch: 82 (3.10s) | Score: 112.343 (Repetitions: 0) | Time steps: 2273 | Learning steps: 28
+First 10 actions: [4, 9, 1, 6, 8, 0, 5, 2, 7, 3]
+Epoch: 83 (3.03s) | Score: 94.525 (Repetitions: 0) | Time steps: 2289 | Learning steps: 28
+First 10 actions: [4, 1, 6, 9, 8, 0, 3, 5, 2, 12]
+Epoch: 84 (3.20s) | Score: 112.899 (Repetitions: 0) | Time steps: 2305 | Learning steps: 28
+First 10 actions: [4, 9, 1, 6, 0, 2, 7, 5, 12, 8]
+Epoch: 85 (31.82s) | Score: 116.594 (Repetitions: 0) | Time steps: 2321 | Learning steps: 29
+First 10 actions: [4, 9, 3, 1, 6, 2, 12, 8, 0, 5]
+Epoch: 86 (3.36s) | Score: 118.108 (Repetitions: 0) | Time steps: 2337 | Learning steps: 29
+First 10 actions: [4, 9, 1, 6, 12, 0, 8, 5, 2, 7]
+Epoch: 87 (3.14s) | Score: 113.083 (Repetitions: 0) | Time steps: 2353 | Learning steps: 29
+First 10 actions: [4, 9, 1, 6, 3, 8, 2, 0, 5, 10]
+Epoch: 88 (3.40s) | Score: 114.895 (Repetitions: 0) | Time steps: 2369 | Learning steps: 29
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 12, 8]
+Epoch: 89 (3.37s) | Score: 116.108 (Repetitions: 0) | Time steps: 2385 | Learning steps: 29
+First 10 actions: [4, 9, 1, 6, 0, 5, 2, 12, 7, 3]
+Epoch: 90 (33.53s) | Score: 115.741 (Repetitions: 0) | Time steps: 2401 | Learning steps: 30
+First 10 actions: [4, 9, 2, 1, 6, 0, 5, 12, 7, 3]
+Epoch: 91 (3.06s) | Score: 112.515 (Repetitions: 0) | Time steps: 2417 | Learning steps: 30
+First 10 actions: [4, 9, 1, 6, 2, 0, 7, 5, 12, 3]
+Epoch: 92 (3.43s) | Score: 117.208 (Repetitions: 0) | Time steps: 2433 | Learning steps: 30
+First 10 actions: [4, 9, 1, 6, 3, 2, 12, 0, 5, 8]
+Epoch: 93 (3.20s) | Score: 111.455 (Repetitions: 0) | Time steps: 2449 | Learning steps: 30
+First 10 actions: [4, 9, 1, 6, 2, 7, 3, 0, 5, 8]
+Epoch: 94 (3.66s) | Score: 118.108 (Repetitions: 0) | Time steps: 2465 | Learning steps: 30
+First 10 actions: [4, 9, 1, 6, 12, 2, 0, 5, 7, 3]
+Epoch: 95 (31.43s) | Score: 118.771 (Repetitions: 0) | Time steps: 2481 | Learning steps: 31
+First 10 actions: [4, 9, 1, 6, 3, 12, 0, 5, 2, 8]
+Epoch: 96 (3.37s) | Score: 110.552 (Repetitions: 0) | Time steps: 2497 | Learning steps: 31
+First 10 actions: [4, 9, 1, 6, 2, 7, 0, 5, 8, 3]
+Epoch: 97 (3.04s) | Score: 113.445 (Repetitions: 0) | Time steps: 2513 | Learning steps: 31
+First 10 actions: [4, 9, 1, 6, 2, 7, 12, 3, 0, 5]
+Epoch: 98 (3.56s) | Score: 117.683 (Repetitions: 0) | Time steps: 2529 | Learning steps: 31
+First 10 actions: [4, 9, 1, 6, 0, 5, 3, 2, 8, 11]
+Epoch: 99 (3.44s) | Score: 118.450 (Repetitions: 0) | Time steps: 2545 | Learning steps: 31
+First 10 actions: [4, 9, 1, 6, 0, 5, 3, 2, 12, 8]
+Epoch: 100 (32.56s) | Score: 116.635 (Repetitions: 0) | Time steps: 2561 | Learning steps: 32
+First 10 actions: [4, 9, 1, 6, 3, 2, 12, 0, 5, 8]
+Epoch: 101 (2.30s) | Score: 117.511 (Repetitions: 0) | Time steps: 2577 | Learning steps: 32
+First 10 actions: [4, 9, 1, 6, 3, 12, 2, 0, 5, 8]
+Epoch: 102 (3.03s) | Score: 118.280 (Repetitions: 0) | Time steps: 2593 | Learning steps: 32
+First 10 actions: [4, 9, 1, 6, 3, 12, 0, 5, 2, 8]
+Epoch: 103 (2.87s) | Score: 114.060 (Repetitions: 0) | Time steps: 2609 | Learning steps: 32
+First 10 actions: [4, 9, 1, 6, 2, 3, 12, 0, 5, 8]
+Epoch: 104 (3.03s) | Score: 113.318 (Repetitions: 0) | Time steps: 2625 | Learning steps: 32
+First 10 actions: [4, 9, 1, 6, 2, 7, 0, 5, 3, 12]
+Epoch: 105 (32.27s) | Score: 118.459 (Repetitions: 0) | Time steps: 2641 | Learning steps: 33
+First 10 actions: [4, 9, 1, 6, 0, 5, 3, 2, 12, 8]
+Epoch: 106 (3.00s) | Score: 113.569 (Repetitions: 0) | Time steps: 2657 | Learning steps: 33
+First 10 actions: [4, 9, 1, 6, 2, 7, 12, 0, 5, 3]
+Epoch: 107 (3.40s) | Score: 115.581 (Repetitions: 0) | Time steps: 2673 | Learning steps: 33
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 12, 8]
+Epoch: 108 (3.40s) | Score: 114.665 (Repetitions: 0) | Time steps: 2689 | Learning steps: 33
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 12, 8]
+Epoch: 109 (3.40s) | Score: 111.599 (Repetitions: 0) | Time steps: 2705 | Learning steps: 33
+First 10 actions: [4, 9, 1, 6, 2, 7, 3, 0, 5, 12]
+Epoch: 110 (32.44s) | Score: 114.388 (Repetitions: 0) | Time steps: 2721 | Learning steps: 34
+First 10 actions: [4, 9, 1, 6, 2, 7, 0, 5, 12, 8]
+Epoch: 111 (2.46s) | Score: 118.280 (Repetitions: 0) | Time steps: 2737 | Learning steps: 34
+First 10 actions: [4, 9, 1, 6, 3, 12, 0, 5, 2, 8]
+Epoch: 112 (3.10s) | Score: 114.665 (Repetitions: 0) | Time steps: 2753 | Learning steps: 34
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 12, 8]
+Epoch: 113 (3.43s) | Score: 116.635 (Repetitions: 0) | Time steps: 2769 | Learning steps: 34
+First 10 actions: [4, 9, 1, 6, 3, 2, 12, 0, 5, 8]
+Epoch: 114 (3.67s) | Score: 113.956 (Repetitions: 0) | Time steps: 2785 | Learning steps: 34
+First 10 actions: [4, 9, 1, 6, 2, 7, 0, 5, 12, 8]
+Epoch: 115 (32.50s) | Score: 116.635 (Repetitions: 0) | Time steps: 2801 | Learning steps: 35
+First 10 actions: [4, 9, 1, 6, 3, 2, 12, 0, 5, 8]
+Epoch: 116 (2.94s) | Score: 116.635 (Repetitions: 0) | Time steps: 2817 | Learning steps: 35
+First 10 actions: [4, 9, 1, 6, 3, 2, 12, 0, 5, 8]
+Epoch: 117 (3.10s) | Score: 111.077 (Repetitions: 0) | Time steps: 2833 | Learning steps: 35
+First 10 actions: [4, 9, 1, 6, 3, 2, 8, 0, 5, 7]
+Epoch: 118 (3.00s) | Score: 116.154 (Repetitions: 0) | Time steps: 2849 | Learning steps: 35
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 12, 8]
+Epoch: 119 (3.00s) | Score: 115.090 (Repetitions: 0) | Time steps: 2865 | Learning steps: 35
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 12, 8]
+Epoch: 120 (30.57s) | Score: 116.144 (Repetitions: 0) | Time steps: 2881 | Learning steps: 36
+First 10 actions: [4, 9, 1, 6, 3, 2, 12, 0, 5, 8]
+Epoch: 121 (2.20s) | Score: 116.154 (Repetitions: 0) | Time steps: 2897 | Learning steps: 36
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 12, 8]
+Epoch: 122 (3.23s) | Score: 117.208 (Repetitions: 0) | Time steps: 2913 | Learning steps: 36
+First 10 actions: [4, 9, 1, 6, 3, 2, 12, 0, 5, 8]
+Epoch: 123 (3.38s) | Score: 117.208 (Repetitions: 0) | Time steps: 2929 | Learning steps: 36
+First 10 actions: [4, 9, 1, 6, 3, 2, 12, 0, 5, 8]
+Epoch: 124 (3.18s) | Score: 115.090 (Repetitions: 0) | Time steps: 2945 | Learning steps: 36
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 12, 8]
+Epoch: 125 (32.42s) | Score: 114.175 (Repetitions: 0) | Time steps: 2961 | Learning steps: 37
+First 10 actions: [4, 9, 1, 6, 3, 2, 8, 0, 5, 12]
+Epoch: 126 (2.91s) | Score: 115.090 (Repetitions: 0) | Time steps: 2977 | Learning steps: 37
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 12, 8]
+Epoch: 127 (3.21s) | Score: 117.208 (Repetitions: 0) | Time steps: 2993 | Learning steps: 37
+First 10 actions: [4, 9, 1, 6, 3, 2, 12, 0, 5, 8]
+Epoch: 128 (3.36s) | Score: 115.010 (Repetitions: 0) | Time steps: 3009 | Learning steps: 37
+First 10 actions: [4, 9, 1, 6, 3, 2, 12, 0, 5, 8]
+Epoch: 129 (3.40s) | Score: 115.581 (Repetitions: 0) | Time steps: 3025 | Learning steps: 37
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 12, 8]
+Epoch: 130 (33.00s) | Score: 116.144 (Repetitions: 0) | Time steps: 3041 | Learning steps: 38
+First 10 actions: [4, 9, 1, 6, 3, 2, 12, 0, 5, 8]
+Epoch: 131 (2.90s) | Score: 115.581 (Repetitions: 0) | Time steps: 3057 | Learning steps: 38
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 12, 8]
+Epoch: 132 (3.03s) | Score: 115.693 (Repetitions: 0) | Time steps: 3073 | Learning steps: 38
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 133 (3.39s) | Score: 114.811 (Repetitions: 0) | Time steps: 3089 | Learning steps: 38
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 134 (3.48s) | Score: 114.811 (Repetitions: 0) | Time steps: 3105 | Learning steps: 38
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 135 (32.00s) | Score: 115.090 (Repetitions: 0) | Time steps: 3121 | Learning steps: 39
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 12, 8]
+Epoch: 136 (3.00s) | Score: 114.811 (Repetitions: 0) | Time steps: 3137 | Learning steps: 39
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 137 (3.04s) | Score: 115.246 (Repetitions: 0) | Time steps: 3153 | Learning steps: 39
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 138 (3.06s) | Score: 115.246 (Repetitions: 0) | Time steps: 3169 | Learning steps: 39
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 139 (3.50s) | Score: 115.246 (Repetitions: 0) | Time steps: 3185 | Learning steps: 39
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 140 (32.10s) | Score: 115.246 (Repetitions: 0) | Time steps: 3201 | Learning steps: 40
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 141 (3.10s) | Score: 115.246 (Repetitions: 0) | Time steps: 3217 | Learning steps: 40
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 142 (3.34s) | Score: 114.811 (Repetitions: 0) | Time steps: 3233 | Learning steps: 40
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 143 (3.17s) | Score: 115.246 (Repetitions: 0) | Time steps: 3249 | Learning steps: 40
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 144 (3.40s) | Score: 114.811 (Repetitions: 0) | Time steps: 3265 | Learning steps: 40
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 145 (32.63s) | Score: 116.061 (Repetitions: 0) | Time steps: 3281 | Learning steps: 41
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 146 (2.91s) | Score: 115.246 (Repetitions: 0) | Time steps: 3297 | Learning steps: 41
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 147 (3.66s) | Score: 115.246 (Repetitions: 0) | Time steps: 3313 | Learning steps: 41
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 148 (3.62s) | Score: 115.246 (Repetitions: 0) | Time steps: 3329 | Learning steps: 41
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 149 (3.78s) | Score: 115.246 (Repetitions: 0) | Time steps: 3345 | Learning steps: 41
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 150 (34.73s) | Score: 115.246 (Repetitions: 0) | Time steps: 3361 | Learning steps: 42
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 151 (2.90s) | Score: 115.246 (Repetitions: 0) | Time steps: 3377 | Learning steps: 42
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 152 (3.47s) | Score: 115.246 (Repetitions: 0) | Time steps: 3393 | Learning steps: 42
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 153 (3.50s) | Score: 114.811 (Repetitions: 0) | Time steps: 3409 | Learning steps: 42
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 154 (3.50s) | Score: 115.246 (Repetitions: 0) | Time steps: 3425 | Learning steps: 42
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 155 (32.41s) | Score: 115.246 (Repetitions: 0) | Time steps: 3441 | Learning steps: 43
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 156 (3.09s) | Score: 115.246 (Repetitions: 0) | Time steps: 3457 | Learning steps: 43
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 157 (3.29s) | Score: 115.819 (Repetitions: 0) | Time steps: 3473 | Learning steps: 43
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 158 (3.14s) | Score: 115.246 (Repetitions: 0) | Time steps: 3489 | Learning steps: 43
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 159 (3.46s) | Score: 115.246 (Repetitions: 0) | Time steps: 3505 | Learning steps: 43
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 160 (31.93s) | Score: 115.246 (Repetitions: 0) | Time steps: 3521 | Learning steps: 44
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 161 (2.90s) | Score: 115.246 (Repetitions: 0) | Time steps: 3537 | Learning steps: 44
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 162 (3.21s) | Score: 115.246 (Repetitions: 0) | Time steps: 3553 | Learning steps: 44
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 163 (3.06s) | Score: 115.246 (Repetitions: 0) | Time steps: 3569 | Learning steps: 44
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 164 (3.33s) | Score: 115.819 (Repetitions: 0) | Time steps: 3585 | Learning steps: 44
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 165 (32.30s) | Score: 115.246 (Repetitions: 0) | Time steps: 3601 | Learning steps: 45
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 166 (2.36s) | Score: 115.246 (Repetitions: 0) | Time steps: 3617 | Learning steps: 45
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 167 (3.10s) | Score: 115.246 (Repetitions: 0) | Time steps: 3633 | Learning steps: 45
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 168 (3.03s) | Score: 115.246 (Repetitions: 0) | Time steps: 3649 | Learning steps: 45
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 169 (3.07s) | Score: 115.246 (Repetitions: 0) | Time steps: 3665 | Learning steps: 45
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 170 (31.70s) | Score: 115.246 (Repetitions: 0) | Time steps: 3681 | Learning steps: 46
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 171 (2.30s) | Score: 115.246 (Repetitions: 0) | Time steps: 3697 | Learning steps: 46
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 172 (3.52s) | Score: 115.246 (Repetitions: 0) | Time steps: 3713 | Learning steps: 46
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 173 (3.40s) | Score: 115.246 (Repetitions: 0) | Time steps: 3729 | Learning steps: 46
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 174 (3.38s) | Score: 115.246 (Repetitions: 0) | Time steps: 3745 | Learning steps: 46
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 175 (35.00s) | Score: 115.246 (Repetitions: 0) | Time steps: 3761 | Learning steps: 47
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 176 (2.30s) | Score: 115.246 (Repetitions: 0) | Time steps: 3777 | Learning steps: 47
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 177 (3.22s) | Score: 115.246 (Repetitions: 0) | Time steps: 3793 | Learning steps: 47
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 178 (3.01s) | Score: 115.246 (Repetitions: 0) | Time steps: 3809 | Learning steps: 47
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 179 (3.21s) | Score: 115.246 (Repetitions: 0) | Time steps: 3825 | Learning steps: 47
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 180 (31.86s) | Score: 115.246 (Repetitions: 0) | Time steps: 3841 | Learning steps: 48
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 181 (2.93s) | Score: 115.246 (Repetitions: 0) | Time steps: 3857 | Learning steps: 48
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 182 (3.41s) | Score: 115.246 (Repetitions: 0) | Time steps: 3873 | Learning steps: 48
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 183 (3.39s) | Score: 115.246 (Repetitions: 0) | Time steps: 3889 | Learning steps: 48
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 184 (3.47s) | Score: 115.246 (Repetitions: 0) | Time steps: 3905 | Learning steps: 48
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 185 (32.10s) | Score: 115.246 (Repetitions: 0) | Time steps: 3921 | Learning steps: 49
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 186 (3.00s) | Score: 115.246 (Repetitions: 0) | Time steps: 3937 | Learning steps: 49
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 187 (3.30s) | Score: 115.246 (Repetitions: 0) | Time steps: 3953 | Learning steps: 49
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 188 (3.50s) | Score: 115.246 (Repetitions: 0) | Time steps: 3969 | Learning steps: 49
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 189 (3.10s) | Score: 115.246 (Repetitions: 0) | Time steps: 3985 | Learning steps: 49
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 190 (32.81s) | Score: 115.246 (Repetitions: 0) | Time steps: 4001 | Learning steps: 50
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 191 (2.29s) | Score: 115.246 (Repetitions: 0) | Time steps: 4017 | Learning steps: 50
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 192 (3.10s) | Score: 115.246 (Repetitions: 0) | Time steps: 4033 | Learning steps: 50
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 193 (3.29s) | Score: 115.246 (Repetitions: 0) | Time steps: 4049 | Learning steps: 50
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 194 (3.20s) | Score: 115.246 (Repetitions: 0) | Time steps: 4065 | Learning steps: 50
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 195 (32.10s) | Score: 115.246 (Repetitions: 0) | Time steps: 4081 | Learning steps: 51
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 196 (2.30s) | Score: 115.246 (Repetitions: 0) | Time steps: 4097 | Learning steps: 51
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 197 (3.50s) | Score: 115.246 (Repetitions: 0) | Time steps: 4113 | Learning steps: 51
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 198 (3.42s) | Score: 115.246 (Repetitions: 0) | Time steps: 4129 | Learning steps: 51
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Epoch: 199 (3.42s) | Score: 115.246 (Repetitions: 0) | Time steps: 4145 | Learning steps: 51
+First 10 actions: [4, 9, 1, 6, 3, 2, 0, 5, 8, 11]
+Saving models...
+Epoch: 0 (32.68s) | Score: 96.707 (Repetitions: 0) | Time steps: 4161 | Learning steps: 52
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 1 (2.58s) | Score: 18.515 (Repetitions: 0) | Time steps: 4181 | Learning steps: 52
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 6, 11, 4]
+Epoch: 2 (3.00s) | Score: 96.707 (Repetitions: 0) | Time steps: 4197 | Learning steps: 52
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 3 (3.30s) | Score: 96.707 (Repetitions: 0) | Time steps: 4213 | Learning steps: 52
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 4 (3.30s) | Score: 96.707 (Repetitions: 0) | Time steps: 4229 | Learning steps: 52
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 5 (32.00s) | Score: 96.361 (Repetitions: 0) | Time steps: 4245 | Learning steps: 53
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 6 (3.03s) | Score: 96.361 (Repetitions: 0) | Time steps: 4261 | Learning steps: 53
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 7 (3.39s) | Score: 96.361 (Repetitions: 0) | Time steps: 4277 | Learning steps: 53
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 8 (3.38s) | Score: 96.707 (Repetitions: 0) | Time steps: 4293 | Learning steps: 53
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 9 (3.54s) | Score: 96.361 (Repetitions: 0) | Time steps: 4309 | Learning steps: 53
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 10 (35.76s) | Score: 96.361 (Repetitions: 0) | Time steps: 4325 | Learning steps: 54
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 11 (3.40s) | Score: 96.361 (Repetitions: 0) | Time steps: 4341 | Learning steps: 54
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 12 (3.20s) | Score: 96.707 (Repetitions: 0) | Time steps: 4357 | Learning steps: 54
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 13 (3.03s) | Score: 96.707 (Repetitions: 0) | Time steps: 4373 | Learning steps: 54
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 14 (3.07s) | Score: 96.361 (Repetitions: 0) | Time steps: 4389 | Learning steps: 54
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 15 (32.70s) | Score: 96.361 (Repetitions: 0) | Time steps: 4405 | Learning steps: 55
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 16 (3.19s) | Score: 96.361 (Repetitions: 0) | Time steps: 4421 | Learning steps: 55
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 17 (3.60s) | Score: 96.707 (Repetitions: 0) | Time steps: 4437 | Learning steps: 55
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 18 (3.42s) | Score: 96.361 (Repetitions: 0) | Time steps: 4453 | Learning steps: 55
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 19 (3.38s) | Score: 96.707 (Repetitions: 0) | Time steps: 4469 | Learning steps: 55
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 20 (32.20s) | Score: 96.361 (Repetitions: 0) | Time steps: 4485 | Learning steps: 56
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 21 (2.93s) | Score: 96.361 (Repetitions: 0) | Time steps: 4501 | Learning steps: 56
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 22 (3.00s) | Score: 96.361 (Repetitions: 0) | Time steps: 4517 | Learning steps: 56
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 23 (3.00s) | Score: 96.361 (Repetitions: 0) | Time steps: 4533 | Learning steps: 56
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 24 (3.07s) | Score: 96.361 (Repetitions: 0) | Time steps: 4549 | Learning steps: 56
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 25 (31.50s) | Score: 96.361 (Repetitions: 0) | Time steps: 4565 | Learning steps: 57
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 26 (3.03s) | Score: 96.361 (Repetitions: 0) | Time steps: 4581 | Learning steps: 57
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 27 (3.11s) | Score: 96.361 (Repetitions: 0) | Time steps: 4597 | Learning steps: 57
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 28 (3.06s) | Score: 96.361 (Repetitions: 0) | Time steps: 4613 | Learning steps: 57
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 29 (3.32s) | Score: 96.361 (Repetitions: 0) | Time steps: 4629 | Learning steps: 57
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 30 (30.68s) | Score: 96.361 (Repetitions: 0) | Time steps: 4645 | Learning steps: 58
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 31 (3.00s) | Score: 96.361 (Repetitions: 0) | Time steps: 4661 | Learning steps: 58
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 32 (3.30s) | Score: 96.361 (Repetitions: 0) | Time steps: 4677 | Learning steps: 58
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 33 (3.31s) | Score: 96.361 (Repetitions: 0) | Time steps: 4693 | Learning steps: 58
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 34 (3.12s) | Score: 96.361 (Repetitions: 0) | Time steps: 4709 | Learning steps: 58
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 35 (31.57s) | Score: 96.361 (Repetitions: 0) | Time steps: 4725 | Learning steps: 59
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 36 (2.82s) | Score: 96.361 (Repetitions: 0) | Time steps: 4741 | Learning steps: 59
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 37 (3.00s) | Score: 96.361 (Repetitions: 0) | Time steps: 4757 | Learning steps: 59
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 38 (3.00s) | Score: 96.361 (Repetitions: 0) | Time steps: 4773 | Learning steps: 59
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 39 (3.00s) | Score: 96.361 (Repetitions: 0) | Time steps: 4789 | Learning steps: 59
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 40 (33.47s) | Score: 96.361 (Repetitions: 0) | Time steps: 4805 | Learning steps: 60
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 41 (3.04s) | Score: 96.361 (Repetitions: 0) | Time steps: 4821 | Learning steps: 60
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 42 (3.47s) | Score: 96.361 (Repetitions: 0) | Time steps: 4837 | Learning steps: 60
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 43 (3.38s) | Score: 96.361 (Repetitions: 0) | Time steps: 4853 | Learning steps: 60
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 44 (3.14s) | Score: 96.361 (Repetitions: 0) | Time steps: 4869 | Learning steps: 60
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 45 (31.26s) | Score: 96.361 (Repetitions: 0) | Time steps: 4885 | Learning steps: 61
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 46 (3.10s) | Score: 96.361 (Repetitions: 0) | Time steps: 4901 | Learning steps: 61
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 47 (3.14s) | Score: 96.361 (Repetitions: 0) | Time steps: 4917 | Learning steps: 61
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 48 (3.16s) | Score: 96.361 (Repetitions: 0) | Time steps: 4933 | Learning steps: 61
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 49 (3.31s) | Score: 96.361 (Repetitions: 0) | Time steps: 4949 | Learning steps: 61
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 50 (32.49s) | Score: 96.361 (Repetitions: 0) | Time steps: 4965 | Learning steps: 62
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 51 (3.10s) | Score: 96.361 (Repetitions: 0) | Time steps: 4981 | Learning steps: 62
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 52 (3.20s) | Score: 96.361 (Repetitions: 0) | Time steps: 4997 | Learning steps: 62
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 53 (3.42s) | Score: 96.361 (Repetitions: 0) | Time steps: 5013 | Learning steps: 62
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 54 (3.22s) | Score: 96.361 (Repetitions: 0) | Time steps: 5029 | Learning steps: 62
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 55 (32.77s) | Score: 96.361 (Repetitions: 0) | Time steps: 5045 | Learning steps: 63
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 56 (3.14s) | Score: 96.361 (Repetitions: 0) | Time steps: 5061 | Learning steps: 63
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 57 (3.47s) | Score: 96.361 (Repetitions: 0) | Time steps: 5077 | Learning steps: 63
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 58 (3.09s) | Score: 96.361 (Repetitions: 0) | Time steps: 5093 | Learning steps: 63
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 59 (3.33s) | Score: 96.361 (Repetitions: 0) | Time steps: 5109 | Learning steps: 63
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 60 (33.56s) | Score: 96.361 (Repetitions: 0) | Time steps: 5125 | Learning steps: 64
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 61 (3.00s) | Score: 96.361 (Repetitions: 0) | Time steps: 5141 | Learning steps: 64
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 62 (3.00s) | Score: 96.361 (Repetitions: 0) | Time steps: 5157 | Learning steps: 64
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 63 (3.00s) | Score: 96.361 (Repetitions: 0) | Time steps: 5173 | Learning steps: 64
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 64 (2.93s) | Score: 96.361 (Repetitions: 0) | Time steps: 5189 | Learning steps: 64
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 65 (32.67s) | Score: 96.361 (Repetitions: 0) | Time steps: 5205 | Learning steps: 65
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 66 (3.10s) | Score: 96.361 (Repetitions: 0) | Time steps: 5221 | Learning steps: 65
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 67 (3.39s) | Score: 96.361 (Repetitions: 0) | Time steps: 5237 | Learning steps: 65
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 68 (3.30s) | Score: 96.361 (Repetitions: 0) | Time steps: 5253 | Learning steps: 65
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 69 (3.30s) | Score: 96.361 (Repetitions: 0) | Time steps: 5269 | Learning steps: 65
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 70 (31.20s) | Score: 96.361 (Repetitions: 0) | Time steps: 5285 | Learning steps: 66
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 71 (3.03s) | Score: 96.361 (Repetitions: 0) | Time steps: 5301 | Learning steps: 66
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 72 (3.06s) | Score: 96.361 (Repetitions: 0) | Time steps: 5317 | Learning steps: 66
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 73 (3.20s) | Score: 96.361 (Repetitions: 0) | Time steps: 5333 | Learning steps: 66
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 74 (3.03s) | Score: 96.361 (Repetitions: 0) | Time steps: 5349 | Learning steps: 66
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 75 (31.27s) | Score: 96.361 (Repetitions: 0) | Time steps: 5365 | Learning steps: 67
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 76 (3.13s) | Score: 96.361 (Repetitions: 0) | Time steps: 5381 | Learning steps: 67
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 77 (3.20s) | Score: 96.361 (Repetitions: 0) | Time steps: 5397 | Learning steps: 67
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 78 (3.50s) | Score: 96.361 (Repetitions: 0) | Time steps: 5413 | Learning steps: 67
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 79 (3.38s) | Score: 96.361 (Repetitions: 0) | Time steps: 5429 | Learning steps: 67
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 80 (34.98s) | Score: 96.361 (Repetitions: 0) | Time steps: 5445 | Learning steps: 68
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 81 (3.40s) | Score: 96.361 (Repetitions: 0) | Time steps: 5461 | Learning steps: 68
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 82 (3.44s) | Score: 96.361 (Repetitions: 0) | Time steps: 5477 | Learning steps: 68
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 83 (3.46s) | Score: 96.361 (Repetitions: 0) | Time steps: 5493 | Learning steps: 68
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 84 (3.03s) | Score: 96.361 (Repetitions: 0) | Time steps: 5509 | Learning steps: 68
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 85 (31.47s) | Score: 96.361 (Repetitions: 0) | Time steps: 5525 | Learning steps: 69
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 86 (3.00s) | Score: 96.361 (Repetitions: 0) | Time steps: 5541 | Learning steps: 69
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 87 (3.00s) | Score: 96.361 (Repetitions: 0) | Time steps: 5557 | Learning steps: 69
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 88 (2.83s) | Score: 96.361 (Repetitions: 0) | Time steps: 5573 | Learning steps: 69
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 89 (3.00s) | Score: 96.361 (Repetitions: 0) | Time steps: 5589 | Learning steps: 69
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 90 (31.57s) | Score: 96.361 (Repetitions: 0) | Time steps: 5605 | Learning steps: 70
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 91 (2.92s) | Score: 96.361 (Repetitions: 0) | Time steps: 5621 | Learning steps: 70
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 92 (3.00s) | Score: 96.361 (Repetitions: 0) | Time steps: 5637 | Learning steps: 70
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 93 (3.00s) | Score: 96.361 (Repetitions: 0) | Time steps: 5653 | Learning steps: 70
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 94 (3.37s) | Score: 96.361 (Repetitions: 0) | Time steps: 5669 | Learning steps: 70
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 95 (32.60s) | Score: 96.361 (Repetitions: 0) | Time steps: 5685 | Learning steps: 71
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 96 (3.23s) | Score: 96.361 (Repetitions: 0) | Time steps: 5701 | Learning steps: 71
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 97 (3.00s) | Score: 96.361 (Repetitions: 0) | Time steps: 5717 | Learning steps: 71
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 98 (3.17s) | Score: 96.361 (Repetitions: 0) | Time steps: 5733 | Learning steps: 71
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Epoch: 99 (3.50s) | Score: 96.361 (Repetitions: 0) | Time steps: 5749 | Learning steps: 71
+First 10 actions: [2, 12, 9, 14, 8, 13, 1, 10, 15, 6]
+Saving models...
+Epoch: 0 (31.51s) | Score: 36.723 (Repetitions: 0) | Time steps: 5765 | Learning steps: 72
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 1 (3.02s) | Score: 36.723 (Repetitions: 0) | Time steps: 5781 | Learning steps: 72
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 2 (3.07s) | Score: 36.723 (Repetitions: 0) | Time steps: 5797 | Learning steps: 72
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 3 (3.40s) | Score: 36.723 (Repetitions: 0) | Time steps: 5813 | Learning steps: 72
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 4 (3.59s) | Score: 36.723 (Repetitions: 0) | Time steps: 5829 | Learning steps: 72
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Saving models...
+Epoch: 5 (32.02s) | Score: 43.454 (Repetitions: 0) | Time steps: 5845 | Learning steps: 73
+First 10 actions: [1, 4, 9, 6, 0, 5, 14, 12, 2, 8]
+Epoch: 6 (3.12s) | Score: 43.454 (Repetitions: 0) | Time steps: 5861 | Learning steps: 73
+First 10 actions: [1, 4, 9, 6, 0, 5, 14, 12, 2, 8]
+Epoch: 7 (3.50s) | Score: 36.723 (Repetitions: 0) | Time steps: 5877 | Learning steps: 73
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 8 (3.26s) | Score: 36.723 (Repetitions: 0) | Time steps: 5893 | Learning steps: 73
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 9 (3.54s) | Score: 36.723 (Repetitions: 0) | Time steps: 5909 | Learning steps: 73
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 10 (32.76s) | Score: 36.723 (Repetitions: 0) | Time steps: 5925 | Learning steps: 74
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 11 (3.30s) | Score: 36.723 (Repetitions: 0) | Time steps: 5941 | Learning steps: 74
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 12 (3.00s) | Score: 36.723 (Repetitions: 0) | Time steps: 5957 | Learning steps: 74
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 13 (3.39s) | Score: 36.723 (Repetitions: 0) | Time steps: 5973 | Learning steps: 74
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 14 (3.34s) | Score: 36.723 (Repetitions: 0) | Time steps: 5989 | Learning steps: 74
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 15 (32.77s) | Score: 36.723 (Repetitions: 0) | Time steps: 6005 | Learning steps: 75
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 16 (3.02s) | Score: 36.723 (Repetitions: 0) | Time steps: 6021 | Learning steps: 75
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 17 (3.21s) | Score: 36.723 (Repetitions: 0) | Time steps: 6037 | Learning steps: 75
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 18 (3.16s) | Score: 36.723 (Repetitions: 0) | Time steps: 6053 | Learning steps: 75
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 19 (3.43s) | Score: 36.723 (Repetitions: 0) | Time steps: 6069 | Learning steps: 75
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 20 (32.07s) | Score: 36.723 (Repetitions: 0) | Time steps: 6085 | Learning steps: 76
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 21 (3.20s) | Score: 36.723 (Repetitions: 0) | Time steps: 6101 | Learning steps: 76
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 22 (3.14s) | Score: 36.723 (Repetitions: 0) | Time steps: 6117 | Learning steps: 76
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 23 (3.47s) | Score: 36.723 (Repetitions: 0) | Time steps: 6133 | Learning steps: 76
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 24 (3.42s) | Score: 36.723 (Repetitions: 0) | Time steps: 6149 | Learning steps: 76
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 25 (33.47s) | Score: 36.723 (Repetitions: 0) | Time steps: 6165 | Learning steps: 77
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 26 (3.03s) | Score: 36.723 (Repetitions: 0) | Time steps: 6181 | Learning steps: 77
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 27 (3.41s) | Score: 36.723 (Repetitions: 0) | Time steps: 6197 | Learning steps: 77
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 28 (3.38s) | Score: 36.723 (Repetitions: 0) | Time steps: 6213 | Learning steps: 77
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 29 (3.38s) | Score: 36.723 (Repetitions: 0) | Time steps: 6229 | Learning steps: 77
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 30 (33.00s) | Score: 36.723 (Repetitions: 0) | Time steps: 6245 | Learning steps: 78
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 31 (3.20s) | Score: 36.723 (Repetitions: 0) | Time steps: 6261 | Learning steps: 78
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 32 (3.03s) | Score: 36.723 (Repetitions: 0) | Time steps: 6277 | Learning steps: 78
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 33 (3.17s) | Score: 36.723 (Repetitions: 0) | Time steps: 6293 | Learning steps: 78
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 34 (3.10s) | Score: 36.723 (Repetitions: 0) | Time steps: 6309 | Learning steps: 78
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 35 (31.80s) | Score: 36.723 (Repetitions: 0) | Time steps: 6325 | Learning steps: 79
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 36 (3.03s) | Score: 36.723 (Repetitions: 0) | Time steps: 6341 | Learning steps: 79
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 37 (3.07s) | Score: 36.723 (Repetitions: 0) | Time steps: 6357 | Learning steps: 79
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 38 (3.00s) | Score: 36.723 (Repetitions: 0) | Time steps: 6373 | Learning steps: 79
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 39 (3.20s) | Score: 36.723 (Repetitions: 0) | Time steps: 6389 | Learning steps: 79
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 40 (31.90s) | Score: 36.723 (Repetitions: 0) | Time steps: 6405 | Learning steps: 80
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 41 (2.93s) | Score: 36.723 (Repetitions: 0) | Time steps: 6421 | Learning steps: 80
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 42 (3.49s) | Score: 36.723 (Repetitions: 0) | Time steps: 6437 | Learning steps: 80
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 43 (3.32s) | Score: 36.723 (Repetitions: 0) | Time steps: 6453 | Learning steps: 80
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 44 (3.40s) | Score: 36.723 (Repetitions: 0) | Time steps: 6469 | Learning steps: 80
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 45 (32.76s) | Score: 36.723 (Repetitions: 0) | Time steps: 6485 | Learning steps: 81
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 46 (3.00s) | Score: 36.723 (Repetitions: 0) | Time steps: 6501 | Learning steps: 81
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 47 (3.50s) | Score: 36.723 (Repetitions: 0) | Time steps: 6517 | Learning steps: 81
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 48 (3.30s) | Score: 36.723 (Repetitions: 0) | Time steps: 6533 | Learning steps: 81
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 49 (3.30s) | Score: 36.723 (Repetitions: 0) | Time steps: 6549 | Learning steps: 81
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 50 (32.21s) | Score: 36.723 (Repetitions: 0) | Time steps: 6565 | Learning steps: 82
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 51 (3.19s) | Score: 36.723 (Repetitions: 0) | Time steps: 6581 | Learning steps: 82
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 52 (3.49s) | Score: 36.723 (Repetitions: 0) | Time steps: 6597 | Learning steps: 82
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 53 (3.20s) | Score: 36.723 (Repetitions: 0) | Time steps: 6613 | Learning steps: 82
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 54 (3.20s) | Score: 36.723 (Repetitions: 0) | Time steps: 6629 | Learning steps: 82
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 55 (31.40s) | Score: 36.723 (Repetitions: 0) | Time steps: 6645 | Learning steps: 83
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 56 (3.43s) | Score: 36.723 (Repetitions: 0) | Time steps: 6661 | Learning steps: 83
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 57 (3.37s) | Score: 36.723 (Repetitions: 0) | Time steps: 6677 | Learning steps: 83
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 58 (3.44s) | Score: 36.723 (Repetitions: 0) | Time steps: 6693 | Learning steps: 83
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 59 (3.26s) | Score: 36.723 (Repetitions: 0) | Time steps: 6709 | Learning steps: 83
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 60 (31.00s) | Score: 36.723 (Repetitions: 0) | Time steps: 6725 | Learning steps: 84
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 61 (3.00s) | Score: 36.723 (Repetitions: 0) | Time steps: 6741 | Learning steps: 84
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 62 (3.10s) | Score: 36.723 (Repetitions: 0) | Time steps: 6757 | Learning steps: 84
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 63 (3.64s) | Score: 36.723 (Repetitions: 0) | Time steps: 6773 | Learning steps: 84
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 64 (3.65s) | Score: 36.723 (Repetitions: 0) | Time steps: 6789 | Learning steps: 84
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Epoch: 65 (32.51s) | Score: 36.723 (Repetitions: 0) | Time steps: 6805 | Learning steps: 85
+First 10 actions: [1, 4, 6, 9, 0, 5, 14, 12, 2, 8]
+Saving models...
+Epoch: 0 (3.01s) | Score: 172.864 (Repetitions: 0) | Time steps: 6821 | Learning steps: 85
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 1 (3.42s) | Score: 171.879 (Repetitions: 0) | Time steps: 6837 | Learning steps: 85
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Saving models...
+Epoch: 2 (3.78s) | Score: 172.981 (Repetitions: 0) | Time steps: 6853 | Learning steps: 85
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 3 (3.79s) | Score: 172.864 (Repetitions: 0) | Time steps: 6869 | Learning steps: 85
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 4 (34.41s) | Score: 172.573 (Repetitions: 0) | Time steps: 6885 | Learning steps: 86
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 5 (3.13s) | Score: 172.981 (Repetitions: 0) | Time steps: 6901 | Learning steps: 86
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 6 (3.26s) | Score: 172.981 (Repetitions: 0) | Time steps: 6917 | Learning steps: 86
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 7 (3.20s) | Score: 172.573 (Repetitions: 0) | Time steps: 6933 | Learning steps: 86
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 8 (3.23s) | Score: 172.573 (Repetitions: 0) | Time steps: 6949 | Learning steps: 86
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 9 (33.08s) | Score: 172.981 (Repetitions: 0) | Time steps: 6965 | Learning steps: 87
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 10 (2.99s) | Score: 172.573 (Repetitions: 0) | Time steps: 6981 | Learning steps: 87
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 11 (3.03s) | Score: 172.573 (Repetitions: 0) | Time steps: 6997 | Learning steps: 87
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 12 (3.00s) | Score: 172.573 (Repetitions: 0) | Time steps: 7013 | Learning steps: 87
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 13 (3.11s) | Score: 172.981 (Repetitions: 0) | Time steps: 7029 | Learning steps: 87
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 14 (33.96s) | Score: 172.981 (Repetitions: 0) | Time steps: 7045 | Learning steps: 88
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 15 (3.10s) | Score: 172.981 (Repetitions: 0) | Time steps: 7061 | Learning steps: 88
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 16 (3.04s) | Score: 172.573 (Repetitions: 0) | Time steps: 7077 | Learning steps: 88
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 17 (3.06s) | Score: 172.573 (Repetitions: 0) | Time steps: 7093 | Learning steps: 88
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 18 (3.43s) | Score: 172.981 (Repetitions: 0) | Time steps: 7109 | Learning steps: 88
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 19 (31.37s) | Score: 172.573 (Repetitions: 0) | Time steps: 7125 | Learning steps: 89
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 20 (3.40s) | Score: 172.573 (Repetitions: 0) | Time steps: 7141 | Learning steps: 89
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 21 (3.34s) | Score: 172.981 (Repetitions: 0) | Time steps: 7157 | Learning steps: 89
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 22 (3.40s) | Score: 172.573 (Repetitions: 0) | Time steps: 7173 | Learning steps: 89
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 23 (3.50s) | Score: 172.981 (Repetitions: 0) | Time steps: 7189 | Learning steps: 89
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 24 (33.16s) | Score: 172.573 (Repetitions: 0) | Time steps: 7205 | Learning steps: 90
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 25 (3.04s) | Score: 172.981 (Repetitions: 0) | Time steps: 7221 | Learning steps: 90
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 26 (3.38s) | Score: 172.573 (Repetitions: 0) | Time steps: 7237 | Learning steps: 90
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 27 (3.59s) | Score: 172.573 (Repetitions: 0) | Time steps: 7253 | Learning steps: 90
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 28 (3.40s) | Score: 172.573 (Repetitions: 0) | Time steps: 7269 | Learning steps: 90
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 29 (32.59s) | Score: 172.573 (Repetitions: 0) | Time steps: 7285 | Learning steps: 91
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 30 (3.02s) | Score: 172.573 (Repetitions: 0) | Time steps: 7301 | Learning steps: 91
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 31 (3.07s) | Score: 172.981 (Repetitions: 0) | Time steps: 7317 | Learning steps: 91
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 32 (3.30s) | Score: 172.981 (Repetitions: 0) | Time steps: 7333 | Learning steps: 91
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 33 (3.33s) | Score: 172.573 (Repetitions: 0) | Time steps: 7349 | Learning steps: 91
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 34 (31.57s) | Score: 172.573 (Repetitions: 0) | Time steps: 7365 | Learning steps: 92
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 35 (3.00s) | Score: 172.573 (Repetitions: 0) | Time steps: 7381 | Learning steps: 92
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 36 (3.03s) | Score: 172.981 (Repetitions: 0) | Time steps: 7397 | Learning steps: 92
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 37 (3.21s) | Score: 172.573 (Repetitions: 0) | Time steps: 7413 | Learning steps: 92
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 38 (3.20s) | Score: 172.573 (Repetitions: 0) | Time steps: 7429 | Learning steps: 92
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 39 (30.66s) | Score: 172.573 (Repetitions: 0) | Time steps: 7445 | Learning steps: 93
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 40 (3.20s) | Score: 172.573 (Repetitions: 0) | Time steps: 7461 | Learning steps: 93
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 41 (3.32s) | Score: 172.573 (Repetitions: 0) | Time steps: 7477 | Learning steps: 93
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 42 (3.58s) | Score: 172.573 (Repetitions: 0) | Time steps: 7493 | Learning steps: 93
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 43 (3.50s) | Score: 172.573 (Repetitions: 0) | Time steps: 7509 | Learning steps: 93
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 44 (36.40s) | Score: 172.573 (Repetitions: 0) | Time steps: 7525 | Learning steps: 94
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 45 (3.00s) | Score: 172.573 (Repetitions: 0) | Time steps: 7541 | Learning steps: 94
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 46 (3.50s) | Score: 172.573 (Repetitions: 0) | Time steps: 7557 | Learning steps: 94
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 47 (3.29s) | Score: 172.573 (Repetitions: 0) | Time steps: 7573 | Learning steps: 94
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 48 (3.34s) | Score: 172.573 (Repetitions: 0) | Time steps: 7589 | Learning steps: 94
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Epoch: 49 (33.89s) | Score: 172.573 (Repetitions: 0) | Time steps: 7605 | Learning steps: 95
+First 10 actions: [4, 9, 0, 5, 1, 6, 2, 3, 12, 14]
+Saving models...
+Epoch: 0 (3.01s) | Score: 22.551 (Repetitions: 0) | Time steps: 7621 | Learning steps: 95
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 1 (2.99s) | Score: 22.551 (Repetitions: 0) | Time steps: 7637 | Learning steps: 95
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 2 (2.87s) | Score: 22.551 (Repetitions: 0) | Time steps: 7653 | Learning steps: 95
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 3 (3.03s) | Score: 22.551 (Repetitions: 0) | Time steps: 7669 | Learning steps: 95
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 4 (32.77s) | Score: 22.551 (Repetitions: 0) | Time steps: 7685 | Learning steps: 96
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 5 (3.00s) | Score: 22.551 (Repetitions: 0) | Time steps: 7701 | Learning steps: 96
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 6 (3.23s) | Score: 22.551 (Repetitions: 0) | Time steps: 7717 | Learning steps: 96
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 7 (3.20s) | Score: 22.551 (Repetitions: 0) | Time steps: 7733 | Learning steps: 96
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 8 (3.41s) | Score: 22.551 (Repetitions: 0) | Time steps: 7749 | Learning steps: 96
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 9 (35.76s) | Score: 22.551 (Repetitions: 0) | Time steps: 7765 | Learning steps: 97
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 10 (2.93s) | Score: 22.551 (Repetitions: 0) | Time steps: 7781 | Learning steps: 97
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 11 (3.41s) | Score: 22.551 (Repetitions: 0) | Time steps: 7797 | Learning steps: 97
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 12 (3.39s) | Score: 22.551 (Repetitions: 0) | Time steps: 7813 | Learning steps: 97
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 13 (3.39s) | Score: 22.551 (Repetitions: 0) | Time steps: 7829 | Learning steps: 97
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 14 (32.89s) | Score: 22.551 (Repetitions: 0) | Time steps: 7845 | Learning steps: 98
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 15 (2.94s) | Score: 22.551 (Repetitions: 0) | Time steps: 7861 | Learning steps: 98
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 16 (3.38s) | Score: 22.551 (Repetitions: 0) | Time steps: 7877 | Learning steps: 98
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 17 (3.41s) | Score: 22.551 (Repetitions: 0) | Time steps: 7893 | Learning steps: 98
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 18 (3.31s) | Score: 22.551 (Repetitions: 0) | Time steps: 7909 | Learning steps: 98
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 19 (37.77s) | Score: 22.551 (Repetitions: 0) | Time steps: 7925 | Learning steps: 99
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 20 (3.33s) | Score: 22.551 (Repetitions: 0) | Time steps: 7941 | Learning steps: 99
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 21 (3.57s) | Score: 22.551 (Repetitions: 0) | Time steps: 7957 | Learning steps: 99
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 22 (3.42s) | Score: 22.551 (Repetitions: 0) | Time steps: 7973 | Learning steps: 99
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 23 (3.28s) | Score: 22.551 (Repetitions: 0) | Time steps: 7989 | Learning steps: 99
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 24 (36.10s) | Score: 22.551 (Repetitions: 0) | Time steps: 8005 | Learning steps: 100
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 25 (3.00s) | Score: 22.551 (Repetitions: 0) | Time steps: 8021 | Learning steps: 100
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 26 (3.00s) | Score: 22.551 (Repetitions: 0) | Time steps: 8037 | Learning steps: 100
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 27 (3.03s) | Score: 22.551 (Repetitions: 0) | Time steps: 8053 | Learning steps: 100
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 28 (3.17s) | Score: 22.551 (Repetitions: 0) | Time steps: 8069 | Learning steps: 100
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 29 (31.80s) | Score: 22.551 (Repetitions: 0) | Time steps: 8085 | Learning steps: 101
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 30 (2.93s) | Score: 22.551 (Repetitions: 0) | Time steps: 8101 | Learning steps: 101
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 31 (2.87s) | Score: 22.551 (Repetitions: 0) | Time steps: 8117 | Learning steps: 101
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 32 (3.10s) | Score: 22.551 (Repetitions: 0) | Time steps: 8133 | Learning steps: 101
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 33 (3.10s) | Score: 22.551 (Repetitions: 0) | Time steps: 8149 | Learning steps: 101
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 34 (31.60s) | Score: 22.551 (Repetitions: 0) | Time steps: 8165 | Learning steps: 102
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 35 (3.00s) | Score: 22.551 (Repetitions: 0) | Time steps: 8181 | Learning steps: 102
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 36 (2.90s) | Score: 22.551 (Repetitions: 0) | Time steps: 8197 | Learning steps: 102
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 37 (3.34s) | Score: 22.551 (Repetitions: 0) | Time steps: 8213 | Learning steps: 102
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 38 (3.86s) | Score: 22.551 (Repetitions: 0) | Time steps: 8229 | Learning steps: 102
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Epoch: 39 (36.90s) | Score: 22.551 (Repetitions: 0) | Time steps: 8245 | Learning steps: 103
+First 10 actions: [4, 9, 12, 0, 5, 1, 6, 8, 10, 2]
+Saving models...
+Epoch: 0 (3.40s) | Score: 191.023 (Repetitions: 0) | Time steps: 8261 | Learning steps: 103
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 1 (3.30s) | Score: 191.023 (Repetitions: 0) | Time steps: 8277 | Learning steps: 103
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 2 (3.30s) | Score: 191.023 (Repetitions: 0) | Time steps: 8293 | Learning steps: 103
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 3 (3.10s) | Score: 191.023 (Repetitions: 0) | Time steps: 8309 | Learning steps: 103
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 4 (33.00s) | Score: 191.023 (Repetitions: 0) | Time steps: 8325 | Learning steps: 104
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 5 (3.10s) | Score: 191.023 (Repetitions: 0) | Time steps: 8341 | Learning steps: 104
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 6 (3.54s) | Score: 191.023 (Repetitions: 0) | Time steps: 8357 | Learning steps: 104
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 7 (3.56s) | Score: 191.023 (Repetitions: 0) | Time steps: 8373 | Learning steps: 104
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 8 (3.10s) | Score: 191.023 (Repetitions: 0) | Time steps: 8389 | Learning steps: 104
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 9 (32.10s) | Score: 191.023 (Repetitions: 0) | Time steps: 8405 | Learning steps: 105
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 10 (3.03s) | Score: 191.023 (Repetitions: 0) | Time steps: 8421 | Learning steps: 105
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 11 (3.17s) | Score: 191.023 (Repetitions: 0) | Time steps: 8437 | Learning steps: 105
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 12 (3.30s) | Score: 191.023 (Repetitions: 0) | Time steps: 8453 | Learning steps: 105
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 13 (3.03s) | Score: 191.023 (Repetitions: 0) | Time steps: 8469 | Learning steps: 105
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 14 (31.37s) | Score: 191.023 (Repetitions: 0) | Time steps: 8485 | Learning steps: 106
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 15 (3.20s) | Score: 191.023 (Repetitions: 0) | Time steps: 8501 | Learning steps: 106
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 16 (3.20s) | Score: 191.023 (Repetitions: 0) | Time steps: 8517 | Learning steps: 106
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 17 (3.40s) | Score: 191.023 (Repetitions: 0) | Time steps: 8533 | Learning steps: 106
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 18 (3.40s) | Score: 191.023 (Repetitions: 0) | Time steps: 8549 | Learning steps: 106
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 19 (33.11s) | Score: 191.023 (Repetitions: 0) | Time steps: 8565 | Learning steps: 107
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 20 (2.99s) | Score: 191.023 (Repetitions: 0) | Time steps: 8581 | Learning steps: 107
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 21 (3.44s) | Score: 191.023 (Repetitions: 0) | Time steps: 8597 | Learning steps: 107
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 22 (3.56s) | Score: 191.023 (Repetitions: 0) | Time steps: 8613 | Learning steps: 107
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 23 (3.41s) | Score: 191.023 (Repetitions: 0) | Time steps: 8629 | Learning steps: 107
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 24 (31.00s) | Score: 191.023 (Repetitions: 0) | Time steps: 8645 | Learning steps: 108
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 25 (3.23s) | Score: 191.023 (Repetitions: 0) | Time steps: 8661 | Learning steps: 108
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 26 (3.31s) | Score: 191.023 (Repetitions: 0) | Time steps: 8677 | Learning steps: 108
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 27 (3.39s) | Score: 191.023 (Repetitions: 0) | Time steps: 8693 | Learning steps: 108
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 28 (3.20s) | Score: 191.023 (Repetitions: 0) | Time steps: 8709 | Learning steps: 108
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 29 (31.56s) | Score: 191.023 (Repetitions: 0) | Time steps: 8725 | Learning steps: 109
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 30 (3.10s) | Score: 191.023 (Repetitions: 0) | Time steps: 8741 | Learning steps: 109
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 31 (3.04s) | Score: 191.023 (Repetitions: 0) | Time steps: 8757 | Learning steps: 109
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Epoch: 32 (3.40s) | Score: 191.023 (Repetitions: 0) | Time steps: 8773 | Learning steps: 109
+First 10 actions: [4, 2, 3, 1, 12, 9, 0, 8, 5, 10]
+Saving models...
+Epoch: 0 (3.38s) | Score: 30.634 (Repetitions: 0) | Time steps: 8789 | Learning steps: 109
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 1 (32.68s) | Score: 30.634 (Repetitions: 0) | Time steps: 8805 | Learning steps: 110
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 2 (3.10s) | Score: 30.634 (Repetitions: 0) | Time steps: 8821 | Learning steps: 110
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 3 (3.42s) | Score: 30.634 (Repetitions: 0) | Time steps: 8837 | Learning steps: 110
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 4 (3.42s) | Score: 30.634 (Repetitions: 0) | Time steps: 8853 | Learning steps: 110
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 5 (3.36s) | Score: 30.634 (Repetitions: 0) | Time steps: 8869 | Learning steps: 110
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 6 (35.90s) | Score: 30.634 (Repetitions: 0) | Time steps: 8885 | Learning steps: 111
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 7 (3.20s) | Score: 30.634 (Repetitions: 0) | Time steps: 8901 | Learning steps: 111
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 8 (3.52s) | Score: 30.634 (Repetitions: 0) | Time steps: 8917 | Learning steps: 111
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 9 (3.41s) | Score: 30.634 (Repetitions: 0) | Time steps: 8933 | Learning steps: 111
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 10 (3.39s) | Score: 30.634 (Repetitions: 0) | Time steps: 8949 | Learning steps: 111
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 11 (33.98s) | Score: 30.634 (Repetitions: 0) | Time steps: 8965 | Learning steps: 112
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 12 (3.30s) | Score: 30.634 (Repetitions: 0) | Time steps: 8981 | Learning steps: 112
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 13 (3.23s) | Score: 30.634 (Repetitions: 0) | Time steps: 8997 | Learning steps: 112
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 14 (3.00s) | Score: 30.634 (Repetitions: 0) | Time steps: 9013 | Learning steps: 112
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 15 (3.07s) | Score: 30.634 (Repetitions: 0) | Time steps: 9029 | Learning steps: 112
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 16 (31.40s) | Score: 30.634 (Repetitions: 0) | Time steps: 9045 | Learning steps: 113
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 17 (3.20s) | Score: 30.634 (Repetitions: 0) | Time steps: 9061 | Learning steps: 113
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 18 (2.92s) | Score: 30.634 (Repetitions: 0) | Time steps: 9077 | Learning steps: 113
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 19 (2.91s) | Score: 30.634 (Repetitions: 0) | Time steps: 9093 | Learning steps: 113
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 20 (3.47s) | Score: 30.634 (Repetitions: 0) | Time steps: 9109 | Learning steps: 113
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 21 (32.50s) | Score: 30.634 (Repetitions: 0) | Time steps: 9125 | Learning steps: 114
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 22 (3.10s) | Score: 30.634 (Repetitions: 0) | Time steps: 9141 | Learning steps: 114
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 23 (3.20s) | Score: 30.634 (Repetitions: 0) | Time steps: 9157 | Learning steps: 114
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 24 (3.42s) | Score: 30.634 (Repetitions: 0) | Time steps: 9173 | Learning steps: 114
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 25 (3.51s) | Score: 30.634 (Repetitions: 0) | Time steps: 9189 | Learning steps: 114
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 26 (33.20s) | Score: 30.634 (Repetitions: 0) | Time steps: 9205 | Learning steps: 115
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Epoch: 27 (3.08s) | Score: 30.634 (Repetitions: 0) | Time steps: 9221 | Learning steps: 115
+First 10 actions: [4, 2, 7, 10, 3, 5, 1, 6, 11, 0]
+Saving models...
+Epoch: 0 (3.09s) | Score: 94.724 (Repetitions: 0) | Time steps: 9237 | Learning steps: 115
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 1 (2.94s) | Score: 94.724 (Repetitions: 0) | Time steps: 9253 | Learning steps: 115
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 2 (3.00s) | Score: 94.724 (Repetitions: 0) | Time steps: 9269 | Learning steps: 115
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 3 (32.37s) | Score: 94.724 (Repetitions: 0) | Time steps: 9285 | Learning steps: 116
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 4 (3.40s) | Score: 94.724 (Repetitions: 0) | Time steps: 9301 | Learning steps: 116
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 5 (3.39s) | Score: 94.724 (Repetitions: 0) | Time steps: 9317 | Learning steps: 116
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 6 (3.43s) | Score: 94.724 (Repetitions: 0) | Time steps: 9333 | Learning steps: 116
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 7 (3.68s) | Score: 94.724 (Repetitions: 0) | Time steps: 9349 | Learning steps: 116
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 8 (30.60s) | Score: 94.724 (Repetitions: 0) | Time steps: 9365 | Learning steps: 117
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 9 (3.00s) | Score: 94.724 (Repetitions: 0) | Time steps: 9381 | Learning steps: 117
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 10 (3.00s) | Score: 94.724 (Repetitions: 0) | Time steps: 9397 | Learning steps: 117
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 11 (3.03s) | Score: 94.724 (Repetitions: 0) | Time steps: 9413 | Learning steps: 117
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 12 (3.07s) | Score: 94.724 (Repetitions: 0) | Time steps: 9429 | Learning steps: 117
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 13 (30.00s) | Score: 94.724 (Repetitions: 0) | Time steps: 9445 | Learning steps: 118
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 14 (2.92s) | Score: 94.724 (Repetitions: 0) | Time steps: 9461 | Learning steps: 118
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 15 (3.17s) | Score: 94.724 (Repetitions: 0) | Time steps: 9477 | Learning steps: 118
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 16 (2.93s) | Score: 94.724 (Repetitions: 0) | Time steps: 9493 | Learning steps: 118
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 17 (3.08s) | Score: 94.724 (Repetitions: 0) | Time steps: 9509 | Learning steps: 118
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 18 (30.80s) | Score: 94.724 (Repetitions: 0) | Time steps: 9525 | Learning steps: 119
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 19 (3.00s) | Score: 94.724 (Repetitions: 0) | Time steps: 9541 | Learning steps: 119
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 20 (3.20s) | Score: 94.724 (Repetitions: 0) | Time steps: 9557 | Learning steps: 119
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 21 (3.00s) | Score: 94.724 (Repetitions: 0) | Time steps: 9573 | Learning steps: 119
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 22 (3.30s) | Score: 94.724 (Repetitions: 0) | Time steps: 9589 | Learning steps: 119
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 23 (30.90s) | Score: 94.724 (Repetitions: 0) | Time steps: 9605 | Learning steps: 120
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Epoch: 24 (3.20s) | Score: 94.724 (Repetitions: 0) | Time steps: 9621 | Learning steps: 120
+First 10 actions: [4, 9, 0, 5, 10, 1, 6, 11, 2, 7]
+Saving models...
+Epoch: 0 (73.12s) | Score: -2446.249 (Repetitions: 0) | Time steps: 9761 | Learning steps: 122
+First 10 actions: [5, 1, 6, 2, 0, 4, 12, 7, 3, 10]
+Saving models...
+Epoch: 1 (3.00s) | Score: 44.198 (Repetitions: 0) | Time steps: 9777 | Learning steps: 122
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 10, 13, 9]
+Saving models...
+Epoch: 2 (3.10s) | Score: 45.863 (Repetitions: 0) | Time steps: 9793 | Learning steps: 122
+First 10 actions: [5, 1, 6, 2, 0, 3, 10, 4, 13, 9]
+Epoch: 3 (3.23s) | Score: 43.483 (Repetitions: 0) | Time steps: 9809 | Learning steps: 122
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 10, 13, 12]
+Epoch: 4 (3.40s) | Score: 43.007 (Repetitions: 0) | Time steps: 9825 | Learning steps: 122
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 13, 10, 9]
+Epoch: 5 (31.56s) | Score: 44.198 (Repetitions: 0) | Time steps: 9841 | Learning steps: 123
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 10, 13, 9]
+Epoch: 6 (2.30s) | Score: 44.198 (Repetitions: 0) | Time steps: 9857 | Learning steps: 123
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 10, 13, 9]
+Epoch: 7 (2.93s) | Score: 42.904 (Repetitions: 0) | Time steps: 9873 | Learning steps: 123
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 13, 10, 9]
+Epoch: 8 (3.38s) | Score: 43.483 (Repetitions: 0) | Time steps: 9889 | Learning steps: 123
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 10, 13, 12]
+Epoch: 9 (3.43s) | Score: 43.007 (Repetitions: 0) | Time steps: 9905 | Learning steps: 123
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 13, 10, 9]
+Epoch: 10 (30.86s) | Score: 43.483 (Repetitions: 0) | Time steps: 9921 | Learning steps: 124
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 10, 13, 12]
+Epoch: 11 (3.00s) | Score: 44.198 (Repetitions: 0) | Time steps: 9937 | Learning steps: 124
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 10, 13, 9]
+Epoch: 12 (3.14s) | Score: 42.189 (Repetitions: 0) | Time steps: 9953 | Learning steps: 124
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 13, 10, 12]
+Epoch: 13 (3.38s) | Score: 44.643 (Repetitions: 0) | Time steps: 9969 | Learning steps: 124
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 10, 13, 9]
+Epoch: 14 (3.41s) | Score: 42.904 (Repetitions: 0) | Time steps: 9985 | Learning steps: 124
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 13, 10, 9]
+Epoch: 15 (32.36s) | Score: 44.198 (Repetitions: 0) | Time steps: 10001 | Learning steps: 125
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 10, 13, 9]
+Epoch: 16 (2.41s) | Score: 44.198 (Repetitions: 0) | Time steps: 10017 | Learning steps: 125
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 10, 13, 9]
+Epoch: 17 (3.09s) | Score: 44.198 (Repetitions: 0) | Time steps: 10033 | Learning steps: 125
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 10, 13, 9]
+Epoch: 18 (3.40s) | Score: 42.904 (Repetitions: 0) | Time steps: 10049 | Learning steps: 125
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 13, 10, 9]
+Epoch: 19 (3.23s) | Score: 44.302 (Repetitions: 0) | Time steps: 10065 | Learning steps: 125
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 10, 13, 9]
+Epoch: 20 (32.91s) | Score: 42.904 (Repetitions: 0) | Time steps: 10081 | Learning steps: 126
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 13, 10, 9]
+Epoch: 21 (2.38s) | Score: 44.198 (Repetitions: 0) | Time steps: 10097 | Learning steps: 126
+First 10 actions: [5, 1, 6, 2, 0, 3, 4, 10, 13, 9]
+Saving models...
+Epoch: 0 (3.07s) | Score: 102.679 (Repetitions: 0) | Time steps: 10113 | Learning steps: 126
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 7, 8]
+Saving models...
+Epoch: 1 (3.00s) | Score: 103.197 (Repetitions: 0) | Time steps: 10129 | Learning steps: 126
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 7, 4]
+Epoch: 2 (3.00s) | Score: 102.475 (Repetitions: 0) | Time steps: 10145 | Learning steps: 126
+First 10 actions: [2, 1, 3, 6, 0, 5, 11, 12, 7, 8]
+Epoch: 3 (31.73s) | Score: 102.679 (Repetitions: 0) | Time steps: 10161 | Learning steps: 127
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 7, 8]
+Epoch: 4 (2.37s) | Score: 102.763 (Repetitions: 0) | Time steps: 10177 | Learning steps: 127
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 8, 13]
+Epoch: 5 (3.33s) | Score: 102.763 (Repetitions: 0) | Time steps: 10193 | Learning steps: 127
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 8, 13]
+Epoch: 6 (3.38s) | Score: 102.763 (Repetitions: 0) | Time steps: 10209 | Learning steps: 127
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 8, 13]
+Epoch: 7 (3.38s) | Score: 102.763 (Repetitions: 0) | Time steps: 10225 | Learning steps: 127
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 8, 13]
+Epoch: 8 (31.86s) | Score: 102.763 (Repetitions: 0) | Time steps: 10241 | Learning steps: 128
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 8, 13]
+Epoch: 9 (2.24s) | Score: 102.763 (Repetitions: 0) | Time steps: 10257 | Learning steps: 128
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 8, 13]
+Epoch: 10 (2.93s) | Score: 102.763 (Repetitions: 0) | Time steps: 10273 | Learning steps: 128
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 8, 13]
+Epoch: 11 (3.11s) | Score: 102.763 (Repetitions: 0) | Time steps: 10289 | Learning steps: 128
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 8, 13]
+Epoch: 12 (3.20s) | Score: 102.763 (Repetitions: 0) | Time steps: 10305 | Learning steps: 128
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 8, 13]
+Epoch: 13 (30.20s) | Score: 102.763 (Repetitions: 0) | Time steps: 10321 | Learning steps: 129
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 8, 13]
+Epoch: 14 (2.67s) | Score: 102.763 (Repetitions: 0) | Time steps: 10337 | Learning steps: 129
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 8, 13]
+Epoch: 15 (3.30s) | Score: 102.763 (Repetitions: 0) | Time steps: 10353 | Learning steps: 129
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 8, 13]
+Epoch: 16 (3.34s) | Score: 102.763 (Repetitions: 0) | Time steps: 10369 | Learning steps: 129
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 8, 13]
+Epoch: 17 (3.46s) | Score: 102.763 (Repetitions: 0) | Time steps: 10385 | Learning steps: 129
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 8, 13]
+Epoch: 18 (34.50s) | Score: 102.763 (Repetitions: 0) | Time steps: 10401 | Learning steps: 130
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 8, 13]
+Epoch: 19 (2.30s) | Score: 102.763 (Repetitions: 0) | Time steps: 10417 | Learning steps: 130
+First 10 actions: [2, 1, 3, 6, 0, 11, 5, 12, 8, 13]

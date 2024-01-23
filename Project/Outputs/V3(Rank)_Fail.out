@@ -1,0 +1,905 @@
+Saving models...
+Image: 0 (2.61s) | Score: -1161.280 (Repetitions: 30) | Time steps: 46 | Learning steps: 0
+First 10 actions: [0, 0, 11, 4, 0, 6, 11, 2, 3, 8]
+Rewards of actions: ['-20.00', '-40.00', '52.02', '0.15', '-40.00', '0.00', '-40.00', '0.00', '0.00', '0.00']
+Image: 1 (21.24s) | Score: -1377.037 (Repetitions: 35) | Time steps: 97 | Learning steps: 1
+First 10 actions: [4, 15, 0, 11, 5, 0, 8, 4, 8, 14]
+Rewards of actions: ['0.62', '-15.00', '-10.00', '39.01', '0.38', '-40.00', '0.00', '-40.00', '-40.00', '0.00']
+Image: 2 (2.52s) | Score: -1417.784 (Repetitions: 36) | Time steps: 149 | Learning steps: 1
+First 10 actions: [5, 8, 5, 5, 15, 15, 10, 12, 4, 0]
+Rewards of actions: ['1.90', '-15.00', '-40.00', '-40.00', '0.00', '-40.00', '18.95', '0.31', '0.07', '0.00']
+Image: 3 (20.98s) | Score: -2139.068 (Repetitions: 53) | Time steps: 218 | Learning steps: 2
+First 10 actions: [8, 15, 12, 13, 9, 2, 0, 4, 8, 8]
+Rewards of actions: ['-20.00', '-15.00', '0.82', '-5.00', '10.16', '0.00', '0.00', '0.08', '-40.00', '-40.00']
+Image: 4 (20.32s) | Score: -1305.816 (Repetitions: 34) | Time steps: 268 | Learning steps: 3
+First 10 actions: [5, 13, 10, 2, 6, 11, 12, 6, 0, 11]
+Rewards of actions: ['1.90', '-15.00', '44.22', '-5.00', '0.00', '26.01', '0.35', '-40.00', '0.00', '-40.00']
+Image: 5 (2.32s) | Score: -1205.673 (Repetitions: 30) | Time steps: 314 | Learning steps: 3
+First 10 actions: [0, 0, 13, 12, 9, 2, 0, 2, 6, 12]
+Rewards of actions: ['-20.00', '-40.00', '-10.00', '0.61', '10.16', '0.00', '-40.00', '-40.00', '0.00', '-40.00']
+Image: 6 (19.99s) | Score: -1369.600 (Repetitions: 36) | Time steps: 366 | Learning steps: 4
+First 10 actions: [9, 7, 5, 3, 10, 4, 4, 12, 10, 0]
+Rewards of actions: ['50.82', '-15.00', '0.63', '-5.00', '26.53', '0.10', '-40.00', '0.31', '-40.00', '0.00']
+Image: 7 (20.05s) | Score: -1212.853 (Repetitions: 31) | Time steps: 413 | Learning steps: 5
+First 10 actions: [3, 15, 5, 10, 10, 11, 11, 2, 7, 11]
+Rewards of actions: ['-20.00', '-15.00', '0.63', '33.16', '-40.00', '26.01', '-40.00', '0.00', '0.00', '-40.00']
+Saving models...
+Image: 8 (1.95s) | Score: -761.904 (Repetitions: 20) | Time steps: 449 | Learning steps: 5
+First 10 actions: [7, 4, 10, 12, 1, 3, 4, 15, 10, 2]
+Rewards of actions: ['-20.00', '0.31', '44.22', '0.61', '0.00', '0.00', '-40.00', '0.00', '-40.00', '0.00']
+Image: 9 (20.37s) | Score: -1643.432 (Repetitions: 42) | Time steps: 507 | Learning steps: 6
+First 10 actions: [12, 15, 9, 0, 14, 14, 11, 15, 10, 15]
+Rewards of actions: ['2.46', '-15.00', '16.94', '-5.00', '0.00', '-40.00', '22.29', '-40.00', '14.74', '-40.00']
+Saving models...
+Image: 10 (1.55s) | Score: -366.569 (Repetitions: 9) | Time steps: 532 | Learning steps: 6
+First 10 actions: [13, 13, 8, 6, 1, 2, 4, 2, 7, 12]
+Rewards of actions: ['-20.00', '-40.00', '-10.00', '-5.00', '0.00', '0.00', '0.09', '-40.00', '0.00', '0.25']
+Image: 11 (19.72s) | Score: -1014.870 (Repetitions: 26) | Time steps: 574 | Learning steps: 7
+First 10 actions: [15, 2, 9, 14, 11, 7, 2, 10, 14, 4]
+Rewards of actions: ['-20.00', '-15.00', '16.94', '-5.00', '31.21', '0.00', '-40.00', '16.58', '-40.00', '0.06']
+Image: 12 (2.14s) | Score: -1009.618 (Repetitions: 26) | Time steps: 616 | Learning steps: 7
+First 10 actions: [4, 12, 7, 9, 5, 2, 11, 7, 14, 6]
+Rewards of actions: ['0.62', '1.23', '-10.00', '12.71', '0.38', '0.00', '22.29', '-40.00', '0.00', '0.00']
+Image: 13 (19.89s) | Score: -454.065 (Repetitions: 15) | Time steps: 647 | Learning steps: 8
+First 10 actions: [10, 12, 0, 9, 8, 9, 3, 15, 0, 9]
+Rewards of actions: ['132.65', '1.23', '-10.00', '12.71', '0.00', '-40.00', '0.00', '0.00', '-40.00', '-40.00']
+Image: 14 (2.99s) | Score: -1954.971 (Repetitions: 49) | Time steps: 712 | Learning steps: 8
+First 10 actions: [8, 5, 4, 4, 3, 5, 2, 10, 12, 3]
+Rewards of actions: ['-20.00', '0.95', '0.21', '-40.00', '0.00', '-40.00', '0.00', '16.58', '0.27', '-40.00']
+Image: 15 (21.21s) | Score: -1375.566 (Repetitions: 35) | Time steps: 763 | Learning steps: 9
+First 10 actions: [4, 1, 9, 13, 15, 6, 2, 15, 0, 11]
+Rewards of actions: ['0.62', '-15.00', '16.94', '-5.00', '0.00', '0.00', '0.00', '-40.00', '0.00', '15.61']
+Image: 16 (19.97s) | Score: -1138.650 (Repetitions: 28) | Time steps: 807 | Learning steps: 10
+First 10 actions: [13, 6, 3, 6, 14, 5, 0, 7, 11, 6]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-40.00', '0.00', '0.32', '0.00', '0.00', '17.34', '-40.00']
+Image: 17 (21.74s) | Score: -3005.474 (Repetitions: 79) | Time steps: 902 | Learning steps: 11
+First 10 actions: [11, 6, 4, 5, 8, 6, 1, 8, 7, 3]
+Rewards of actions: ['156.05', '-15.00', '0.21', '0.47', '0.00', '-40.00', '0.00', '-40.00', '0.00', '0.00']
+Image: 18 (21.36s) | Score: -1811.469 (Repetitions: 46) | Time steps: 964 | Learning steps: 12
+First 10 actions: [4, 2, 9, 5, 9, 1, 10, 12, 0, 15]
+Rewards of actions: ['0.62', '-15.00', '16.94', '0.47', '-40.00', '0.00', '18.95', '0.31', '0.00', '0.00']
+Image: 19 (2.45s) | Score: -1226.233 (Repetitions: 34) | Time steps: 1014 | Learning steps: 12
+First 10 actions: [11, 15, 6, 13, 13, 5, 8, 0, 15, 5]
+Rewards of actions: ['156.05', '-15.00', '-10.00', '-5.00', '-40.00', '0.32', '0.00', '0.00', '-40.00', '-40.00']
+Image: 20 (21.63s) | Score: -2654.172 (Repetitions: 68) | Time steps: 1098 | Learning steps: 13
+First 10 actions: [3, 11, 5, 5, 15, 4, 3, 15, 15, 12]
+Rewards of actions: ['-20.00', '78.03', '0.63', '-40.00', '0.00', '0.10', '-40.00', '-40.00', '-40.00', '0.25']
+Image: 21 (42.25s) | Score: -4128.073 (Repetitions: 103) | Time steps: 1217 | Learning steps: 15
+First 10 actions: [7, 14, 12, 7, 13, 14, 13, 10, 15, 5]
+Rewards of actions: ['-20.00', '-15.00', '0.82', '-40.00', '0.00', '-40.00', '-40.00', '16.58', '0.00', '0.19']
+Image: 22 (21.39s) | Score: -1805.636 (Repetitions: 47) | Time steps: 1280 | Learning steps: 16
+First 10 actions: [9, 4, 2, 7, 13, 11, 4, 11, 6, 2]
+Rewards of actions: ['50.82', '0.31', '-10.00', '-5.00', '0.00', '26.01', '-40.00', '-40.00', '0.00', '-40.00']
+Image: 23 (2.81s) | Score: -1718.819 (Repetitions: 43) | Time steps: 1339 | Learning steps: 16
+First 10 actions: [15, 4, 2, 2, 0, 0, 11, 5, 8, 11]
+Rewards of actions: ['-20.00', '0.31', '-10.00', '-40.00', '0.00', '-40.00', '22.29', '0.24', '0.00', '-40.00']
+Image: 24 (20.92s) | Score: -1504.234 (Repetitions: 37) | Time steps: 1392 | Learning steps: 17
+First 10 actions: [0, 15, 5, 13, 0, 6, 1, 12, 8, 14]
+Rewards of actions: ['-20.00', '-15.00', '0.63', '-5.00', '-40.00', '0.00', '0.00', '0.31', '0.00', '0.00']
+Image: 25 (21.05s) | Score: -1564.704 (Repetitions: 39) | Time steps: 1447 | Learning steps: 18
+First 10 actions: [5, 7, 13, 6, 12, 4, 14, 10, 3, 0]
+Rewards of actions: ['1.90', '-15.00', '-10.00', '-5.00', '0.49', '0.10', '0.00', '16.58', '0.00', '0.00']
+Image: 26 (1.87s) | Score: -726.097 (Repetitions: 18) | Time steps: 1481 | Learning steps: 18
+First 10 actions: [13, 12, 2, 13, 13, 3, 9, 0, 5, 0]
+Rewards of actions: ['-20.00', '1.23', '-10.00', '-40.00', '-40.00', '0.00', '7.26', '0.00', '0.21', '-40.00']
+Image: 27 (21.46s) | Score: -1600.578 (Repetitions: 41) | Time steps: 1538 | Learning steps: 19
+First 10 actions: [15, 8, 10, 9, 6, 8, 14, 9, 11, 14]
+Rewards of actions: ['-20.00', '-15.00', '44.22', '12.71', '0.00', '-40.00', '0.00', '-40.00', '17.34', '-40.00']
+Saving models...
+Image: 28 (1.48s) | Score: -249.300 (Repetitions: 6) | Time steps: 1560 | Learning steps: 19
+First 10 actions: [13, 15, 2, 6, 4, 11, 9, 3, 11, 1]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '0.12', '26.01', '7.26', '0.00', '-40.00', '0.00']
+Image: 29 (21.57s) | Score: -1623.721 (Repetitions: 44) | Time steps: 1620 | Learning steps: 20
+First 10 actions: [10, 8, 2, 5, 14, 9, 0, 11, 6, 4]
+Rewards of actions: ['132.65', '-15.00', '-10.00', '0.47', '0.00', '8.47', '0.00', '19.51', '0.00', '0.06']
+Image: 30 (1.76s) | Score: -426.928 (Repetitions: 14) | Time steps: 1650 | Learning steps: 20
+First 10 actions: [10, 3, 14, 1, 5, 11, 2, 8, 14, 6]
+Rewards of actions: ['132.65', '-15.00', '-10.00', '-5.00', '0.38', '26.01', '0.00', '0.00', '-40.00', '0.00']
+Image: 31 (20.43s) | Score: -1405.789 (Repetitions: 36) | Time steps: 1702 | Learning steps: 21
+First 10 actions: [14, 14, 3, 11, 0, 10, 2, 0, 13, 6]
+Rewards of actions: ['-20.00', '-40.00', '-10.00', '39.01', '0.00', '22.11', '0.00', '-40.00', '0.00', '0.00']
+Image: 32 (2.32s) | Score: -1205.842 (Repetitions: 30) | Time steps: 1748 | Learning steps: 21
+First 10 actions: [7, 4, 15, 15, 0, 7, 13, 5, 9, 0]
+Rewards of actions: ['-20.00', '0.31', '-10.00', '-40.00', '0.00', '-40.00', '0.00', '0.24', '5.65', '-40.00']
+Image: 33 (20.36s) | Score: -1107.625 (Repetitions: 29) | Time steps: 1793 | Learning steps: 22
+First 10 actions: [14, 11, 0, 15, 11, 13, 8, 1, 13, 8]
+Rewards of actions: ['-20.00', '78.03', '-10.00', '-5.00', '-40.00', '0.00', '0.00', '0.00', '-40.00', '-40.00']
+Image: 34 (2.08s) | Score: -927.181 (Repetitions: 23) | Time steps: 1832 | Learning steps: 22
+First 10 actions: [3, 5, 15, 5, 14, 4, 9, 3, 6, 6]
+Rewards of actions: ['-20.00', '0.95', '-10.00', '-40.00', '0.00', '0.10', '7.26', '-40.00', '0.00', '-40.00']
+Image: 35 (20.98s) | Score: -1974.903 (Repetitions: 50) | Time steps: 1898 | Learning steps: 23
+First 10 actions: [12, 13, 1, 6, 11, 12, 12, 10, 5, 7]
+Rewards of actions: ['2.46', '-15.00', '-10.00', '-5.00', '31.21', '-40.00', '-40.00', '16.58', '0.21', '0.00']
+Image: 36 (20.98s) | Score: -2146.565 (Repetitions: 54) | Time steps: 1968 | Learning steps: 24
+First 10 actions: [3, 9, 13, 8, 12, 1, 3, 9, 12, 10]
+Rewards of actions: ['-20.00', '25.41', '-10.00', '-5.00', '0.49', '0.00', '-40.00', '-40.00', '-40.00', '13.27']
+Image: 37 (21.95s) | Score: -2044.999 (Repetitions: 54) | Time steps: 2038 | Learning steps: 25
+First 10 actions: [9, 4, 11, 15, 15, 6, 14, 10, 5, 15]
+Rewards of actions: ['50.82', '0.31', '52.02', '-5.00', '-40.00', '0.00', '0.00', '16.58', '0.21', '-40.00']
+Image: 38 (20.07s) | Score: -918.106 (Repetitions: 27) | Time steps: 2081 | Learning steps: 26
+First 10 actions: [11, 11, 6, 1, 12, 1, 10, 15, 6, 7]
+Rewards of actions: ['156.05', '-40.00', '-10.00', '-5.00', '0.49', '-40.00', '18.95', '0.00', '-40.00', '0.00']
+Image: 39 (1.70s) | Score: -453.706 (Repetitions: 13) | Time steps: 2110 | Learning steps: 26
+First 10 actions: [12, 5, 11, 2, 1, 9, 2, 13, 12, 14]
+Rewards of actions: ['2.46', '0.95', '52.02', '-5.00', '0.00', '8.47', '-40.00', '0.00', '-40.00', '0.00']
+Image: 40 (20.15s) | Score: -1489.765 (Repetitions: 37) | Time steps: 2163 | Learning steps: 27
+First 10 actions: [0, 7, 0, 12, 12, 3, 0, 9, 6, 5]
+Rewards of actions: ['-20.00', '-15.00', '-40.00', '0.61', '-40.00', '0.00', '-40.00', '6.35', '0.00', '0.19']
+Image: 41 (2.10s) | Score: -934.459 (Repetitions: 24) | Time steps: 2203 | Learning steps: 27
+First 10 actions: [4, 3, 13, 11, 14, 6, 13, 4, 14, 1]
+Rewards of actions: ['0.62', '-15.00', '-10.00', '39.01', '0.00', '0.00', '-40.00', '-40.00', '-40.00', '0.00']
+Image: 42 (19.78s) | Score: -874.566 (Repetitions: 22) | Time steps: 2241 | Learning steps: 28
+First 10 actions: [1, 14, 12, 5, 10, 9, 3, 2, 12, 6]
+Rewards of actions: ['-20.00', '-15.00', '0.82', '0.47', '26.53', '8.47', '0.00', '0.00', '-40.00', '0.00']
+Image: 43 (2.25s) | Score: -1132.651 (Repetitions: 28) | Time steps: 2285 | Learning steps: 28
+First 10 actions: [14, 5, 0, 3, 15, 5, 4, 5, 3, 7]
+Rewards of actions: ['-20.00', '0.95', '-10.00', '-5.00', '0.00', '-40.00', '0.09', '-40.00', '-40.00', '0.00']
+Image: 44 (20.56s) | Score: -1588.317 (Repetitions: 44) | Time steps: 2345 | Learning steps: 29
+First 10 actions: [11, 7, 9, 7, 4, 13, 1, 7, 2, 10]
+Rewards of actions: ['156.05', '-15.00', '16.94', '-40.00', '0.12', '0.00', '0.00', '-40.00', '0.00', '13.27']
+Image: 45 (2.08s) | Score: -928.481 (Repetitions: 23) | Time steps: 2384 | Learning steps: 29
+First 10 actions: [0, 13, 0, 8, 1, 4, 6, 2, 4, 11]
+Rewards of actions: ['-20.00', '-15.00', '-40.00', '-5.00', '0.00', '0.10', '0.00', '0.00', '-40.00', '15.61']
+Image: 46 (19.44s) | Score: -563.325 (Repetitions: 16) | Time steps: 2416 | Learning steps: 30
+First 10 actions: [8, 11, 9, 0, 2, 6, 1, 13, 15, 12]
+Rewards of actions: ['-20.00', '78.03', '16.94', '-5.00', '0.00', '0.00', '0.00', '0.00', '0.00', '0.25']
+Image: 47 (2.29s) | Score: -1097.389 (Repetitions: 28) | Time steps: 2460 | Learning steps: 30
+First 10 actions: [12, 14, 15, 15, 10, 15, 13, 1, 11, 8]
+Rewards of actions: ['2.46', '-15.00', '-10.00', '-40.00', '26.53', '-40.00', '0.00', '0.00', '17.34', '0.00']
+Image: 48 (21.06s) | Score: -2272.729 (Repetitions: 59) | Time steps: 2535 | Learning steps: 31
+First 10 actions: [12, 11, 15, 1, 2, 4, 10, 1, 13, 4]
+Rewards of actions: ['2.46', '78.03', '-10.00', '-5.00', '0.00', '0.10', '18.95', '-40.00', '0.00', '-40.00']
+Image: 49 (22.78s) | Score: -3113.681 (Repetitions: 78) | Time steps: 2629 | Learning steps: 32
+First 10 actions: [13, 8, 12, 9, 14, 15, 10, 9, 14, 6]
+Rewards of actions: ['-20.00', '-15.00', '0.82', '12.71', '0.00', '0.00', '18.95', '-40.00', '-40.00', '0.00']
+Image: 50 (20.90s) | Score: -1224.333 (Repetitions: 31) | Time steps: 2676 | Learning steps: 33
+First 10 actions: [14, 6, 6, 11, 0, 7, 0, 8, 2, 9]
+Rewards of actions: ['-20.00', '-15.00', '-40.00', '39.01', '0.00', '0.00', '-40.00', '0.00', '0.00', '5.08']
+Image: 51 (21.60s) | Score: -2990.993 (Repetitions: 76) | Time steps: 2768 | Learning steps: 34
+First 10 actions: [8, 9, 6, 9, 11, 10, 6, 2, 7, 2]
+Rewards of actions: ['-20.00', '25.41', '-10.00', '-40.00', '31.21', '22.11', '-40.00', '0.00', '0.00', '-40.00']
+Image: 52 (21.83s) | Score: -2665.909 (Repetitions: 66) | Time steps: 2850 | Learning steps: 35
+First 10 actions: [14, 15, 3, 12, 0, 0, 1, 9, 12, 5]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '0.61', '0.00', '-40.00', '0.00', '6.35', '-40.00', '0.19']
+Image: 53 (21.16s) | Score: -1958.020 (Repetitions: 49) | Time steps: 2915 | Learning steps: 36
+First 10 actions: [3, 5, 6, 1, 5, 11, 5, 7, 5, 5]
+Rewards of actions: ['-20.00', '0.95', '-10.00', '-5.00', '-40.00', '26.01', '-40.00', '0.00', '-40.00', '-40.00']
+Image: 54 (20.68s) | Score: -1403.236 (Repetitions: 37) | Time steps: 2968 | Learning steps: 37
+First 10 actions: [6, 10, 7, 11, 11, 1, 6, 10, 5, 3]
+Rewards of actions: ['-20.00', '66.33', '-10.00', '39.01', '-40.00', '0.00', '-40.00', '-40.00', '0.21', '0.00']
+Image: 55 (21.63s) | Score: -2617.509 (Repetitions: 65) | Time steps: 3049 | Learning steps: 38
+First 10 actions: [3, 15, 2, 1, 12, 11, 0, 7, 2, 6]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '0.49', '26.01', '0.00', '0.00', '-40.00', '0.00']
+Image: 56 (2.52s) | Score: -1499.584 (Repetitions: 37) | Time steps: 3102 | Learning steps: 38
+First 10 actions: [7, 0, 13, 1, 0, 2, 10, 13, 2, 12]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '-40.00', '0.00', '18.95', '-40.00', '-40.00', '0.25']
+Image: 57 (21.38s) | Score: -1645.527 (Repetitions: 46) | Time steps: 3164 | Learning steps: 39
+First 10 actions: [11, 9, 12, 12, 12, 9, 9, 3, 7, 9]
+Rewards of actions: ['156.05', '25.41', '0.82', '-40.00', '-40.00', '-40.00', '-40.00', '0.00', '0.00', '-40.00']
+Image: 58 (21.80s) | Score: -2521.993 (Repetitions: 63) | Time steps: 3243 | Learning steps: 40
+First 10 actions: [2, 5, 5, 3, 9, 14, 3, 13, 6, 6]
+Rewards of actions: ['-20.00', '0.95', '-40.00', '-5.00', '10.16', '0.00', '-40.00', '0.00', '0.00', '-40.00']
+Image: 59 (20.73s) | Score: -909.066 (Repetitions: 25) | Time steps: 3284 | Learning steps: 41
+First 10 actions: [9, 13, 11, 0, 11, 7, 15, 3, 7, 11]
+Rewards of actions: ['50.82', '-15.00', '52.02', '-5.00', '-40.00', '0.00', '0.00', '0.00', '-40.00', '-40.00']
+Image: 60 (21.74s) | Score: -2501.527 (Repetitions: 63) | Time steps: 3363 | Learning steps: 42
+First 10 actions: [3, 14, 11, 1, 5, 2, 14, 8, 8, 2]
+Rewards of actions: ['-20.00', '-15.00', '52.02', '-5.00', '0.38', '0.00', '-40.00', '0.00', '-40.00', '-40.00']
+Image: 61 (2.52s) | Score: -1436.607 (Repetitions: 36) | Time steps: 3415 | Learning steps: 42
+First 10 actions: [4, 4, 8, 7, 7, 8, 0, 0, 6, 5]
+Rewards of actions: ['0.62', '-40.00', '-10.00', '-5.00', '-40.00', '-40.00', '0.00', '-40.00', '0.00', '0.19']
+Image: 62 (21.47s) | Score: -1761.269 (Repetitions: 48) | Time steps: 3479 | Learning steps: 43
+First 10 actions: [11, 6, 12, 6, 8, 9, 9, 6, 9, 12]
+Rewards of actions: ['156.05', '-15.00', '0.82', '-40.00', '0.00', '8.47', '-40.00', '-40.00', '-40.00', '-40.00']
+Image: 63 (21.14s) | Score: -1442.509 (Repetitions: 38) | Time steps: 3533 | Learning steps: 44
+First 10 actions: [12, 10, 10, 10, 2, 3, 6, 1, 14, 6]
+Rewards of actions: ['2.46', '66.33', '-40.00', '-40.00', '0.00', '0.00', '0.00', '0.00', '0.00', '-40.00']
+Image: 64 (21.88s) | Score: -2833.089 (Repetitions: 71) | Time steps: 3620 | Learning steps: 45
+First 10 actions: [14, 14, 5, 1, 12, 10, 5, 13, 5, 14]
+Rewards of actions: ['-20.00', '-40.00', '0.63', '-5.00', '0.49', '22.11', '-40.00', '0.00', '-40.00', '-40.00']
+Image: 65 (2.17s) | Score: -944.878 (Repetitions: 25) | Time steps: 3661 | Learning steps: 45
+First 10 actions: [13, 11, 8, 1, 12, 7, 4, 2, 13, 13]
+Rewards of actions: ['-20.00', '78.03', '-10.00', '-5.00', '0.49', '0.00', '0.09', '0.00', '-40.00', '-40.00']
+Image: 66 (21.18s) | Score: -1314.900 (Repetitions: 36) | Time steps: 3713 | Learning steps: 46
+First 10 actions: [10, 6, 2, 12, 5, 2, 9, 1, 10, 5]
+Rewards of actions: ['132.65', '-15.00', '-10.00', '0.61', '0.38', '-40.00', '7.26', '0.00', '-40.00', '-40.00']
+Image: 67 (21.05s) | Score: -1328.983 (Repetitions: 33) | Time steps: 3762 | Learning steps: 47
+First 10 actions: [14, 5, 0, 12, 4, 8, 8, 2, 3, 13]
+Rewards of actions: ['-20.00', '0.95', '-10.00', '0.61', '0.12', '0.00', '-40.00', '0.00', '0.00', '0.00']
+Image: 68 (2.63s) | Score: -1468.069 (Repetitions: 39) | Time steps: 3817 | Learning steps: 47
+First 10 actions: [9, 0, 11, 13, 11, 1, 2, 1, 7, 8]
+Rewards of actions: ['50.82', '-15.00', '52.02', '-5.00', '-40.00', '0.00', '0.00', '-40.00', '0.00', '0.00']
+Image: 69 (22.70s) | Score: -2992.618 (Repetitions: 78) | Time steps: 3911 | Learning steps: 48
+First 10 actions: [10, 0, 1, 9, 6, 1, 5, 9, 5, 0]
+Rewards of actions: ['132.65', '-15.00', '-10.00', '12.71', '0.00', '-40.00', '0.27', '-40.00', '-40.00', '-40.00']
+Image: 70 (21.34s) | Score: -1513.611 (Repetitions: 39) | Time steps: 3966 | Learning steps: 49
+First 10 actions: [12, 3, 10, 2, 3, 7, 14, 13, 11, 10]
+Rewards of actions: ['2.46', '-15.00', '44.22', '-5.00', '-40.00', '0.00', '0.00', '0.00', '17.34', '-40.00']
+Image: 71 (20.90s) | Score: -1749.136 (Repetitions: 44) | Time steps: 4026 | Learning steps: 50
+First 10 actions: [12, 4, 8, 8, 9, 5, 9, 2, 14, 3]
+Rewards of actions: ['2.46', '0.31', '-10.00', '-40.00', '10.16', '0.32', '-40.00', '0.00', '0.00', '0.00']
+Image: 72 (1.85s) | Score: -729.100 (Repetitions: 18) | Time steps: 4060 | Learning steps: 50
+First 10 actions: [7, 5, 1, 1, 3, 2, 3, 1, 12, 12]
+Rewards of actions: ['-20.00', '0.95', '-10.00', '-40.00', '0.00', '0.00', '-40.00', '-40.00', '0.27', '-40.00']
+Image: 73 (20.14s) | Score: -1345.308 (Repetitions: 35) | Time steps: 4111 | Learning steps: 51
+First 10 actions: [15, 10, 7, 2, 9, 1, 13, 3, 0, 15]
+Rewards of actions: ['-20.00', '66.33', '-10.00', '-5.00', '10.16', '0.00', '0.00', '0.00', '0.00', '-40.00']
+Image: 74 (21.02s) | Score: -2045.844 (Repetitions: 51) | Time steps: 4178 | Learning steps: 52
+First 10 actions: [7, 15, 5, 13, 7, 7, 11, 14, 11, 7]
+Rewards of actions: ['-20.00', '-15.00', '0.63', '-5.00', '-40.00', '-40.00', '22.29', '0.00', '-40.00', '-40.00']
+Image: 75 (1.99s) | Score: -672.777 (Repetitions: 19) | Time steps: 4213 | Learning steps: 52
+First 10 actions: [5, 10, 2, 14, 11, 6, 12, 1, 7, 12]
+Rewards of actions: ['1.90', '66.33', '-10.00', '-5.00', '31.21', '0.00', '0.35', '0.00', '0.00', '-40.00']
+Image: 76 (21.09s) | Score: -1796.448 (Repetitions: 46) | Time steps: 4275 | Learning steps: 53
+First 10 actions: [2, 10, 3, 6, 4, 4, 6, 12, 15, 6]
+Rewards of actions: ['-20.00', '66.33', '-10.00', '-5.00', '0.12', '-40.00', '-40.00', '0.31', '0.00', '-40.00']
+Image: 77 (21.36s) | Score: -1464.653 (Repetitions: 40) | Time steps: 4331 | Learning steps: 54
+First 10 actions: [11, 15, 6, 3, 6, 14, 14, 9, 15, 2]
+Rewards of actions: ['156.05', '-15.00', '-10.00', '-5.00', '-40.00', '0.00', '-40.00', '6.35', '-40.00', '0.00']
+Image: 78 (2.07s) | Score: -881.333 (Repetitions: 22) | Time steps: 4369 | Learning steps: 54
+First 10 actions: [8, 1, 12, 1, 8, 11, 0, 5, 13, 13]
+Rewards of actions: ['-20.00', '-15.00', '0.82', '-40.00', '-40.00', '26.01', '0.00', '0.24', '0.00', '-40.00']
+Image: 79 (21.15s) | Score: -1399.643 (Repetitions: 35) | Time steps: 4420 | Learning steps: 55
+First 10 actions: [2, 6, 12, 1, 11, 12, 7, 4, 0, 3]
+Rewards of actions: ['-20.00', '-15.00', '0.82', '-5.00', '31.21', '-40.00', '0.00', '0.08', '0.00', '0.00']
+Image: 80 (21.32s) | Score: -2214.103 (Repetitions: 56) | Time steps: 4492 | Learning steps: 56
+First 10 actions: [1, 15, 11, 3, 4, 4, 4, 2, 3, 8]
+Rewards of actions: ['-20.00', '-15.00', '52.02', '-5.00', '0.12', '-40.00', '-40.00', '0.00', '-40.00', '0.00']
+Image: 81 (2.43s) | Score: -1263.428 (Repetitions: 33) | Time steps: 4541 | Learning steps: 56
+First 10 actions: [8, 10, 12, 0, 8, 2, 14, 6, 6, 6]
+Rewards of actions: ['-20.00', '66.33', '0.82', '-5.00', '-40.00', '0.00', '0.00', '0.00', '-40.00', '-40.00']
+Image: 82 (20.87s) | Score: -1008.109 (Repetitions: 26) | Time steps: 4583 | Learning steps: 57
+First 10 actions: [4, 5, 9, 0, 15, 9, 9, 5, 6, 2]
+Rewards of actions: ['0.62', '0.95', '16.94', '-5.00', '0.00', '-40.00', '-40.00', '-40.00', '0.00', '0.00']
+Image: 83 (2.57s) | Score: -1460.378 (Repetitions: 36) | Time steps: 4635 | Learning steps: 57
+First 10 actions: [0, 6, 5, 6, 8, 12, 14, 6, 7, 7]
+Rewards of actions: ['-20.00', '-15.00', '0.63', '-40.00', '0.00', '0.41', '0.00', '-40.00', '0.00', '-40.00']
+Image: 84 (21.20s) | Score: -1538.807 (Repetitions: 40) | Time steps: 4691 | Learning steps: 58
+First 10 actions: [3, 10, 1, 10, 8, 1, 11, 7, 11, 13]
+Rewards of actions: ['-20.00', '66.33', '-10.00', '-40.00', '0.00', '-40.00', '22.29', '0.00', '-40.00', '0.00']
+Image: 85 (21.28s) | Score: -1744.374 (Repetitions: 45) | Time steps: 4752 | Learning steps: 59
+First 10 actions: [4, 9, 14, 6, 11, 3, 6, 4, 13, 10]
+Rewards of actions: ['0.62', '25.41', '-10.00', '-5.00', '31.21', '0.00', '-40.00', '-40.00', '0.00', '13.27']
+Image: 86 (1.72s) | Score: -500.838 (Repetitions: 13) | Time steps: 4781 | Learning steps: 59
+First 10 actions: [6, 13, 5, 9, 10, 2, 9, 3, 3, 13]
+Rewards of actions: ['-20.00', '-15.00', '0.63', '12.71', '26.53', '0.00', '-40.00', '0.00', '-40.00', '-40.00']
+Image: 87 (21.44s) | Score: -2361.932 (Repetitions: 60) | Time steps: 4857 | Learning steps: 60
+First 10 actions: [3, 6, 10, 9, 13, 12, 0, 0, 8, 11]
+Rewards of actions: ['-20.00', '-15.00', '44.22', '12.71', '0.00', '0.41', '0.00', '-40.00', '0.00', '15.61']
+Image: 88 (19.46s) | Score: -595.800 (Repetitions: 15) | Time steps: 4888 | Learning steps: 61
+First 10 actions: [8, 6, 14, 12, 11, 8, 12, 12, 10, 5]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '0.61', '31.21', '-40.00', '-40.00', '-40.00', '14.74', '0.19']
+Image: 89 (2.86s) | Score: -1577.259 (Repetitions: 44) | Time steps: 4948 | Learning steps: 61
+First 10 actions: [11, 1, 10, 6, 15, 11, 3, 15, 0, 5]
+Rewards of actions: ['156.05', '-15.00', '44.22', '-5.00', '0.00', '-40.00', '0.00', '-40.00', '0.00', '0.19']
+Image: 90 (20.20s) | Score: -1517.263 (Repetitions: 42) | Time steps: 5006 | Learning steps: 62
+First 10 actions: [11, 12, 5, 3, 7, 4, 1, 15, 6, 12]
+Rewards of actions: ['156.05', '1.23', '0.63', '-5.00', '0.00', '0.10', '0.00', '0.00', '0.00', '-40.00']
+Image: 91 (20.48s) | Score: -1422.615 (Repetitions: 36) | Time steps: 5058 | Learning steps: 63
+First 10 actions: [13, 4, 2, 12, 10, 15, 6, 4, 11, 13]
+Rewards of actions: ['-20.00', '0.31', '-10.00', '0.61', '26.53', '0.00', '0.00', '-40.00', '17.34', '-40.00']
+Image: 92 (20.63s) | Score: -1877.118 (Repetitions: 48) | Time steps: 5122 | Learning steps: 64
+First 10 actions: [9, 2, 0, 13, 13, 15, 13, 7, 1, 0]
+Rewards of actions: ['50.82', '-15.00', '-10.00', '-5.00', '-40.00', '0.00', '-40.00', '0.00', '0.00', '-40.00']
+Image: 93 (2.75s) | Score: -1692.803 (Repetitions: 43) | Time steps: 5181 | Learning steps: 64
+First 10 actions: [4, 8, 1, 11, 12, 4, 12, 14, 2, 7]
+Rewards of actions: ['0.62', '-15.00', '-10.00', '39.01', '0.49', '-40.00', '-40.00', '0.00', '0.00', '0.00']
+Image: 94 (19.75s) | Score: -792.708 (Repetitions: 21) | Time steps: 5218 | Learning steps: 65
+First 10 actions: [9, 2, 6, 4, 4, 9, 6, 3, 7, 10]
+Rewards of actions: ['50.82', '-15.00', '-10.00', '0.15', '-40.00', '-40.00', '-40.00', '0.00', '0.00', '13.27']
+Image: 95 (2.28s) | Score: -1112.118 (Repetitions: 29) | Time steps: 5263 | Learning steps: 65
+First 10 actions: [9, 0, 6, 4, 2, 2, 13, 12, 12, 10]
+Rewards of actions: ['50.82', '-15.00', '-10.00', '0.15', '0.00', '-40.00', '0.00', '0.31', '-40.00', '13.27']
+Image: 96 (21.65s) | Score: -3089.823 (Repetitions: 77) | Time steps: 5356 | Learning steps: 66
+First 10 actions: [3, 5, 4, 4, 15, 4, 3, 15, 12, 15]
+Rewards of actions: ['-20.00', '0.95', '0.21', '-40.00', '0.00', '-40.00', '-40.00', '-40.00', '0.27', '-40.00']
+Image: 97 (20.52s) | Score: -1507.048 (Repetitions: 38) | Time steps: 5410 | Learning steps: 67
+First 10 actions: [14, 15, 8, 10, 3, 1, 9, 1, 11, 2]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '33.16', '0.00', '0.00', '7.26', '-40.00', '17.34', '0.00']
+Image: 98 (20.16s) | Score: -1191.068 (Repetitions: 29) | Time steps: 5455 | Learning steps: 68
+First 10 actions: [2, 15, 0, 5, 7, 6, 1, 1, 5, 7]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '0.47', '0.00', '0.00', '0.00', '-40.00', '-40.00', '-40.00']
+Image: 99 (1.73s) | Score: -553.998 (Repetitions: 14) | Time steps: 5485 | Learning steps: 68
+First 10 actions: [0, 9, 8, 2, 13, 5, 15, 7, 1, 9]
+Rewards of actions: ['-20.00', '25.41', '-10.00', '-5.00', '0.00', '0.32', '0.00', '0.00', '0.00', '-40.00']
+Image: 100 (20.13s) | Score: -1393.627 (Repetitions: 35) | Time steps: 5536 | Learning steps: 69
+First 10 actions: [8, 13, 9, 15, 5, 11, 2, 1, 6, 12]
+Rewards of actions: ['-20.00', '-15.00', '16.94', '-5.00', '0.38', '26.01', '0.00', '0.00', '0.00', '0.25']
+Image: 101 (2.19s) | Score: -1061.123 (Repetitions: 27) | Time steps: 5579 | Learning steps: 69
+First 10 actions: [12, 13, 7, 7, 10, 15, 12, 6, 2, 6]
+Rewards of actions: ['2.46', '-15.00', '-10.00', '-40.00', '26.53', '0.00', '-40.00', '0.00', '0.00', '-40.00']
+Image: 102 (20.07s) | Score: -1330.970 (Repetitions: 33) | Time steps: 5628 | Learning steps: 70
+First 10 actions: [2, 14, 6, 5, 5, 13, 3, 10, 9, 6]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '0.47', '-40.00', '0.00', '0.00', '16.58', '5.65', '-40.00']
+Image: 103 (21.15s) | Score: -1655.221 (Repetitions: 42) | Time steps: 5686 | Learning steps: 71
+First 10 actions: [4, 13, 1, 9, 11, 13, 6, 14, 9, 15]
+Rewards of actions: ['0.62', '-15.00', '-10.00', '12.71', '31.21', '-40.00', '0.00', '0.00', '-40.00', '0.00']
+Image: 104 (2.16s) | Score: -915.469 (Repetitions: 25) | Time steps: 5727 | Learning steps: 71
+First 10 actions: [9, 5, 9, 12, 10, 7, 12, 13, 15, 12]
+Rewards of actions: ['50.82', '0.95', '-40.00', '0.61', '26.53', '0.00', '-40.00', '0.00', '0.00', '-40.00']
+Image: 105 (21.76s) | Score: -2225.229 (Repetitions: 59) | Time steps: 5802 | Learning steps: 72
+First 10 actions: [10, 3, 3, 7, 4, 4, 14, 12, 11, 4]
+Rewards of actions: ['132.65', '-15.00', '-40.00', '-5.00', '0.12', '-40.00', '0.00', '0.31', '17.34', '-40.00']
+Image: 106 (20.32s) | Score: -1118.143 (Repetitions: 28) | Time steps: 5846 | Learning steps: 73
+First 10 actions: [6, 2, 4, 4, 10, 14, 7, 9, 3, 6]
+Rewards of actions: ['-20.00', '-15.00', '0.21', '-40.00', '26.53', '0.00', '0.00', '6.35', '0.00', '-40.00']
+Image: 107 (3.08s) | Score: -1980.393 (Repetitions: 51) | Time steps: 5913 | Learning steps: 73
+First 10 actions: [9, 4, 7, 9, 0, 15, 7, 9, 10, 0]
+Rewards of actions: ['50.82', '0.31', '-10.00', '-40.00', '0.00', '0.00', '-40.00', '-40.00', '14.74', '-40.00']
+Image: 108 (19.47s) | Score: -779.230 (Repetitions: 19) | Time steps: 5948 | Learning steps: 74
+First 10 actions: [2, 3, 0, 5, 5, 6, 2, 12, 11, 0]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '0.47', '-40.00', '0.00', '-40.00', '0.31', '17.34', '-40.00']
+Image: 109 (2.05s) | Score: -898.879 (Repetitions: 22) | Time steps: 5986 | Learning steps: 74
+First 10 actions: [7, 4, 6, 2, 1, 13, 5, 0, 4, 14]
+Rewards of actions: ['-20.00', '0.31', '-10.00', '-5.00', '0.00', '0.00', '0.27', '0.00', '-40.00', '0.00']
+Saving models...
+Image: 110 (19.04s) | Score: -107.787 (Repetitions: 6) | Time steps: 6008 | Learning steps: 75
+First 10 actions: [12, 11, 10, 10, 2, 3, 9, 4, 13, 8]
+Rewards of actions: ['2.46', '78.03', '44.22', '-40.00', '0.00', '0.00', '7.26', '0.08', '0.00', '0.00']
+Image: 111 (2.37s) | Score: -1268.202 (Repetitions: 32) | Time steps: 6056 | Learning steps: 75
+First 10 actions: [12, 7, 0, 7, 15, 4, 14, 11, 12, 9]
+Rewards of actions: ['2.46', '-15.00', '-10.00', '-40.00', '0.00', '0.10', '0.00', '19.51', '-40.00', '5.08']
+Image: 112 (19.86s) | Score: -1116.231 (Repetitions: 28) | Time steps: 6100 | Learning steps: 76
+First 10 actions: [13, 9, 8, 3, 9, 4, 9, 8, 1, 13]
+Rewards of actions: ['-20.00', '25.41', '-10.00', '-5.00', '-40.00', '0.10', '-40.00', '-40.00', '0.00', '-40.00']
+Image: 113 (20.40s) | Score: -1761.595 (Repetitions: 44) | Time steps: 6160 | Learning steps: 77
+First 10 actions: [12, 0, 13, 5, 8, 14, 5, 12, 9, 14]
+Rewards of actions: ['2.46', '-15.00', '-10.00', '0.47', '0.00', '0.00', '-40.00', '-40.00', '5.65', '-40.00']
+Image: 114 (2.40s) | Score: -1300.871 (Repetitions: 33) | Time steps: 6209 | Learning steps: 77
+First 10 actions: [12, 4, 4, 6, 13, 4, 3, 5, 12, 3]
+Rewards of actions: ['2.46', '0.31', '-40.00', '-5.00', '0.00', '-40.00', '0.00', '0.24', '-40.00', '-40.00']
+Image: 115 (20.30s) | Score: -1284.730 (Repetitions: 36) | Time steps: 6261 | Learning steps: 78
+First 10 actions: [11, 12, 2, 11, 6, 5, 0, 12, 2, 4]
+Rewards of actions: ['156.05', '1.23', '-10.00', '-40.00', '0.00', '0.32', '0.00', '-40.00', '-40.00', '0.06']
+Image: 116 (2.55s) | Score: -1468.766 (Repetitions: 37) | Time steps: 6314 | Learning steps: 78
+First 10 actions: [2, 6, 10, 14, 8, 15, 1, 2, 3, 3]
+Rewards of actions: ['-20.00', '-15.00', '44.22', '-5.00', '0.00', '0.00', '0.00', '-40.00', '0.00', '-40.00']
+Image: 117 (19.90s) | Score: -1069.637 (Repetitions: 27) | Time steps: 6357 | Learning steps: 79
+First 10 actions: [7, 13, 2, 11, 1, 2, 13, 12, 10, 12]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '39.01', '0.00', '-40.00', '-40.00', '0.31', '14.74', '-40.00']
+Image: 118 (2.10s) | Score: -885.529 (Repetitions: 22) | Time steps: 6395 | Learning steps: 79
+First 10 actions: [12, 13, 1, 13, 2, 9, 5, 9, 13, 14]
+Rewards of actions: ['2.46', '-15.00', '-10.00', '-40.00', '0.00', '8.47', '0.27', '-40.00', '-40.00', '0.00']
+Image: 119 (38.99s) | Score: -2843.275 (Repetitions: 71) | Time steps: 6482 | Learning steps: 81
+First 10 actions: [6, 15, 9, 5, 2, 5, 6, 9, 3, 3]
+Rewards of actions: ['-20.00', '-15.00', '16.94', '0.47', '0.00', '-40.00', '-40.00', '-40.00', '0.00', '-40.00']
+Image: 120 (2.36s) | Score: -1267.952 (Repetitions: 32) | Time steps: 6530 | Learning steps: 81
+First 10 actions: [0, 1, 10, 13, 14, 15, 1, 8, 10, 2]
+Rewards of actions: ['-20.00', '-15.00', '44.22', '-5.00', '0.00', '0.00', '-40.00', '0.00', '-40.00', '0.00']
+Image: 121 (20.54s) | Score: -1771.758 (Repetitions: 48) | Time steps: 6594 | Learning steps: 82
+First 10 actions: [10, 15, 9, 5, 9, 1, 10, 13, 13, 4]
+Rewards of actions: ['132.65', '-15.00', '16.94', '0.47', '-40.00', '0.00', '-40.00', '0.00', '-40.00', '0.06']
+Image: 122 (20.02s) | Score: -1456.194 (Repetitions: 36) | Time steps: 6646 | Learning steps: 83
+First 10 actions: [7, 2, 7, 12, 12, 7, 13, 14, 13, 1]
+Rewards of actions: ['-20.00', '-15.00', '-40.00', '0.61', '-40.00', '-40.00', '0.00', '0.00', '-40.00', '0.00']
+Image: 123 (1.88s) | Score: -740.736 (Repetitions: 18) | Time steps: 6680 | Learning steps: 83
+First 10 actions: [8, 1, 15, 3, 0, 7, 15, 11, 9, 9]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '0.00', '0.00', '-40.00', '19.51', '5.65', '-40.00']
+Image: 124 (2.00s) | Score: -855.577 (Repetitions: 21) | Time steps: 6717 | Learning steps: 83
+First 10 actions: [5, 13, 7, 6, 14, 14, 1, 12, 13, 6]
+Rewards of actions: ['1.90', '-15.00', '-10.00', '-5.00', '0.00', '-40.00', '0.00', '0.31', '-40.00', '-40.00']
+Image: 125 (20.49s) | Score: -1617.700 (Repetitions: 42) | Time steps: 6775 | Learning steps: 84
+First 10 actions: [7, 11, 12, 12, 0, 1, 7, 11, 13, 14]
+Rewards of actions: ['-20.00', '78.03', '0.82', '-40.00', '0.00', '0.00', '-40.00', '-40.00', '0.00', '0.00']
+Image: 126 (20.73s) | Score: -1519.680 (Repetitions: 38) | Time steps: 6829 | Learning steps: 85
+First 10 actions: [13, 12, 8, 3, 8, 6, 15, 11, 4, 4]
+Rewards of actions: ['-20.00', '1.23', '-10.00', '-5.00', '-40.00', '0.00', '0.00', '19.51', '0.07', '-40.00']
+Image: 127 (20.89s) | Score: -1438.507 (Repetitions: 38) | Time steps: 6883 | Learning steps: 86
+First 10 actions: [8, 11, 4, 6, 10, 6, 3, 7, 0, 1]
+Rewards of actions: ['-20.00', '78.03', '0.21', '-5.00', '26.53', '-40.00', '0.00', '0.00', '0.00', '0.00']
+Image: 128 (2.68s) | Score: -1427.186 (Repetitions: 40) | Time steps: 6939 | Learning steps: 86
+First 10 actions: [10, 6, 11, 11, 8, 0, 12, 15, 1, 8]
+Rewards of actions: ['132.65', '-15.00', '52.02', '-40.00', '0.00', '0.00', '0.35', '0.00', '0.00', '-40.00']
+Image: 129 (20.67s) | Score: -1055.445 (Repetitions: 26) | Time steps: 6981 | Learning steps: 87
+First 10 actions: [3, 5, 0, 7, 3, 15, 4, 8, 4, 5]
+Rewards of actions: ['-20.00', '0.95', '-10.00', '-5.00', '-40.00', '0.00', '0.09', '0.00', '-40.00', '-40.00']
+Image: 130 (2.30s) | Score: -1097.559 (Repetitions: 29) | Time steps: 7026 | Learning steps: 87
+First 10 actions: [13, 11, 8, 8, 8, 1, 6, 15, 3, 7]
+Rewards of actions: ['-20.00', '78.03', '-10.00', '-40.00', '-40.00', '0.00', '0.00', '0.00', '0.00', '0.00']
+Image: 131 (20.73s) | Score: -2050.598 (Repetitions: 51) | Time steps: 7093 | Learning steps: 88
+First 10 actions: [2, 5, 8, 14, 8, 3, 1, 4, 1, 5]
+Rewards of actions: ['-20.00', '0.95', '-10.00', '-5.00', '-40.00', '0.00', '0.00', '0.08', '-40.00', '-40.00']
+Image: 132 (20.26s) | Score: -1597.267 (Repetitions: 40) | Time steps: 7149 | Learning steps: 89
+First 10 actions: [12, 6, 7, 12, 7, 14, 10, 12, 13, 0]
+Rewards of actions: ['2.46', '-15.00', '-10.00', '-40.00', '-40.00', '0.00', '18.95', '-40.00', '0.00', '0.00']
+Image: 133 (2.15s) | Score: -978.548 (Repetitions: 25) | Time steps: 7190 | Learning steps: 89
+First 10 actions: [3, 1, 7, 10, 11, 15, 15, 3, 8, 15]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '33.16', '31.21', '0.00', '-40.00', '-40.00', '0.00', '-40.00']
+Image: 134 (19.75s) | Score: -514.998 (Repetitions: 14) | Time steps: 7220 | Learning steps: 90
+First 10 actions: [6, 12, 10, 5, 0, 15, 2, 12, 11, 7]
+Rewards of actions: ['-20.00', '1.23', '44.22', '0.47', '0.00', '0.00', '0.00', '-40.00', '17.34', '0.00']
+Image: 135 (21.73s) | Score: -1905.984 (Repetitions: 48) | Time steps: 7284 | Learning steps: 91
+First 10 actions: [8, 13, 9, 12, 10, 7, 12, 7, 1, 10]
+Rewards of actions: ['-20.00', '-15.00', '16.94', '0.61', '26.53', '0.00', '-40.00', '-40.00', '0.00', '-40.00']
+Image: 136 (22.43s) | Score: -2770.677 (Repetitions: 69) | Time steps: 7369 | Learning steps: 92
+First 10 actions: [14, 5, 7, 6, 6, 8, 5, 13, 11, 14]
+Rewards of actions: ['-20.00', '0.95', '-10.00', '-5.00', '-40.00', '0.00', '-40.00', '0.00', '17.34', '-40.00']
+Image: 137 (2.54s) | Score: -1492.747 (Repetitions: 37) | Time steps: 7422 | Learning steps: 92
+First 10 actions: [8, 1, 4, 8, 5, 0, 12, 4, 7, 10]
+Rewards of actions: ['-20.00', '-15.00', '0.21', '-40.00', '0.38', '0.00', '0.35', '-40.00', '0.00', '13.27']
+Image: 138 (20.87s) | Score: -1185.874 (Repetitions: 31) | Time steps: 7469 | Learning steps: 93
+First 10 actions: [6, 11, 2, 0, 0, 14, 7, 3, 5, 1]
+Rewards of actions: ['-20.00', '78.03', '-10.00', '-5.00', '-40.00', '0.00', '0.00', '0.00', '0.21', '0.00']
+Image: 139 (1.80s) | Score: -484.452 (Repetitions: 16) | Time steps: 7501 | Learning steps: 93
+First 10 actions: [11, 11, 15, 13, 0, 12, 4, 4, 2, 7]
+Rewards of actions: ['156.05', '-40.00', '-10.00', '-5.00', '0.00', '0.41', '0.09', '-40.00', '0.00', '0.00']
+Image: 140 (20.46s) | Score: -726.412 (Repetitions: 19) | Time steps: 7536 | Learning steps: 94
+First 10 actions: [6, 8, 11, 3, 12, 15, 10, 8, 0, 5]
+Rewards of actions: ['-20.00', '-15.00', '52.02', '-5.00', '0.49', '0.00', '18.95', '-40.00', '0.00', '0.19']
+Image: 141 (1.85s) | Score: -676.416 (Repetitions: 17) | Time steps: 7569 | Learning steps: 94
+First 10 actions: [7, 2, 15, 11, 14, 3, 14, 14, 11, 11]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '39.01', '0.00', '0.00', '-40.00', '-40.00', '-40.00', '-40.00']
+Image: 142 (20.61s) | Score: -1996.393 (Repetitions: 51) | Time steps: 7636 | Learning steps: 95
+First 10 actions: [8, 5, 11, 12, 7, 14, 7, 7, 1, 9]
+Rewards of actions: ['-20.00', '0.95', '52.02', '0.61', '0.00', '0.00', '-40.00', '-40.00', '0.00', '5.08']
+Image: 143 (20.54s) | Score: -1914.627 (Repetitions: 48) | Time steps: 7700 | Learning steps: 96
+First 10 actions: [6, 15, 5, 10, 15, 3, 5, 4, 5, 14]
+Rewards of actions: ['-20.00', '-15.00', '0.63', '33.16', '-40.00', '0.00', '-40.00', '0.08', '-40.00', '0.00']
+Image: 144 (20.69s) | Score: -2206.426 (Repetitions: 55) | Time steps: 7771 | Learning steps: 97
+First 10 actions: [15, 8, 12, 6, 8, 2, 10, 2, 13, 9]
+Rewards of actions: ['-20.00', '-15.00', '0.82', '-5.00', '-40.00', '0.00', '18.95', '-40.00', '0.00', '5.08']
+Image: 145 (2.45s) | Score: -1279.350 (Repetitions: 32) | Time steps: 7819 | Learning steps: 97
+First 10 actions: [4, 1, 1, 3, 12, 5, 8, 12, 5, 15]
+Rewards of actions: ['0.62', '-15.00', '-40.00', '-5.00', '0.49', '0.32', '0.00', '-40.00', '-40.00', '0.00']
+Image: 146 (19.72s) | Score: -520.467 (Repetitions: 15) | Time steps: 7850 | Learning steps: 98
+First 10 actions: [12, 11, 2, 15, 2, 13, 5, 13, 11, 12]
+Rewards of actions: ['2.46', '78.03', '-10.00', '-5.00', '-40.00', '0.00', '0.27', '-40.00', '-40.00', '-40.00']
+Image: 147 (3.04s) | Score: -1975.104 (Repetitions: 50) | Time steps: 7916 | Learning steps: 98
+First 10 actions: [4, 1, 13, 10, 12, 4, 6, 6, 6, 12]
+Rewards of actions: ['0.62', '-15.00', '-10.00', '33.16', '0.49', '-40.00', '0.00', '-40.00', '-40.00', '-40.00']
+Image: 148 (40.56s) | Score: -3500.458 (Repetitions: 88) | Time steps: 8020 | Learning steps: 100
+First 10 actions: [2, 13, 3, 11, 3, 10, 7, 0, 11, 12]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '39.01', '-40.00', '22.11', '0.00', '0.00', '-40.00', '0.25']
+Image: 149 (21.50s) | Score: -1736.992 (Repetitions: 44) | Time steps: 8080 | Learning steps: 101
+First 10 actions: [0, 15, 12, 10, 10, 3, 5, 9, 11, 4]
+Rewards of actions: ['-20.00', '-15.00', '0.82', '33.16', '-40.00', '0.00', '0.27', '6.35', '17.34', '0.06']
+Image: 150 (3.50s) | Score: -2513.700 (Repetitions: 62) | Time steps: 8158 | Learning steps: 101
+First 10 actions: [13, 15, 3, 0, 2, 2, 2, 0, 7, 1]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '0.00', '-40.00', '-40.00', '-40.00', '0.00', '0.00']
+Image: 151 (21.67s) | Score: -1881.529 (Repetitions: 47) | Time steps: 8221 | Learning steps: 102
+First 10 actions: [14, 7, 3, 6, 12, 11, 10, 12, 7, 10]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '0.49', '26.01', '18.95', '-40.00', '-40.00', '-40.00']
+Image: 152 (20.61s) | Score: -779.865 (Repetitions: 20) | Time steps: 8257 | Learning steps: 103
+First 10 actions: [3, 8, 8, 10, 4, 9, 15, 8, 12, 2]
+Rewards of actions: ['-20.00', '-15.00', '-40.00', '33.16', '0.12', '8.47', '0.00', '-40.00', '0.27', '0.00']
+Image: 153 (21.39s) | Score: -2081.198 (Repetitions: 52) | Time steps: 8325 | Learning steps: 104
+First 10 actions: [13, 3, 1, 1, 11, 9, 6, 14, 3, 14]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-40.00', '31.21', '8.47', '0.00', '0.00', '-40.00', '-40.00']
+Image: 154 (2.38s) | Score: -1093.555 (Repetitions: 31) | Time steps: 8372 | Learning steps: 104
+First 10 actions: [9, 10, 13, 11, 2, 4, 0, 1, 13, 13]
+Rewards of actions: ['50.82', '66.33', '-10.00', '39.01', '0.00', '0.10', '0.00', '0.00', '-40.00', '-40.00']
+Image: 155 (20.92s) | Score: -1788.325 (Repetitions: 46) | Time steps: 8434 | Learning steps: 105
+First 10 actions: [12, 1, 10, 5, 15, 0, 3, 5, 15, 11]
+Rewards of actions: ['2.46', '-15.00', '44.22', '0.47', '0.00', '0.00', '0.00', '-40.00', '-40.00', '15.61']
+Image: 156 (20.61s) | Score: -2158.288 (Repetitions: 54) | Time steps: 8504 | Learning steps: 106
+First 10 actions: [6, 5, 1, 6, 7, 14, 11, 9, 1, 13]
+Rewards of actions: ['-20.00', '0.95', '-10.00', '-40.00', '0.00', '0.00', '22.29', '6.35', '-40.00', '0.00']
+Image: 157 (20.61s) | Score: -1696.095 (Repetitions: 43) | Time steps: 8563 | Learning steps: 107
+First 10 actions: [3, 6, 10, 8, 9, 6, 2, 15, 5, 9]
+Rewards of actions: ['-20.00', '-15.00', '44.22', '-5.00', '10.16', '-40.00', '0.00', '0.00', '0.21', '-40.00']
+Image: 158 (2.30s) | Score: -1206.539 (Repetitions: 30) | Time steps: 8609 | Learning steps: 107
+First 10 actions: [3, 1, 8, 0, 10, 6, 12, 15, 8, 12]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '26.53', '0.00', '0.35', '0.00', '-40.00', '-40.00']
+Image: 159 (19.99s) | Score: -1191.737 (Repetitions: 30) | Time steps: 8655 | Learning steps: 108
+First 10 actions: [2, 0, 7, 11, 15, 6, 5, 0, 6, 14]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '39.01', '0.00', '0.00', '0.27', '-40.00', '-40.00', '0.00']
+Image: 160 (1.84s) | Score: -601.984 (Repetitions: 15) | Time steps: 8686 | Learning steps: 108
+First 10 actions: [12, 1, 8, 0, 6, 2, 0, 15, 6, 6]
+Rewards of actions: ['2.46', '-15.00', '-10.00', '-5.00', '0.00', '0.00', '-40.00', '0.00', '-40.00', '-40.00']
+Image: 161 (19.93s) | Score: -983.724 (Repetitions: 24) | Time steps: 8726 | Learning steps: 109
+First 10 actions: [2, 3, 8, 4, 3, 4, 14, 15, 7, 13]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '0.15', '-40.00', '-40.00', '0.00', '0.00', '0.00', '0.00']
+Image: 162 (2.27s) | Score: -1101.737 (Repetitions: 28) | Time steps: 8770 | Learning steps: 109
+First 10 actions: [4, 3, 1, 12, 12, 10, 1, 6, 11, 7]
+Rewards of actions: ['0.62', '-15.00', '-10.00', '0.61', '-40.00', '22.11', '-40.00', '0.00', '17.34', '0.00']
+Image: 163 (20.01s) | Score: -919.325 (Repetitions: 28) | Time steps: 8814 | Learning steps: 110
+First 10 actions: [10, 11, 14, 2, 11, 4, 4, 8, 14, 5]
+Rewards of actions: ['132.65', '78.03', '-10.00', '-5.00', '-40.00', '0.10', '-40.00', '0.00', '-40.00', '0.19']
+Image: 164 (2.96s) | Score: -1973.488 (Repetitions: 49) | Time steps: 8879 | Learning steps: 110
+First 10 actions: [15, 3, 4, 8, 13, 9, 1, 13, 5, 2]
+Rewards of actions: ['-20.00', '-15.00', '0.21', '-5.00', '0.00', '8.47', '0.00', '-40.00', '0.21', '0.00']
+Image: 165 (19.99s) | Score: -1287.372 (Repetitions: 33) | Time steps: 8928 | Learning steps: 111
+First 10 actions: [15, 14, 11, 4, 3, 14, 15, 11, 9, 5]
+Rewards of actions: ['-20.00', '-15.00', '52.02', '0.15', '0.00', '-40.00', '-40.00', '-40.00', '5.65', '0.19']
+Image: 166 (20.38s) | Score: -1681.492 (Repetitions: 43) | Time steps: 8987 | Learning steps: 112
+First 10 actions: [6, 5, 2, 10, 11, 8, 12, 14, 12, 0]
+Rewards of actions: ['-20.00', '0.95', '-10.00', '33.16', '31.21', '0.00', '0.35', '0.00', '-40.00', '0.00']
+Image: 167 (1.81s) | Score: -452.812 (Repetitions: 16) | Time steps: 9019 | Learning steps: 112
+First 10 actions: [11, 9, 4, 2, 6, 7, 7, 15, 3, 12]
+Rewards of actions: ['156.05', '25.41', '0.21', '-5.00', '0.00', '0.00', '-40.00', '0.00', '0.00', '0.25']
+Image: 168 (19.55s) | Score: -727.081 (Repetitions: 18) | Time steps: 9053 | Learning steps: 113
+First 10 actions: [3, 14, 5, 12, 12, 1, 7, 11, 7, 12]
+Rewards of actions: ['-20.00', '-15.00', '0.63', '0.61', '-40.00', '0.00', '0.00', '19.51', '-40.00', '-40.00']
+Image: 169 (20.83s) | Score: -2272.187 (Repetitions: 58) | Time steps: 9127 | Learning steps: 114
+First 10 actions: [3, 11, 2, 13, 13, 15, 6, 11, 12, 5]
+Rewards of actions: ['-20.00', '78.03', '-10.00', '-5.00', '-40.00', '0.00', '0.00', '-40.00', '0.27', '0.19']
+Image: 170 (2.12s) | Score: -810.049 (Repetitions: 24) | Time steps: 9167 | Learning steps: 114
+First 10 actions: [11, 8, 4, 4, 5, 12, 13, 7, 2, 2]
+Rewards of actions: ['156.05', '-15.00', '0.21', '-40.00', '0.38', '0.41', '0.00', '0.00', '0.00', '-40.00']
+Image: 171 (19.67s) | Score: -641.334 (Repetitions: 19) | Time steps: 9202 | Learning steps: 115
+First 10 actions: [10, 13, 8, 13, 10, 8, 0, 1, 4, 3]
+Rewards of actions: ['132.65', '-15.00', '-10.00', '-40.00', '-40.00', '-40.00', '0.00', '0.00', '0.07', '0.00']
+Image: 172 (22.78s) | Score: -3847.396 (Repetitions: 98) | Time steps: 9316 | Learning steps: 116
+First 10 actions: [4, 10, 12, 10, 12, 7, 0, 15, 15, 13]
+Rewards of actions: ['0.62', '66.33', '0.82', '-40.00', '-40.00', '0.00', '0.00', '0.00', '-40.00', '0.00']
+Image: 173 (1.90s) | Score: -716.312 (Repetitions: 18) | Time steps: 9350 | Learning steps: 116
+First 10 actions: [3, 5, 9, 13, 2, 5, 5, 7, 2, 9]
+Rewards of actions: ['-20.00', '0.95', '16.94', '-5.00', '0.00', '-40.00', '-40.00', '0.00', '-40.00', '-40.00']
+Image: 174 (19.60s) | Score: -711.300 (Repetitions: 18) | Time steps: 9384 | Learning steps: 117
+First 10 actions: [13, 14, 5, 10, 12, 15, 12, 0, 15, 12]
+Rewards of actions: ['-20.00', '-15.00', '0.63', '33.16', '0.49', '0.00', '-40.00', '0.00', '-40.00', '-40.00']
+Image: 175 (2.04s) | Score: -938.983 (Repetitions: 23) | Time steps: 9423 | Learning steps: 117
+First 10 actions: [14, 5, 1, 13, 15, 14, 4, 13, 9, 3]
+Rewards of actions: ['-20.00', '0.95', '-10.00', '-5.00', '0.00', '-40.00', '0.09', '-40.00', '5.65', '0.00']
+Image: 176 (21.01s) | Score: -1911.217 (Repetitions: 48) | Time steps: 9487 | Learning steps: 118
+First 10 actions: [13, 12, 6, 4, 1, 5, 10, 8, 11, 11]
+Rewards of actions: ['-20.00', '1.23', '-10.00', '0.15', '0.00', '0.32', '18.95', '0.00', '17.34', '-40.00']
+Image: 177 (19.87s) | Score: -1034.312 (Repetitions: 26) | Time steps: 9529 | Learning steps: 119
+First 10 actions: [4, 15, 0, 15, 0, 9, 3, 0, 8, 11]
+Rewards of actions: ['0.62', '-15.00', '-10.00', '-40.00', '-40.00', '8.47', '0.00', '-40.00', '0.00', '15.61']
+Image: 178 (2.80s) | Score: -1659.154 (Repetitions: 43) | Time steps: 9588 | Learning steps: 119
+First 10 actions: [14, 10, 7, 7, 8, 4, 3, 11, 4, 4]
+Rewards of actions: ['-20.00', '66.33', '-10.00', '-40.00', '0.00', '0.10', '0.00', '19.51', '-40.00', '-40.00']
+Image: 179 (20.63s) | Score: -1171.933 (Repetitions: 30) | Time steps: 9634 | Learning steps: 120
+First 10 actions: [12, 0, 15, 11, 5, 13, 7, 15, 1, 4]
+Rewards of actions: ['2.46', '-15.00', '-10.00', '39.01', '0.38', '0.00', '0.00', '-40.00', '0.00', '0.06']
+Image: 180 (20.12s) | Score: -1459.905 (Repetitions: 36) | Time steps: 9686 | Learning steps: 121
+First 10 actions: [0, 1, 14, 6, 7, 5, 11, 4, 0, 11]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '0.00', '0.32', '22.29', '0.08', '-40.00', '-40.00']
+Image: 181 (2.74s) | Score: -1732.870 (Repetitions: 43) | Time steps: 9745 | Learning steps: 121
+First 10 actions: [0, 12, 3, 1, 0, 2, 8, 14, 9, 13]
+Rewards of actions: ['-20.00', '1.23', '-10.00', '-5.00', '-40.00', '0.00', '0.00', '0.00', '5.65', '0.00']
+Image: 182 (20.77s) | Score: -1697.574 (Repetitions: 42) | Time steps: 9803 | Learning steps: 122
+First 10 actions: [0, 0, 4, 14, 4, 5, 13, 15, 2, 13]
+Rewards of actions: ['-20.00', '-40.00', '0.21', '-5.00', '-40.00', '0.32', '0.00', '0.00', '0.00', '-40.00']
+Image: 183 (20.30s) | Score: -1499.991 (Repetitions: 37) | Time steps: 9856 | Learning steps: 123
+First 10 actions: [13, 6, 13, 12, 2, 8, 1, 3, 14, 12]
+Rewards of actions: ['-20.00', '-15.00', '-40.00', '0.61', '0.00', '0.00', '0.00', '0.00', '0.00', '-40.00']
+Image: 184 (2.04s) | Score: -914.518 (Repetitions: 22) | Time steps: 9894 | Learning steps: 123
+First 10 actions: [7, 3, 15, 14, 5, 2, 0, 12, 3, 6]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '0.38', '0.00', '0.00', '0.31', '-40.00', '0.00']
+Image: 185 (21.86s) | Score: -2546.662 (Repetitions: 63) | Time steps: 9973 | Learning steps: 124
+First 10 actions: [15, 2, 4, 8, 13, 6, 13, 2, 1, 1]
+Rewards of actions: ['-20.00', '-15.00', '0.21', '-5.00', '0.00', '0.00', '-40.00', '-40.00', '0.00', '-40.00']
+Image: 186 (20.45s) | Score: -1119.949 (Repetitions: 28) | Time steps: 10017 | Learning steps: 125
+First 10 actions: [6, 6, 4, 4, 8, 6, 6, 3, 6, 5]
+Rewards of actions: ['-20.00', '-40.00', '0.21', '-40.00', '0.00', '-40.00', '-40.00', '0.00', '-40.00', '0.19']
+Image: 187 (2.71s) | Score: -1586.848 (Repetitions: 41) | Time steps: 10074 | Learning steps: 125
+First 10 actions: [6, 11, 7, 13, 2, 8, 2, 14, 13, 5]
+Rewards of actions: ['-20.00', '78.03', '-10.00', '-5.00', '0.00', '0.00', '-40.00', '0.00', '-40.00', '0.19']
+Image: 188 (21.18s) | Score: -1364.015 (Repetitions: 34) | Time steps: 10124 | Learning steps: 126
+First 10 actions: [15, 13, 9, 13, 12, 7, 9, 4, 13, 9]
+Rewards of actions: ['-20.00', '-15.00', '16.94', '-40.00', '0.49', '0.00', '-40.00', '0.08', '-40.00', '-40.00']
+Image: 189 (21.45s) | Score: -1726.953 (Repetitions: 44) | Time steps: 10184 | Learning steps: 127
+First 10 actions: [7, 4, 12, 12, 11, 8, 10, 12, 11, 3]
+Rewards of actions: ['-20.00', '0.31', '0.82', '-40.00', '31.21', '0.00', '18.95', '-40.00', '-40.00', '0.00']
+Image: 190 (2.22s) | Score: -1091.964 (Repetitions: 27) | Time steps: 10227 | Learning steps: 127
+First 10 actions: [0, 1, 1, 5, 7, 0, 4, 13, 3, 10]
+Rewards of actions: ['-20.00', '-15.00', '-40.00', '0.47', '0.00', '-40.00', '0.09', '0.00', '0.00', '13.27']
+Image: 191 (20.60s) | Score: -2408.976 (Repetitions: 60) | Time steps: 10303 | Learning steps: 128
+First 10 actions: [15, 4, 1, 6, 14, 3, 13, 11, 8, 8]
+Rewards of actions: ['-20.00', '0.31', '-10.00', '-5.00', '0.00', '0.00', '0.00', '19.51', '0.00', '-40.00']
+Image: 192 (20.72s) | Score: -1951.757 (Repetitions: 49) | Time steps: 10368 | Learning steps: 129
+First 10 actions: [7, 4, 4, 1, 9, 2, 7, 5, 3, 1]
+Rewards of actions: ['-20.00', '0.31', '-40.00', '-5.00', '10.16', '0.00', '-40.00', '0.24', '0.00', '-40.00']
+Image: 193 (20.24s) | Score: -1547.701 (Repetitions: 38) | Time steps: 10422 | Learning steps: 130
+First 10 actions: [13, 1, 2, 6, 3, 1, 6, 6, 11, 1]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '0.00', '-40.00', '-40.00', '-40.00', '17.34', '-40.00']
+Image: 194 (22.32s) | Score: -3209.021 (Repetitions: 81) | Time steps: 10519 | Learning steps: 131
+First 10 actions: [12, 15, 7, 15, 10, 0, 9, 11, 12, 5]
+Rewards of actions: ['2.46', '-15.00', '-10.00', '-40.00', '26.53', '0.00', '7.26', '19.51', '-40.00', '0.19']
+Image: 195 (21.15s) | Score: -2075.610 (Repetitions: 52) | Time steps: 10587 | Learning steps: 132
+First 10 actions: [1, 5, 9, 3, 6, 5, 12, 14, 3, 4]
+Rewards of actions: ['-20.00', '0.95', '16.94', '-5.00', '0.00', '-40.00', '0.35', '0.00', '-40.00', '0.06']
+Image: 196 (2.26s) | Score: -1103.526 (Repetitions: 27) | Time steps: 10630 | Learning steps: 132
+First 10 actions: [1, 12, 7, 3, 0, 8, 4, 1, 0, 15]
+Rewards of actions: ['-20.00', '1.23', '-10.00', '-5.00', '0.00', '0.00', '0.09', '-40.00', '-40.00', '0.00']
+Image: 197 (20.40s) | Score: -1000.613 (Repetitions: 25) | Time steps: 10671 | Learning steps: 133
+First 10 actions: [6, 13, 5, 4, 14, 5, 9, 13, 13, 10]
+Rewards of actions: ['-20.00', '-15.00', '0.63', '0.15', '0.00', '-40.00', '7.26', '-40.00', '-40.00', '13.27']
+Image: 198 (2.15s) | Score: -834.713 (Repetitions: 25) | Time steps: 10712 | Learning steps: 133
+First 10 actions: [10, 10, 14, 11, 14, 15, 1, 6, 7, 6]
+Rewards of actions: ['132.65', '-40.00', '-10.00', '39.01', '-40.00', '0.00', '0.00', '0.00', '0.00', '-40.00']
+Image: 199 (20.84s) | Score: -1144.357 (Repetitions: 28) | Time steps: 10756 | Learning steps: 134
+First 10 actions: [1, 15, 13, 7, 0, 13, 12, 10, 12, 5]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '0.00', '-40.00', '0.35', '16.58', '-40.00', '0.19']
+Image: 200 (22.39s) | Score: -2809.756 (Repetitions: 70) | Time steps: 10842 | Learning steps: 135
+First 10 actions: [8, 5, 3, 13, 8, 0, 10, 12, 7, 3]
+Rewards of actions: ['-20.00', '0.95', '-10.00', '-5.00', '-40.00', '0.00', '18.95', '0.31', '0.00', '-40.00']
+Image: 201 (21.13s) | Score: -1396.229 (Repetitions: 35) | Time steps: 10893 | Learning steps: 136
+First 10 actions: [8, 5, 7, 4, 12, 7, 10, 8, 7, 14]
+Rewards of actions: ['-20.00', '0.95', '-10.00', '0.15', '0.49', '-40.00', '18.95', '-40.00', '-40.00', '0.00']
+Image: 202 (1.87s) | Score: -527.660 (Repetitions: 17) | Time steps: 10926 | Learning steps: 136
+First 10 actions: [10, 14, 2, 11, 4, 12, 6, 2, 8, 9]
+Rewards of actions: ['132.65', '-15.00', '-10.00', '39.01', '0.12', '0.41', '0.00', '-40.00', '0.00', '5.08']
+Image: 203 (22.79s) | Score: -3198.243 (Repetitions: 80) | Time steps: 11022 | Learning steps: 137
+First 10 actions: [2, 8, 14, 10, 2, 8, 5, 3, 5, 10]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '33.16', '-40.00', '-40.00', '0.27', '0.00', '-40.00', '-40.00']
+Image: 204 (21.58s) | Score: -2916.857 (Repetitions: 73) | Time steps: 11111 | Learning steps: 138
+First 10 actions: [0, 0, 13, 8, 10, 2, 14, 1, 10, 7]
+Rewards of actions: ['-20.00', '-40.00', '-10.00', '-5.00', '26.53', '0.00', '0.00', '0.00', '-40.00', '0.00']
+Image: 205 (20.82s) | Score: -2145.186 (Repetitions: 53) | Time steps: 11180 | Learning steps: 139
+First 10 actions: [15, 0, 1, 5, 13, 2, 15, 0, 9, 0]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '0.47', '0.00', '0.00', '-40.00', '-40.00', '5.65', '-40.00']
+Image: 206 (20.21s) | Score: -1540.692 (Repetitions: 38) | Time steps: 11234 | Learning steps: 140
+First 10 actions: [0, 13, 8, 13, 8, 12, 13, 10, 8, 2]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-40.00', '-40.00', '0.41', '-40.00', '16.58', '-40.00', '0.00']
+Image: 207 (21.77s) | Score: -3177.746 (Repetitions: 81) | Time steps: 11331 | Learning steps: 141
+First 10 actions: [13, 10, 14, 9, 13, 10, 0, 4, 1, 4]
+Rewards of actions: ['-20.00', '66.33', '-10.00', '12.71', '-40.00', '-40.00', '0.00', '0.08', '0.00', '-40.00']
+Image: 208 (19.99s) | Score: -1183.657 (Repetitions: 29) | Time steps: 11376 | Learning steps: 142
+First 10 actions: [14, 7, 1, 5, 1, 3, 8, 0, 9, 13]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '0.47', '-40.00', '0.00', '0.00', '0.00', '5.65', '0.00']
+Image: 209 (2.61s) | Score: -1443.147 (Repetitions: 38) | Time steps: 11430 | Learning steps: 142
+First 10 actions: [13, 11, 14, 11, 10, 12, 8, 13, 10, 15]
+Rewards of actions: ['-20.00', '78.03', '-10.00', '-40.00', '26.53', '0.41', '0.00', '-40.00', '-40.00', '0.00']
+Image: 210 (19.60s) | Score: -764.686 (Repetitions: 19) | Time steps: 11465 | Learning steps: 143
+First 10 actions: [12, 8, 0, 6, 3, 0, 1, 0, 6, 12]
+Rewards of actions: ['2.46', '-15.00', '-10.00', '-5.00', '0.00', '-40.00', '0.00', '-40.00', '-40.00', '-40.00']
+Image: 211 (2.46s) | Score: -1325.633 (Repetitions: 34) | Time steps: 11515 | Learning steps: 143
+First 10 actions: [5, 9, 1, 13, 14, 8, 1, 3, 6, 8]
+Rewards of actions: ['1.90', '25.41', '-10.00', '-5.00', '0.00', '0.00', '-40.00', '0.00', '0.00', '-40.00']
+Image: 212 (20.24s) | Score: -1562.673 (Repetitions: 39) | Time steps: 11570 | Learning steps: 144
+First 10 actions: [5, 0, 7, 12, 1, 6, 5, 5, 2, 10]
+Rewards of actions: ['1.90', '-15.00', '-10.00', '0.61', '0.00', '0.00', '-40.00', '-40.00', '0.00', '13.27']
+Image: 213 (20.12s) | Score: -1228.857 (Repetitions: 35) | Time steps: 11621 | Learning steps: 145
+First 10 actions: [11, 9, 0, 15, 14, 5, 8, 13, 0, 8]
+Rewards of actions: ['156.05', '25.41', '-10.00', '-5.00', '0.00', '0.32', '0.00', '0.00', '-40.00', '-40.00']
+Image: 214 (21.96s) | Score: -3402.860 (Repetitions: 87) | Time steps: 11724 | Learning steps: 146
+First 10 actions: [13, 11, 7, 12, 1, 10, 10, 9, 10, 7]
+Rewards of actions: ['-20.00', '78.03', '-10.00', '0.61', '0.00', '22.11', '-40.00', '6.35', '-40.00', '-40.00']
+Image: 215 (1.87s) | Score: -736.398 (Repetitions: 18) | Time steps: 11758 | Learning steps: 146
+First 10 actions: [1, 8, 4, 0, 13, 4, 5, 7, 2, 13]
+Rewards of actions: ['-20.00', '-15.00', '0.21', '-5.00', '0.00', '-40.00', '0.27', '0.00', '0.00', '-40.00']
+Image: 216 (40.09s) | Score: -3347.084 (Repetitions: 84) | Time steps: 11858 | Learning steps: 148
+First 10 actions: [8, 3, 13, 11, 12, 2, 9, 4, 9, 0]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '39.01', '0.49', '0.00', '7.26', '0.08', '-40.00', '0.00']
+Image: 217 (2.39s) | Score: -1198.955 (Repetitions: 31) | Time steps: 11905 | Learning steps: 148
+First 10 actions: [7, 3, 10, 10, 6, 11, 15, 6, 9, 0]
+Rewards of actions: ['-20.00', '-15.00', '44.22', '-40.00', '0.00', '26.01', '0.00', '-40.00', '5.65', '0.00']
+Image: 218 (20.51s) | Score: -1616.659 (Repetitions: 41) | Time steps: 11962 | Learning steps: 149
+First 10 actions: [15, 9, 2, 9, 15, 15, 6, 10, 2, 6]
+Rewards of actions: ['-20.00', '25.41', '-10.00', '-40.00', '-40.00', '-40.00', '0.00', '16.58', '-40.00', '-40.00']
+Image: 219 (20.08s) | Score: -1238.063 (Repetitions: 31) | Time steps: 12009 | Learning steps: 150
+First 10 actions: [15, 2, 7, 11, 11, 1, 2, 4, 8, 12]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '39.01', '-40.00', '0.00', '-40.00', '0.08', '0.00', '0.25']
+Image: 220 (3.13s) | Score: -2161.275 (Repetitions: 53) | Time steps: 12078 | Learning steps: 150
+First 10 actions: [3, 15, 1, 13, 1, 1, 8, 3, 13, 13]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '-40.00', '-40.00', '0.00', '-40.00', '-40.00', '-40.00']
+Image: 221 (19.59s) | Score: -742.683 (Repetitions: 18) | Time steps: 12112 | Learning steps: 151
+First 10 actions: [14, 3, 8, 3, 7, 6, 7, 8, 7, 8]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-40.00', '0.00', '0.00', '-40.00', '-40.00', '-40.00', '-40.00']
+Image: 222 (21.52s) | Score: -2873.805 (Repetitions: 73) | Time steps: 12201 | Learning steps: 152
+First 10 actions: [5, 0, 11, 8, 13, 15, 8, 14, 11, 15]
+Rewards of actions: ['1.90', '-15.00', '52.02', '-5.00', '0.00', '0.00', '-40.00', '0.00', '-40.00', '-40.00']
+Image: 223 (20.22s) | Score: -1588.956 (Repetitions: 40) | Time steps: 12257 | Learning steps: 153
+First 10 actions: [12, 8, 5, 4, 4, 7, 15, 9, 0, 5]
+Rewards of actions: ['2.46', '-15.00', '0.63', '0.15', '-40.00', '0.00', '0.00', '6.35', '0.00', '-40.00']
+Image: 224 (2.59s) | Score: -1464.315 (Repetitions: 38) | Time steps: 12311 | Learning steps: 153
+First 10 actions: [0, 11, 7, 2, 0, 13, 0, 14, 4, 7]
+Rewards of actions: ['-20.00', '78.03', '-10.00', '-5.00', '-40.00', '0.00', '-40.00', '0.00', '0.07', '-40.00']
+Image: 225 (21.01s) | Score: -1346.331 (Repetitions: 33) | Time steps: 12360 | Learning steps: 154
+First 10 actions: [2, 3, 15, 14, 9, 9, 9, 15, 0, 8]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '10.16', '-40.00', '-40.00', '-40.00', '0.00', '0.00']
+Image: 226 (22.47s) | Score: -3370.389 (Repetitions: 87) | Time steps: 12463 | Learning steps: 155
+First 10 actions: [10, 7, 14, 6, 15, 7, 4, 0, 10, 12]
+Rewards of actions: ['132.65', '-15.00', '-10.00', '-5.00', '0.00', '-40.00', '0.09', '0.00', '-40.00', '0.25']
+Image: 227 (20.81s) | Score: -1733.808 (Repetitions: 47) | Time steps: 12526 | Learning steps: 156
+First 10 actions: [11, 3, 1, 8, 2, 8, 0, 10, 6, 1]
+Rewards of actions: ['156.05', '-15.00', '-10.00', '-5.00', '0.00', '-40.00', '0.00', '16.58', '0.00', '-40.00']
+Image: 228 (19.77s) | Score: -826.906 (Repetitions: 22) | Time steps: 12564 | Learning steps: 157
+First 10 actions: [5, 9, 12, 4, 7, 8, 9, 11, 15, 3]
+Rewards of actions: ['1.90', '25.41', '0.82', '0.15', '0.00', '0.00', '-40.00', '19.51', '0.00', '0.00']
+Image: 229 (2.92s) | Score: -1645.743 (Repetitions: 45) | Time steps: 12625 | Learning steps: 157
+First 10 actions: [11, 2, 5, 6, 3, 6, 6, 9, 0, 13]
+Rewards of actions: ['156.05', '-15.00', '0.63', '-5.00', '0.00', '-40.00', '-40.00', '6.35', '0.00', '0.00']
+Image: 230 (39.49s) | Score: -3340.862 (Repetitions: 87) | Time steps: 12728 | Learning steps: 159
+First 10 actions: [10, 12, 1, 15, 12, 6, 6, 11, 5, 1]
+Rewards of actions: ['132.65', '1.23', '-10.00', '-5.00', '-40.00', '0.00', '-40.00', '19.51', '0.21', '-40.00']
+Image: 231 (20.83s) | Score: -2182.718 (Repetitions: 56) | Time steps: 12800 | Learning steps: 160
+First 10 actions: [3, 4, 10, 10, 11, 0, 2, 4, 13, 3]
+Rewards of actions: ['-20.00', '0.31', '44.22', '-40.00', '31.21', '0.00', '0.00', '-40.00', '0.00', '-40.00']
+Image: 232 (2.24s) | Score: -1111.251 (Repetitions: 28) | Time steps: 12844 | Learning steps: 160
+First 10 actions: [4, 15, 15, 3, 4, 14, 8, 8, 10, 4]
+Rewards of actions: ['0.62', '-15.00', '-40.00', '-5.00', '-40.00', '0.00', '0.00', '-40.00', '14.74', '-40.00']
+Image: 233 (20.32s) | Score: -1414.142 (Repetitions: 35) | Time steps: 12895 | Learning steps: 161
+First 10 actions: [2, 3, 2, 12, 12, 1, 7, 7, 5, 0]
+Rewards of actions: ['-20.00', '-15.00', '-40.00', '0.61', '-40.00', '0.00', '0.00', '-40.00', '0.21', '0.00']
+Image: 234 (3.01s) | Score: -1784.455 (Repetitions: 48) | Time steps: 12959 | Learning steps: 161
+First 10 actions: [10, 3, 9, 15, 1, 0, 6, 13, 4, 9]
+Rewards of actions: ['132.65', '-15.00', '16.94', '-5.00', '0.00', '0.00', '0.00', '0.00', '0.07', '-40.00']
+Image: 235 (19.73s) | Score: -915.738 (Repetitions: 26) | Time steps: 13001 | Learning steps: 162
+First 10 actions: [10, 3, 3, 8, 12, 15, 12, 7, 12, 15]
+Rewards of actions: ['132.65', '-15.00', '-40.00', '-5.00', '0.49', '0.00', '-40.00', '0.00', '-40.00', '-40.00']
+Image: 236 (19.85s) | Score: -1145.803 (Repetitions: 28) | Time steps: 13045 | Learning steps: 163
+First 10 actions: [8, 6, 1, 12, 3, 8, 3, 0, 8, 10]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '0.61', '0.00', '-40.00', '-40.00', '0.00', '-40.00', '13.27']
+Image: 237 (2.25s) | Score: -995.433 (Repetitions: 28) | Time steps: 13089 | Learning steps: 163
+First 10 actions: [10, 1, 10, 12, 10, 10, 15, 15, 5, 6]
+Rewards of actions: ['132.65', '-15.00', '-40.00', '0.61', '-40.00', '-40.00', '0.00', '-40.00', '0.21', '0.00']
+Image: 238 (20.26s) | Score: -1536.647 (Repetitions: 40) | Time steps: 13145 | Learning steps: 164
+First 10 actions: [12, 5, 11, 3, 7, 9, 14, 14, 1, 12]
+Rewards of actions: ['2.46', '0.95', '52.02', '-5.00', '0.00', '8.47', '0.00', '-40.00', '0.00', '-40.00']
+Image: 239 (2.00s) | Score: -721.216 (Repetitions: 21) | Time steps: 13182 | Learning steps: 164
+First 10 actions: [10, 7, 8, 0, 12, 7, 7, 1, 7, 5]
+Rewards of actions: ['132.65', '-15.00', '-10.00', '-5.00', '0.49', '-40.00', '-40.00', '0.00', '-40.00', '0.19']
+Image: 240 (20.37s) | Score: -1729.523 (Repetitions: 44) | Time steps: 13242 | Learning steps: 165
+First 10 actions: [3, 9, 1, 7, 11, 11, 5, 14, 12, 9]
+Rewards of actions: ['-20.00', '25.41', '-10.00', '-5.00', '31.21', '-40.00', '0.27', '0.00', '0.27', '-40.00']
+Image: 241 (20.95s) | Score: -1774.700 (Repetitions: 45) | Time steps: 13303 | Learning steps: 166
+First 10 actions: [12, 13, 7, 11, 15, 15, 6, 3, 3, 15]
+Rewards of actions: ['2.46', '-15.00', '-10.00', '39.01', '0.00', '-40.00', '0.00', '0.00', '-40.00', '-40.00']
+Image: 242 (21.27s) | Score: -1658.338 (Repetitions: 46) | Time steps: 13365 | Learning steps: 167
+First 10 actions: [11, 9, 1, 12, 12, 9, 9, 7, 2, 7]
+Rewards of actions: ['156.05', '25.41', '-10.00', '0.61', '-40.00', '-40.00', '-40.00', '0.00', '0.00', '-40.00']
+Image: 243 (1.66s) | Score: -490.922 (Repetitions: 12) | Time steps: 13393 | Learning steps: 167
+First 10 actions: [13, 6, 7, 3, 9, 10, 15, 1, 14, 0]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '10.16', '22.11', '0.00', '0.00', '0.00', '0.00']
+Image: 244 (20.13s) | Score: -1397.215 (Repetitions: 35) | Time steps: 13444 | Learning steps: 168
+First 10 actions: [4, 15, 8, 2, 7, 1, 1, 12, 11, 0]
+Rewards of actions: ['0.62', '-15.00', '-10.00', '-5.00', '0.00', '0.00', '-40.00', '0.31', '17.34', '0.00']
+Image: 245 (1.76s) | Score: -459.101 (Repetitions: 13) | Time steps: 13473 | Learning steps: 168
+First 10 actions: [6, 10, 13, 3, 8, 11, 2, 4, 14, 3]
+Rewards of actions: ['-20.00', '66.33', '-10.00', '-5.00', '0.00', '26.01', '0.00', '0.08', '0.00', '-40.00']
+Image: 246 (21.70s) | Score: -3112.359 (Repetitions: 78) | Time steps: 13567 | Learning steps: 169
+First 10 actions: [14, 7, 6, 6, 11, 8, 10, 0, 11, 0]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-40.00', '31.21', '0.00', '18.95', '0.00', '-40.00', '-40.00']
+Image: 247 (21.15s) | Score: -2372.778 (Repetitions: 64) | Time steps: 13647 | Learning steps: 170
+First 10 actions: [10, 9, 0, 11, 14, 14, 13, 3, 4, 14]
+Rewards of actions: ['132.65', '25.41', '-10.00', '39.01', '0.00', '-40.00', '0.00', '0.00', '0.07', '-40.00']
+Image: 248 (19.57s) | Score: -652.243 (Repetitions: 20) | Time steps: 13683 | Learning steps: 171
+First 10 actions: [11, 14, 13, 4, 11, 11, 14, 12, 12, 9]
+Rewards of actions: ['156.05', '-15.00', '-10.00', '0.15', '-40.00', '-40.00', '-40.00', '0.31', '-40.00', '5.08']
+Image: 249 (1.90s) | Score: -700.609 (Repetitions: 19) | Time steps: 13718 | Learning steps: 171
+First 10 actions: [13, 11, 0, 12, 2, 2, 14, 6, 4, 3]
+Rewards of actions: ['-20.00', '78.03', '-10.00', '0.61', '0.00', '-40.00', '0.00', '0.00', '0.07', '0.00']
+Image: 250 (20.25s) | Score: -1328.882 (Repetitions: 33) | Time steps: 13767 | Learning steps: 172
+First 10 actions: [15, 8, 0, 3, 11, 5, 1, 15, 4, 1]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '31.21', '0.32', '0.00', '-40.00', '0.07', '-40.00']
+Image: 251 (2.47s) | Score: -1362.983 (Repetitions: 34) | Time steps: 13817 | Learning steps: 172
+First 10 actions: [7, 12, 2, 1, 6, 7, 11, 3, 5, 3]
+Rewards of actions: ['-20.00', '1.23', '-10.00', '-5.00', '0.00', '-40.00', '22.29', '0.00', '0.21', '-40.00']
+Image: 252 (20.18s) | Score: -1357.040 (Repetitions: 34) | Time steps: 13867 | Learning steps: 173
+First 10 actions: [4, 7, 7, 2, 3, 5, 2, 7, 1, 1]
+Rewards of actions: ['0.62', '-15.00', '-40.00', '-5.00', '0.00', '0.32', '-40.00', '-40.00', '0.00', '-40.00']
+Image: 253 (2.13s) | Score: -936.830 (Repetitions: 25) | Time steps: 13908 | Learning steps: 173
+First 10 actions: [4, 10, 3, 6, 12, 5, 8, 0, 1, 1]
+Rewards of actions: ['0.62', '66.33', '-10.00', '-5.00', '0.49', '0.32', '0.00', '0.00', '0.00', '-40.00']
+Image: 254 (19.93s) | Score: -806.399 (Repetitions: 21) | Time steps: 13945 | Learning steps: 174
+First 10 actions: [0, 3, 4, 11, 10, 13, 4, 11, 14, 11]
+Rewards of actions: ['-20.00', '-15.00', '0.21', '39.01', '26.53', '0.00', '-40.00', '-40.00', '0.00', '-40.00']
+Image: 255 (20.36s) | Score: -1738.219 (Repetitions: 43) | Time steps: 14004 | Learning steps: 175
+First 10 actions: [1, 4, 15, 13, 0, 7, 7, 4, 7, 12]
+Rewards of actions: ['-20.00', '0.31', '-10.00', '-5.00', '0.00', '0.00', '-40.00', '-40.00', '-40.00', '0.25']
+Image: 256 (2.65s) | Score: -1550.864 (Repetitions: 39) | Time steps: 14059 | Learning steps: 175
+First 10 actions: [15, 9, 2, 14, 0, 15, 12, 13, 8, 12]
+Rewards of actions: ['-20.00', '25.41', '-10.00', '-5.00', '0.00', '-40.00', '0.35', '0.00', '0.00', '-40.00']
+Image: 257 (20.62s) | Score: -1962.673 (Repetitions: 49) | Time steps: 14124 | Learning steps: 176
+First 10 actions: [6, 7, 6, 9, 5, 1, 7, 0, 6, 11]
+Rewards of actions: ['-20.00', '-15.00', '-40.00', '12.71', '0.38', '0.00', '-40.00', '0.00', '-40.00', '15.61']
+Image: 258 (1.77s) | Score: -581.429 (Repetitions: 14) | Time steps: 14154 | Learning steps: 176
+First 10 actions: [13, 7, 8, 0, 0, 4, 3, 0, 6, 11]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '-40.00', '0.10', '0.00', '-40.00', '0.00', '15.61']
+Image: 259 (19.67s) | Score: -904.994 (Repetitions: 23) | Time steps: 14193 | Learning steps: 177
+First 10 actions: [14, 13, 10, 8, 7, 14, 5, 12, 3, 13]
+Rewards of actions: ['-20.00', '-15.00', '44.22', '-5.00', '0.00', '-40.00', '0.27', '0.31', '0.00', '-40.00']
+Image: 260 (20.05s) | Score: -1293.526 (Repetitions: 33) | Time steps: 14242 | Learning steps: 178
+First 10 actions: [4, 13, 0, 11, 5, 14, 8, 13, 9, 2]
+Rewards of actions: ['0.62', '-15.00', '-10.00', '39.01', '0.38', '0.00', '0.00', '-40.00', '5.65', '0.00']
+Image: 261 (2.12s) | Score: -996.189 (Repetitions: 25) | Time steps: 14283 | Learning steps: 178
+First 10 actions: [12, 8, 7, 0, 0, 0, 11, 4, 2, 12]
+Rewards of actions: ['2.46', '-15.00', '-10.00', '-5.00', '-40.00', '-40.00', '22.29', '0.08', '0.00', '-40.00']
+Image: 262 (1.63s) | Score: -373.931 (Repetitions: 11) | Time steps: 14310 | Learning steps: 178
+First 10 actions: [9, 6, 2, 10, 2, 12, 12, 3, 12, 8]
+Rewards of actions: ['50.82', '-15.00', '-10.00', '33.16', '-40.00', '0.41', '-40.00', '0.00', '-40.00', '0.00']
+Image: 263 (20.37s) | Score: -1530.542 (Repetitions: 43) | Time steps: 14369 | Learning steps: 179
+First 10 actions: [11, 14, 10, 14, 8, 3, 6, 15, 13, 10]
+Rewards of actions: ['156.05', '-15.00', '44.22', '-40.00', '0.00', '0.00', '0.00', '0.00', '0.00', '-40.00']
+Image: 264 (21.16s) | Score: -1254.974 (Repetitions: 33) | Time steps: 14418 | Learning steps: 180
+First 10 actions: [4, 15, 10, 9, 7, 3, 11, 1, 13, 1]
+Rewards of actions: ['0.62', '-15.00', '44.22', '12.71', '0.00', '0.00', '22.29', '0.00', '0.00', '-40.00']
+Image: 265 (2.86s) | Score: -1737.131 (Repetitions: 45) | Time steps: 14479 | Learning steps: 180
+First 10 actions: [5, 12, 9, 14, 11, 6, 6, 10, 7, 5]
+Rewards of actions: ['1.90', '1.23', '16.94', '-5.00', '31.21', '0.00', '-40.00', '16.58', '0.00', '-40.00']
+Image: 266 (20.41s) | Score: -1254.762 (Repetitions: 33) | Time steps: 14528 | Learning steps: 181
+First 10 actions: [1, 10, 8, 8, 13, 11, 5, 10, 12, 15]
+Rewards of actions: ['-20.00', '66.33', '-10.00', '-40.00', '0.00', '26.01', '0.27', '-40.00', '0.27', '0.00']
+Image: 267 (20.23s) | Score: -1232.396 (Repetitions: 36) | Time steps: 14580 | Learning steps: 182
+First 10 actions: [10, 11, 10, 2, 11, 6, 3, 0, 10, 0]
+Rewards of actions: ['132.65', '78.03', '-40.00', '-5.00', '-40.00', '0.00', '0.00', '0.00', '-40.00', '-40.00']
+Image: 268 (2.60s) | Score: -1501.198 (Repetitions: 37) | Time steps: 14633 | Learning steps: 182
+First 10 actions: [2, 7, 8, 8, 0, 6, 0, 12, 3, 10]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-40.00', '0.00', '0.00', '-40.00', '0.31', '0.00', '13.27']
+Image: 269 (20.16s) | Score: -1105.866 (Repetitions: 27) | Time steps: 14676 | Learning steps: 183
+First 10 actions: [6, 13, 1, 7, 14, 14, 7, 15, 11, 15]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '0.00', '-40.00', '-40.00', '0.00', '17.34', '-40.00']
+Image: 270 (21.50s) | Score: -1888.459 (Repetitions: 48) | Time steps: 14740 | Learning steps: 184
+First 10 actions: [13, 0, 10, 8, 0, 11, 3, 0, 8, 0]
+Rewards of actions: ['-20.00', '-15.00', '44.22', '-5.00', '-40.00', '26.01', '0.00', '-40.00', '-40.00', '-40.00']
+Image: 271 (20.64s) | Score: -1940.723 (Repetitions: 49) | Time steps: 14805 | Learning steps: 185
+First 10 actions: [1, 14, 10, 7, 4, 9, 12, 2, 6, 7]
+Rewards of actions: ['-20.00', '-15.00', '44.22', '-5.00', '0.12', '8.47', '0.35', '0.00', '0.00', '-40.00']
+Image: 272 (2.68s) | Score: -1657.355 (Repetitions: 41) | Time steps: 14862 | Learning steps: 185
+First 10 actions: [1, 1, 8, 7, 9, 13, 0, 13, 9, 7]
+Rewards of actions: ['-20.00', '-40.00', '-10.00', '-5.00', '10.16', '0.00', '0.00', '-40.00', '-40.00', '-40.00']
+Image: 273 (19.88s) | Score: -814.766 (Repetitions: 20) | Time steps: 14898 | Learning steps: 186
+First 10 actions: [14, 2, 5, 3, 5, 8, 0, 4, 8, 11]
+Rewards of actions: ['-20.00', '-15.00', '0.63', '-5.00', '-40.00', '0.00', '0.00', '0.08', '-40.00', '15.61']
+Image: 274 (1.90s) | Score: -693.592 (Repetitions: 18) | Time steps: 14932 | Learning steps: 186
+First 10 actions: [14, 0, 13, 11, 10, 6, 10, 15, 9, 10]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '39.01', '26.53', '0.00', '-40.00', '0.00', '5.65', '-40.00']
+Image: 275 (20.58s) | Score: -1410.526 (Repetitions: 37) | Time steps: 14985 | Learning steps: 187
+First 10 actions: [0, 9, 11, 13, 2, 2, 12, 10, 7, 10]
+Rewards of actions: ['-20.00', '25.41', '52.02', '-5.00', '0.00', '-40.00', '0.35', '16.58', '0.00', '-40.00']
+Image: 276 (2.13s) | Score: -979.087 (Repetitions: 24) | Time steps: 15025 | Learning steps: 187
+First 10 actions: [15, 14, 15, 14, 7, 6, 13, 7, 0, 5]
+Rewards of actions: ['-20.00', '-15.00', '-40.00', '-40.00', '0.00', '0.00', '0.00', '-40.00', '0.00', '0.19']
+Image: 277 (22.06s) | Score: -2566.367 (Repetitions: 64) | Time steps: 15105 | Learning steps: 188
+First 10 actions: [5, 1, 6, 14, 0, 1, 13, 9, 2, 10]
+Rewards of actions: ['1.90', '-15.00', '-10.00', '-5.00', '0.00', '-40.00', '0.00', '6.35', '0.00', '13.27']
+Image: 278 (20.25s) | Score: -1585.925 (Repetitions: 43) | Time steps: 15164 | Learning steps: 189
+First 10 actions: [10, 13, 0, 3, 4, 11, 4, 13, 8, 9]
+Rewards of actions: ['132.65', '-15.00', '-10.00', '-5.00', '0.12', '26.01', '-40.00', '-40.00', '0.00', '5.08']
+Image: 279 (1.77s) | Score: -544.789 (Repetitions: 14) | Time steps: 15194 | Learning steps: 189
+First 10 actions: [0, 5, 15, 5, 11, 9, 2, 7, 4, 11]
+Rewards of actions: ['-20.00', '0.95', '-10.00', '-40.00', '31.21', '8.47', '0.00', '0.00', '0.07', '-40.00']
+Image: 280 (20.35s) | Score: -1064.490 (Repetitions: 31) | Time steps: 15241 | Learning steps: 190
+First 10 actions: [11, 4, 9, 13, 9, 9, 0, 14, 4, 14]
+Rewards of actions: ['156.05', '0.31', '16.94', '-5.00', '-40.00', '-40.00', '0.00', '0.00', '-40.00', '-40.00']
+Image: 281 (21.35s) | Score: -1815.300 (Repetitions: 46) | Time steps: 15303 | Learning steps: 191
+First 10 actions: [7, 4, 9, 0, 5, 9, 10, 4, 13, 1]
+Rewards of actions: ['-20.00', '0.31', '16.94', '-5.00', '0.38', '-40.00', '18.95', '-40.00', '0.00', '0.00']
+Image: 282 (2.43s) | Score: -1273.670 (Repetitions: 33) | Time steps: 15352 | Learning steps: 191
+First 10 actions: [7, 10, 8, 3, 7, 0, 2, 13, 2, 9]
+Rewards of actions: ['-20.00', '66.33', '-10.00', '-5.00', '-40.00', '0.00', '0.00', '0.00', '-40.00', '5.08']
+Image: 283 (20.73s) | Score: -2171.491 (Repetitions: 54) | Time steps: 15422 | Learning steps: 192
+First 10 actions: [1, 12, 7, 12, 4, 9, 6, 8, 14, 12]
+Rewards of actions: ['-20.00', '1.23', '-10.00', '-40.00', '0.12', '8.47', '0.00', '0.00', '0.00', '-40.00']
+Image: 284 (20.79s) | Score: -2060.002 (Repetitions: 52) | Time steps: 15490 | Learning steps: 193
+First 10 actions: [0, 1, 10, 8, 9, 7, 9, 7, 3, 12]
+Rewards of actions: ['-20.00', '-15.00', '44.22', '-5.00', '10.16', '0.00', '-40.00', '-40.00', '0.00', '0.25']
+Image: 285 (20.30s) | Score: -1651.499 (Repetitions: 41) | Time steps: 15547 | Learning steps: 194
+First 10 actions: [0, 3, 7, 4, 5, 13, 11, 12, 5, 0]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '0.15', '0.38', '0.00', '22.29', '0.31', '-40.00', '-40.00']
+Image: 286 (1.80s) | Score: -626.374 (Repetitions: 15) | Time steps: 15578 | Learning steps: 194
+First 10 actions: [1, 7, 2, 13, 0, 13, 13, 5, 2, 4]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '0.00', '-40.00', '-40.00', '0.24', '-40.00', '0.06']
+Image: 287 (20.04s) | Score: -634.342 (Repetitions: 16) | Time steps: 15610 | Learning steps: 195
+First 10 actions: [15, 2, 9, 5, 4, 7, 3, 15, 3, 11]
+Rewards of actions: ['-20.00', '-15.00', '16.94', '0.47', '0.12', '0.00', '0.00', '-40.00', '-40.00', '15.61']
+Image: 288 (2.11s) | Score: -949.163 (Repetitions: 24) | Time steps: 15650 | Learning steps: 195
+First 10 actions: [1, 5, 12, 14, 4, 4, 14, 11, 0, 7]
+Rewards of actions: ['-20.00', '0.95', '0.82', '-5.00', '0.12', '-40.00', '-40.00', '19.51', '0.00', '0.00']
+Image: 289 (19.55s) | Score: -859.380 (Repetitions: 21) | Time steps: 15687 | Learning steps: 196
+First 10 actions: [15, 0, 2, 1, 2, 10, 2, 13, 8, 6]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-5.00', '-40.00', '22.11', '-40.00', '0.00', '0.00', '0.00']
+Image: 290 (2.60s) | Score: -1500.898 (Repetitions: 39) | Time steps: 15742 | Learning steps: 196
+First 10 actions: [9, 12, 0, 7, 8, 15, 7, 6, 8, 7]
+Rewards of actions: ['50.82', '1.23', '-10.00', '-5.00', '0.00', '0.00', '-40.00', '0.00', '-40.00', '-40.00']
+Image: 291 (19.70s) | Score: -1131.297 (Repetitions: 30) | Time steps: 15788 | Learning steps: 197
+First 10 actions: [9, 5, 3, 6, 9, 11, 4, 12, 12, 13]
+Rewards of actions: ['50.82', '0.95', '-10.00', '-5.00', '-40.00', '26.01', '0.09', '0.31', '-40.00', '0.00']
+Image: 292 (20.15s) | Score: -1462.926 (Repetitions: 36) | Time steps: 15840 | Learning steps: 198
+First 10 actions: [0, 7, 6, 9, 13, 15, 9, 3, 12, 3]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '12.71', '0.00', '0.00', '-40.00', '0.00', '0.27', '-40.00']
+Image: 293 (23.13s) | Score: -4165.416 (Repetitions: 104) | Time steps: 15960 | Learning steps: 199
+First 10 actions: [3, 15, 2, 10, 8, 12, 10, 8, 10, 1]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '33.16', '0.00', '0.41', '-40.00', '-40.00', '-40.00', '0.00']
+Image: 294 (20.83s) | Score: -1571.591 (Repetitions: 39) | Time steps: 16015 | Learning steps: 200
+First 10 actions: [13, 3, 15, 15, 2, 1, 10, 1, 3, 10]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-40.00', '0.00', '0.00', '18.95', '-40.00', '-40.00', '-40.00']
+Image: 295 (21.25s) | Score: -2452.872 (Repetitions: 62) | Time steps: 16093 | Learning steps: 201
+First 10 actions: [8, 12, 5, 7, 10, 15, 14, 9, 11, 15]
+Rewards of actions: ['-20.00', '1.23', '0.63', '-5.00', '26.53', '0.00', '0.00', '6.35', '17.34', '-40.00']
+Image: 296 (2.65s) | Score: -1540.124 (Repetitions: 40) | Time steps: 16149 | Learning steps: 201
+First 10 actions: [9, 9, 1, 4, 8, 5, 9, 15, 5, 6]
+Rewards of actions: ['50.82', '-40.00', '-10.00', '0.15', '0.00', '0.32', '-40.00', '0.00', '-40.00', '0.00']
+Image: 297 (20.60s) | Score: -765.780 (Repetitions: 19) | Time steps: 16184 | Learning steps: 202
+First 10 actions: [0, 15, 8, 15, 10, 14, 15, 13, 6, 14]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '-40.00', '26.53', '0.00', '-40.00', '0.00', '0.00', '-40.00']
+Image: 298 (21.61s) | Score: -1925.880 (Repetitions: 48) | Time steps: 16248 | Learning steps: 203
+First 10 actions: [7, 15, 3, 10, 14, 7, 12, 12, 0, 13]
+Rewards of actions: ['-20.00', '-15.00', '-10.00', '33.16', '0.00', '-40.00', '0.35', '-40.00', '0.00', '0.00']
+Image: 299 (3.10s) | Score: -1946.306 (Repetitions: 52) | Time steps: 16316 | Learning steps: 203
+First 10 actions: [10, 14, 5, 9, 14, 13, 12, 1, 5, 10]
+Rewards of actions: ['132.65', '-15.00', '0.63', '12.71', '-40.00', '0.00', '0.35', '0.00', '-40.00', '-40.00']
